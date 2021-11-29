@@ -2881,6 +2881,9 @@ animation45.pattern0,overlay,24500,0,0,0
 animation50.interval,bind+runonce
 animation50.pattern0,overlay,24999,0,0,0
 
+animation90.interval,bind+runonce
+animation90.pattern0,overlay,20111,0,0,0
+
 //ŠÔ‚PƒPƒ^
 animation100.interval,bind+runonce
 animation100.pattern0,overlay,21000,0,0,0

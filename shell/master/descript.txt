@@ -48,6 +48,9 @@ kero.bindgroup45.name,ストック,５
 kero.bindgroup50.name,ストック,無限
 kero.bindgroup45.default,1
 
+kero.bindgroup90.name,生えっち解禁,解禁中
+
+
 kero.bindgroup100.name,時間１ケタ,０
 kero.bindgroup105.name,時間１ケタ,５
 kero.bindgroup110.name,時間１ケタ,無限
