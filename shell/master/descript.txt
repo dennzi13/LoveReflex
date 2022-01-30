@@ -12,13 +12,19 @@ sakura.bindgroup10.name,オナホ,精液
 
 sakura.bindgroup100.name,使用済ゴム１,使用済
 sakura.bindgroup101.name,使用済ゴム２,使用済
-sakura.bindgroup102.name,使用済ゴム３,使用済
+sakura.bindgroup103.name,使用済ゴム３,使用済
+sakura.bindgroup106.name,使用済ゴム４,使用済
+sakura.bindgroup107.name,使用済ゴム５,使用済
+sakura.bindgroup108.name,使用済ゴム６,使用済
+
+sakura.bindgroup102.name,他客使用済ゴム１,使用済
+sakura.bindgroup104.name,他客使用済ゴム２,使用済
+sakura.bindgroup105.name,他客使用済ゴム３,使用済
 
 sakura.bindgroup200.name,メガネ,赤縁メガネ（アンダーリム）
 sakura.bindgroup201.name,メガネ,赤縁メガネ（フルリム）
 
 
-ｄ
 kero.bindgroup10.name,射精ゲージ,０
 kero.bindgroup11.name,射精ゲージ,１
 kero.bindgroup12.name,射精ゲージ,２

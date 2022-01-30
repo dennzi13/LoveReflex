@@ -740,6 +740,33 @@ element3,overlay,surface10313.png,0,0
 element4,overlay,surface10400.png,0,0
 }
 
+surface0057
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//î˚
+element1,overlay,surface10101.png,0,0
+//ñ⁄
+element2,overlay,surface10202.png,0,0
+//å˚
+element3,overlay,surface10313.png,0,0
+//ñj
+element4,overlay,surface10400.png,0,0
+}
+
+surface0058
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//î˚
+element1,overlay,surface10101.png,0,0
+//ñ⁄
+element2,overlay,surface10206.png,0,0
+//å˚
+element3,overlay,surface10313.png,0,0
+//ñj
+element4,overlay,surface10400.png,0,0
+}
 
 surface0100
 {
@@ -1445,6 +1472,8 @@ element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
 }
+
+
 
 surface0200
 {
@@ -2172,6 +2201,34 @@ element0,overlay,surface10004.png,0,0
 element1,overlay,surface10101.png,0,0
 //ñ⁄
 element2,overlay,surface10201.png,0,0
+//å˚
+element3,overlay,surface10313.png,0,0
+//ñj
+element4,overlay,surface10400.png,0,0
+}
+
+surface0257
+{
+//Base
+element0,overlay,surface10004.png,0,0
+//î˚
+element1,overlay,surface10101.png,0,0
+//ñ⁄
+element2,overlay,surface10202.png,0,0
+//å˚
+element3,overlay,surface10313.png,0,0
+//ñj
+element4,overlay,surface10400.png,0,0
+}
+
+surface0258
+{
+//Base
+element0,overlay,surface10004.png,0,0
+//î˚
+element1,overlay,surface10101.png,0,0
+//ñ⁄
+element2,overlay,surface10206.png,0,0
 //å˚
 element3,overlay,surface10313.png,0,0
 //ñj
@@ -2988,7 +3045,7 @@ collisionex1,ÉQÅ[ÉW,polygon,13,78,34,69,75,64,123,63,158,68,169,59,176,62,185,70
 
 
 
-surface0-9,11-45,50-56
+surface0-9,11-45,50-58
 {
 collisionex1,å˚,polygon,159,195,175,195,180,213,165,218,153,211
 collisionex2,ãπ,polygon,126,253,87,264,58,289,47,318,54,343,78,357,99,360,140,352,174,362,204,363,228,345,236,314,232,283,220,263,215,257
@@ -3009,9 +3066,31 @@ animation100.collisionex100,égópçœÉSÉÄ,polygon,186,425,183,447,177,472,188,489,1
 animation101.interval,bind+runonce
 animation101.pattern0,overlay,10405,0,0,0
 animation101.collisionex100,égópçœÉSÉÄ,polygon,91,408,87,424,79,441,79,456,90,468,102,454,98,426
+animation103.interval,bind+runonce
+animation103.pattern0,overlay,10406,0,0,0
+animation103.collisionex100,égópçœÉSÉÄ,polygon,113,432,120,459,119,484,112,497,103,487,97,470,109,450
+animation106.interval,bind+runonce
+animation106.pattern0,overlay,10413,0,0,0
+animation106.collisionex100,égópçœÉSÉÄ,polygon,112,268,106,264,98,285,93,304,100,313,107,316,110,310,115,299,114,284
+animation107.interval,bind+runonce
+animation107.pattern0,overlay,10414,0,0,0
+animation107.collisionex100,égópçœÉSÉÄ,polygon,235,524,234,534,229,547,231,557,237,566,243,559,244,543,240,528,240,522
+animation108.interval,bind+runonce
+animation108.pattern0,overlay,10415,0,0,0
+animation108.collisionex100,égópçœÉSÉÄ,polygon,221,523,220,533,216,540,214,552,217,560,223,564,228,558,233,548,232,536,229,529,227,523
+
+//ëºãqégópçœÉSÉÄ
 animation102.interval,bind+runonce
-animation102.pattern0,overlay,10406,0,0,0
-animation102.collisionex100,égópçœÉSÉÄ,polygon,113,432,120,459,119,484,112,497,103,487,97,470,109,450
+animation102.pattern0,overlay,10416,0,0,0
+animation102.collisionex100,ëºãqégópçœÉSÉÄ,polygon,101,417,101,435,108,453,106,469,99,477,96,473,89,467,88,452,94,435,97,414
+animation104.interval,bind+runonce
+animation104.pattern0,overlay,10417,0,0,0
+animation104.collisionex100,ëºãqégópçœÉSÉÄ,polygon,180,433,178,452,169,474,171,486,180,489,181,493,186,487,192,470,184,447,182,432
+animation105.interval,bind+runonce
+animation105.pattern0,overlay,10418,0,0,0
+animation105.collisionex100,ëºãqégópçœÉSÉÄ,polygon,212,464,203,470,198,471,199,480,205,477,210,475,212,468
+
+
 
 //ä·ãæ
 animation200.interval,bind+runonce
@@ -3021,7 +3100,7 @@ animation201.pattern0,overlay,10412,0,0,0
 
 }
 
-surface100-156
+surface100-158
 {
 animation10.interval,bind
 animation10.pattern0,overlay,10403,0,0,0
@@ -3035,10 +3114,29 @@ animation100.collisionex100,égópçœÉSÉÄ,polygon,186,425,183,447,177,472,188,489,1
 animation101.interval,bind+runonce
 animation101.pattern0,overlay,10405,0,0,0
 animation101.collisionex100,égópçœÉSÉÄ,polygon,91,408,87,424,79,441,79,456,90,468,102,454,98,426
-animation102.interval,bind+runonce
-animation102.pattern0,overlay,10406,0,0,0
-animation102.collisionex100,égópçœÉSÉÄ,polygon,113,432,120,459,119,484,112,497,103,487,97,470,109,450
+animation103.interval,bind+runonce
+animation103.pattern0,overlay,10406,0,0,0
+animation103.collisionex100,égópçœÉSÉÄ,polygon,113,432,120,459,119,484,112,497,103,487,97,470,109,450
+animation106.interval,bind+runonce
+animation106.pattern0,overlay,10413,0,0,0
+animation106.collisionex100,égópçœÉSÉÄ,polygon,112,268,106,264,98,285,93,304,100,313,107,316,110,310,115,299,114,284
+animation107.interval,bind+runonce
+animation107.pattern0,overlay,10414,0,0,0
+animation107.collisionex100,égópçœÉSÉÄ,polygon,235,524,234,534,229,547,231,557,237,566,243,559,244,543,240,528,240,522
+animation108.interval,bind+runonce
+animation108.pattern0,overlay,10415,0,0,0
+animation108.collisionex100,égópçœÉSÉÄ,polygon,221,523,220,533,216,540,214,552,217,560,223,564,228,558,233,548,232,536,229,529,227,523
 
+//ëºãqégópçœÉSÉÄ
+animation102.interval,bind+runonce
+animation102.pattern0,overlay,10416,0,0,0
+animation102.collisionex100,ëºãqégópçœÉSÉÄ,polygon,101,417,101,435,108,453,106,469,99,477,96,473,89,467,88,452,94,435,97,414
+animation104.interval,bind+runonce
+animation104.pattern0,overlay,10417,0,0,0
+animation104.collisionex100,ëºãqégópçœÉSÉÄ,polygon,180,433,178,452,169,474,171,486,180,489,181,493,186,487,192,470,184,447,182,432
+animation105.interval,bind+runonce
+animation105.pattern0,overlay,10418,0,0,0
+animation105.collisionex100,ëºãqégópçœÉSÉÄ,polygon,212,464,203,470,198,471,199,480,205,477,210,475,212,468
 //ä·ãæ
 animation200.interval,bind+runonce
 animation200.pattern0,overlay,10411,0,0,0
@@ -3047,7 +3145,7 @@ animation201.pattern0,overlay,10412,0,0,0
 }
 
 
-surface200-256
+surface200-258
 {
 element5,overlay,surface10407.png,0,0
 
@@ -3070,9 +3168,19 @@ animation100.collisionex100,égópçœÉSÉÄ,polygon,190,437,195,474,198,485,193,498,1
 animation101.interval,bind+runonce
 animation101.pattern0,overlay,10409,0,0,0
 animation101.collisionex100,égópçœÉSÉÄ,polygon,173,444,179,468,185,495,175,508,164,497,162,482,169,466
-animation102.interval,bind+runonce
-animation102.pattern0,overlay,10410,0,0,0
-animation102.collisionex100,égópçœÉSÉÄ,polygon,81,442,85,461,88,483,81,501,75,495,67,475,79,458
+animation103.interval,bind+runonce
+animation103.pattern0,overlay,10410,0,0,0
+animation103.collisionex100,égópçœÉSÉÄ,polygon,81,442,85,461,88,483,81,501,75,495,67,475,79,458
+animation106.interval,bind+runonce
+animation106.pattern0,overlay,10413,0,0,0
+animation106.collisionex100,égópçœÉSÉÄ,polygon,112,268,106,264,98,285,93,304,100,313,107,316,110,310,115,299,114,284
+animation107.interval,bind+runonce
+animation107.pattern0,overlay,10414,0,0,0
+animation107.collisionex100,égópçœÉSÉÄ,polygon,235,524,234,534,229,547,231,557,237,566,243,559,244,543,240,528,240,522
+animation108.interval,bind+runonce
+animation108.pattern0,overlay,10415,0,0,0
+animation108.collisionex100,égópçœÉSÉÄ,polygon,221,523,220,533,216,540,214,552,217,560,223,564,228,558,233,548,232,536,229,529,227,523
+
 
 //ä·ãæ
 animation200.interval,bind+runonce
@@ -3082,7 +3190,7 @@ animation201.pattern0,overlay,10412,0,0,0
 }
 
 
-surface300-356
+surface300-358
 {
 element5,overlay,surface10407.png,0,0
 
@@ -3098,9 +3206,19 @@ animation100.collisionex100,égópçœÉSÉÄ,polygon,190,437,195,474,198,485,193,498,1
 animation101.interval,bind+runonce
 animation101.pattern0,overlay,10409,0,0,0
 animation101.collisionex100,égópçœÉSÉÄ,polygon,173,444,179,468,185,495,175,508,164,497,162,482,169,466
-animation102.interval,bind+runonce
-animation102.pattern0,overlay,10410,0,0,0
-animation102.collisionex100,égópçœÉSÉÄ,polygon,81,442,85,461,88,483,81,501,75,495,67,475,79,458
+animation103.interval,bind+runonce
+animation103.pattern0,overlay,10410,0,0,0
+animation103.collisionex100,égópçœÉSÉÄ,polygon,81,442,85,461,88,483,81,501,75,495,67,475,79,458
+animation106.interval,bind+runonce
+animation106.pattern0,overlay,10413,0,0,0
+animation106.collisionex100,égópçœÉSÉÄ,polygon,112,268,106,264,98,285,93,304,100,313,107,316,110,310,115,299,114,284
+animation107.interval,bind+runonce
+animation107.pattern0,overlay,10414,0,0,0
+animation107.collisionex100,égópçœÉSÉÄ,polygon,235,524,234,534,229,547,231,557,237,566,243,559,244,543,240,528,240,522
+animation108.interval,bind+runonce
+animation108.pattern0,overlay,10415,0,0,0
+animation108.collisionex100,égópçœÉSÉÄ,polygon,221,523,220,533,216,540,214,552,217,560,223,564,228,558,233,548,232,536,229,529,227,523
+
 
 //ä·ãæ
 animation200.interval,bind+runonce
