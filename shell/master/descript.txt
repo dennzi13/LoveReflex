@@ -25,6 +25,16 @@ sakura.bindgroup200.name,メガネ,赤縁メガネ（アンダーリム）
 sakura.bindgroup201.name,メガネ,赤縁メガネ（フルリム）
 
 
+
+char2.bindgroup100.name,使用済ゴム１,使用済
+char2.bindgroup101.name,使用済ゴム２,使用済
+char2.bindgroup102.name,使用済ゴム３,使用済
+char2.bindgroup103.name,使用済ゴム４,使用済
+char2.bindgroup104.name,使用済ゴム５,使用済
+
+
+
+
 kero.bindgroup10.name,射精ゲージ,０
 kero.bindgroup11.name,射精ゲージ,１
 kero.bindgroup12.name,射精ゲージ,２
