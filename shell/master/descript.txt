@@ -7,8 +7,13 @@ craftmanw,“d¥
 craftmanurl,
 
 
+
 sakura.bindgroup10.name,ƒIƒiƒz,¸‰t
 
+sakura.bindgroup95.name,’f–Ê},‹ó
+sakura.bindgroup96.name,’f–Ê},’†o‚µ‚P
+sakura.bindgroup97.name,’f–Ê},’†o‚µ‚Q
+sakura.bindgroup98.name,’f–Ê},’†o‚µ‚R
 
 sakura.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
 sakura.bindgroup101.name,g—pÏƒSƒ€‚Q,g—pÏ
@@ -26,12 +31,49 @@ sakura.bindgroup201.name,ƒƒKƒl,Ô‰ƒƒKƒliƒtƒ‹ƒŠƒ€j
 
 
 
+char2.bindgroup95.name,’f–Ê},‹ó
+char2.bindgroup96.name,’f–Ê},’†o‚µ‚P
+char2.bindgroup97.name,’f–Ê},’†o‚µ‚Q
+char2.bindgroup98.name,’f–Ê},’†o‚µ‚R
+
 char2.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
 char2.bindgroup101.name,g—pÏƒSƒ€‚Q,g—pÏ
 char2.bindgroup102.name,g—pÏƒSƒ€‚R,g—pÏ
 char2.bindgroup103.name,g—pÏƒSƒ€‚S,g—pÏ
 char2.bindgroup104.name,g—pÏƒSƒ€‚T,g—pÏ
+char2.bindgroup105.name,g—pÏƒSƒ€‚U,g—pÏ
 
+
+char3.bindgroup95.name,’f–Ê},‹ó
+char3.bindgroup96.name,’f–Ê},’†o‚µ‚P
+char3.bindgroup97.name,’f–Ê},’†o‚µ‚Q
+char3.bindgroup98.name,’f–Ê},’†o‚µ‚R
+
+char3.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
+char3.bindgroup101.name,g—pÏƒSƒ€‚Q,g—pÏ
+char3.bindgroup102.name,g—pÏƒSƒ€‚R,g—pÏ
+char3.bindgroup103.name,g—pÏƒSƒ€‚S,g—pÏ
+char3.bindgroup104.name,g—pÏƒSƒ€‚T,g—pÏ
+char3.bindgroup105.name,g—pÏƒSƒ€‚U,g—pÏ
+
+
+
+char4.bindgroup95.name,’f–Ê},‹ó
+char4.bindgroup96.name,’f–Ê},’†o‚µ‚P
+char4.bindgroup97.name,’f–Ê},’†o‚µ‚Q
+char4.bindgroup98.name,’f–Ê},’†o‚µ‚R
+
+char4.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
+char4.bindgroup101.name,g—pÏƒSƒ€‚Q,g—pÏ
+char4.bindgroup102.name,g—pÏƒSƒ€‚R,g—pÏ
+char4.bindgroup103.name,g—pÏƒSƒ€‚S,g—pÏ
+char4.bindgroup104.name,g—pÏƒSƒ€‚T,g—pÏ
+char4.bindgroup105.name,g—pÏƒSƒ€‚U,g—pÏ
+
+
+char4.bindgroup200.name,ƒƒKƒl,Ô‰ƒƒKƒl
+
+char4.bindgroup210.name,–Xq,ƒLƒƒƒXƒPƒbƒg
 
 
 
