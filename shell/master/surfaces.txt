@@ -464,6 +464,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10303.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0033
@@ -478,6 +480,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10305.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0034
@@ -492,6 +496,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10308.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0035
@@ -662,6 +668,8 @@ element2,overlay,surface10202.png,0,0
 element3,overlay,surface10303.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0051
@@ -676,6 +684,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10308.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 
@@ -691,6 +701,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0053
@@ -705,6 +717,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 
@@ -721,6 +735,8 @@ element2,overlay,surface10207.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 
@@ -750,6 +766,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10313.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0057
@@ -1977,6 +1995,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10303.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0233
@@ -1991,6 +2011,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10305.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0234
@@ -2005,6 +2027,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10308.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0235
@@ -2175,6 +2199,8 @@ element2,overlay,surface10202.png,0,0
 element3,overlay,surface10303.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0251
@@ -2189,6 +2215,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10308.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 
@@ -2204,6 +2232,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0253
@@ -2218,6 +2248,8 @@ element2,overlay,surface10204.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0254
@@ -2232,6 +2264,8 @@ element2,overlay,surface10207.png,0,0
 element3,overlay,surface10310.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0255
@@ -2260,6 +2294,8 @@ element2,overlay,surface10201.png,0,0
 element3,overlay,surface10313.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0257
@@ -2274,6 +2310,8 @@ element2,overlay,surface10202.png,0,0
 element3,overlay,surface10313.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0258
@@ -2288,6 +2326,8 @@ element2,overlay,surface10206.png,0,0
 element3,overlay,surface10313.png,0,0
 //ñj
 element4,overlay,surface10400.png,0,0
+//ìíãC
+element5,overlay,surface10423.png,0,0
 }
 
 surface0300
@@ -3622,6 +3662,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30303.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0461
@@ -3636,6 +3678,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30306.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0462
@@ -3650,6 +3694,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30303.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0463
@@ -3664,6 +3710,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30306.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0464
@@ -3678,6 +3726,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30301.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0465
@@ -3692,6 +3742,8 @@ element2,overlay,surface30201.png,0,0
 element3,overlay,surface30302.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0466
@@ -3706,6 +3758,8 @@ element2,overlay,surface30207.png,0,0
 element3,overlay,surface30301.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0467
@@ -3720,6 +3774,8 @@ element2,overlay,surface30207.png,0,0
 element3,overlay,surface30302.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0468
@@ -3734,6 +3790,8 @@ element2,overlay,surface30207.png,0,0
 element3,overlay,surface30308.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 surface0469
@@ -3748,6 +3806,8 @@ element2,overlay,surface30207.png,0,0
 element3,overlay,surface30310.png,0,0
 //ñj
 element4,overlay,surface30400.png,0,0
+//ìíãC
+element5,overlay,surface30412.png,0,0
 }
 
 
@@ -4650,6 +4710,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40300.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0571
@@ -4664,6 +4726,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40301.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0572
@@ -4678,6 +4742,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40302.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0573
@@ -4692,6 +4758,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40304.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0574
@@ -4706,6 +4774,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40306.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0575
@@ -4720,6 +4790,8 @@ element2,overlay,surface40204.png,0,0
 element3,overlay,surface40308.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0576
@@ -4734,6 +4806,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40300.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0577
@@ -4748,6 +4822,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40301.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0578
@@ -4762,6 +4838,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40302.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0579
@@ -4776,6 +4854,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40304.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0580
@@ -4790,6 +4870,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40306.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0581
@@ -4804,6 +4886,8 @@ element2,overlay,surface40201.png,0,0
 element3,overlay,surface40308.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 
@@ -4819,6 +4903,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40300.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0583
@@ -4833,6 +4919,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40301.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0584
@@ -4847,6 +4935,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40302.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0585
@@ -4861,6 +4951,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40304.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0586
@@ -4875,6 +4967,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40306.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0587
@@ -4889,6 +4983,8 @@ element2,overlay,surface40207.png,0,0
 element3,overlay,surface40308.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0588
@@ -4903,6 +4999,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40300.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0589
@@ -4917,6 +5015,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40301.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0590
@@ -4931,6 +5031,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40302.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0591
@@ -4945,6 +5047,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40304.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0592
@@ -4959,6 +5063,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40306.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0593
@@ -4973,6 +5079,8 @@ element2,overlay,surface40206.png,0,0
 element3,overlay,surface40308.png,0,0
 //ñj
 element4,overlay,surface40401.png,0,0
+//ìíãC
+element5,overlay,surface40412.png,0,0
 }
 
 surface0600
@@ -5833,6 +5941,91 @@ element3,overlay,surface50301.png,0,0
 element4,overlay,surface50401.png,0,0
 }
 
+surface0662
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50301.png,0,0
+//ñj
+element4,overlay,surface50400.png,0,0
+}
+
+surface0663
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50307.png,0,0
+//ñj
+element4,overlay,surface50400.png,0,0
+}
+
+surface0664
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50313.png,0,0
+//ñj
+element4,overlay,surface50400.png,0,0
+}
+
+
+surface0665
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50301.png,0,0
+//ñj
+element4,overlay,surface50401.png,0,0
+}
+
+surface0666
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50307.png,0,0
+//ñj
+element4,overlay,surface50401.png,0,0
+}
+
+surface0667
+{
+//Base
+element0,overlay,surface50000.png,0,0
+//î˚
+element1,overlay,surface50101.png,0,0
+//ñ⁄
+element2,overlay,surface50206.png,0,0
+//å˚
+element3,overlay,surface50313.png,0,0
+//ñj
+element4,overlay,surface50401.png,0,0
+}
+
 surface0680
 {
 //Base
@@ -6314,7 +6507,7 @@ animation201.pattern0,overlay,10412,0,0,0
 
 surface200-258
 {
-element5,overlay,surface10407.png,0,0
+element10,overlay,surface10407.png,0,0
 
 collisionex1,å˚,polygon,159,195,175,195,180,213,165,218,153,211
 collisionex2,ãπ,polygon,126,253,87,264,58,289,47,318,54,343,78,357,99,360,140,352,174,362,204,363,228,345,236,314,232,283,220,263,215,257
@@ -6493,6 +6686,9 @@ animation105.collisionex105,égópçœÉSÉÄ,polygon,110,562,107,582,102,604,107,616,1
 
 surface600-699
 {
+//satolist.surface.default,200,0
+//satolist.palette.offset,132,144
+//satolist.palette.expand,0.8
 collisionex1,å˚,polygon,189,222,201,222,211,243,194,249,179,240
 collisionex2,ãπ,polygon,127,307,181,312,253,318,261,329,274,372,278,391,277,415,265,434,244,447,227,452,188,446,169,440,140,438,110,441,81,438,62,425,52,401,52,377,59,355,79,333,107,319
 collisionex3,é®,polygon,153,28,159,35,179,57,192,89,192,96,166,107,146,134,140,112,139,81,147,54
