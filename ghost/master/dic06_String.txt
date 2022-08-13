@@ -41,10 +41,12 @@ https://raw.githubusercontent.com/dennzi13/LoveReflex/master/
 ＠username
 （ユーザ名） 
 
-
+＃着せ替え非表示
 ＠dressuprootbutton.visible
 0
-
+＃シェル切り替え非表示
+＠shellrootbutton.visible
+0
 
 
 ＊コメント

@@ -8,7 +8,7 @@
 
 ＊OnInstallComplete
 φ（（Ｒ１）/（Ｒ０）をインストールしましたφ）
-
+（call、追加シェル存在チェック）
 
 
 
@@ -26,13 +26,11 @@
 ：壁紙を変更しました。
 
 
-＊OnShellChanging
-：着替えでゴー。
-：名句。
+＃＊OnShellChanging
+＃：着替えでゴー。
+＃：名句。
 
-＊OnShellChanged
-：（０）どぉ？
-：むー。
+
 
 
 ＊OnUpdateBegin

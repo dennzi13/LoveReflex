@@ -6,8 +6,6 @@ type,shell
 craftmanw,電磁
 craftmanurl,
 
-
-
 sakura.bindgroup10.name,オナホ,精液
 
 sakura.bindgroup95.name,断面図,空
@@ -70,10 +68,33 @@ char4.bindgroup103.name,使用済ゴム４,使用済
 char4.bindgroup104.name,使用済ゴム５,使用済
 char4.bindgroup105.name,使用済ゴム６,使用済
 
-
 char4.bindgroup200.name,メガネ,赤縁メガネ
-
 char4.bindgroup210.name,帽子,キャスケット
+
+
+char5.bindgroup0.name,立ち絵,通常
+char5.bindgroup0.default,1
+char5.bindgroup1.name,立ち絵,たくし上げ
+char5.bindgroup2.name,立ち絵,たくし上げ射精後
+char5.bindgroup100.name,使用済ゴム１,使用済
+char5.bindgroup101.name,使用済ゴム２,使用済
+char5.bindgroup102.name,使用済ゴム３,使用済
+char5.bindgroup103.name,使用済ゴム４,使用済
+char5.bindgroup104.name,使用済ゴム５,使用済
+char5.bindgroup105.name,使用済ゴム６,使用済
+
+
+char6.bindgroup95.name,断面図,空
+char6.bindgroup96.name,断面図,中出し１
+char6.bindgroup97.name,断面図,中出し２
+char6.bindgroup98.name,断面図,中出し３
+
+char6.bindgroup100.name,使用済ゴム１,使用済
+char6.bindgroup101.name,使用済ゴム２,使用済
+char6.bindgroup102.name,使用済ゴム３,使用済
+char6.bindgroup103.name,使用済ゴム４,使用済
+char6.bindgroup104.name,使用済ゴム５,使用済
+char6.bindgroup105.name,使用済ゴム６,使用済
 
 
 
