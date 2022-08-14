@@ -450,10 +450,13 @@
 （set、膣内射精後フラグ、１）
 
 ＠追加シェル存在チェック
-\![get,property,コスプレシェル存在チェック,currentghost.shelllist(costumeplay).name]
+\![get,property,コスプレシェル存在チェック,currentghost.shelllist(costumeplay).name]\![get,property,シェル数取得,currentghost.shelllist.count]
 
 ＠コスプレシェル存在チェック
 （when、（is_empty、（Ｒ０））、（set、コスプレシェルフラグ、０）、（set、コスプレシェルフラグ、１））
+
+＠シェル数取得
+（when、（Ｒ０）＞１、（set、コスプレシェルフラグ、１）、（set、コスプレシェルフラグ、０））
 
 ＠コスプレ系処理リセット
 （when、（コスプレ中Ｆ）＝＝１、\![change,shell,master]）（set、コスプレ中Ｆ、０）（set、現在ポーズ、１）

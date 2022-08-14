@@ -5,12 +5,12 @@ file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393da
 file,ghost/master/dic01_Base.txt9e9c928c8a3f7f76fe16b3e8b6b708aesize=18760date=2022-03-06T18:45:55
 file,ghost/master/dic02_Event.txtc01366a26a6388f8f76a559f9c08a6fbsize=2468date=2022-08-12T05:40:42
 file,ghost/master/dic03_Menu.txt9a809d899ebd14d83a84ce14f4b31c05size=16774date=2022-08-12T06:16:52
-file,ghost/master/dic04_Change.txt3a8bae5c109876771b516b8fecf3dcc8size=1939date=2021-11-29T21:13:09
+file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-08-14T21:41:33
 file,ghost/master/dic05_Talk.txt1a8fd820abbbbb6aeca6f752b4ab09e6size=9510date=2022-03-27T04:09:30
 file,ghost/master/dic06_String.txt968b7be463b9f8143146608e8b9257f2size=4032date=2022-08-12T05:08:39
 file,ghost/master/dic07_Achievement.txt1f881311708e070924aa46e7f4d3e0b0size=21600date=2022-08-13T17:57:19
 file,ghost/master/dic08_Sawari.txt0d1a83337dbc95dbf4d73cfc1aed0851size=42803date=2022-08-13T01:12:43
-file,ghost/master/dic09_Function.txt253a7aef4a8c34ed2c2411d925191fe3size=24564date=2022-08-13T18:55:41
+file,ghost/master/dic09_Function.txt79f8dc7a2f3b18ed41046835a795fe6esize=24734date=2022-08-14T21:18:59
 file,ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997date=2022-03-06T19:39:59
 file,ghost/master/dic11_BaseMinumu.txt41849e87d22de3bfb229132f5f92a6d6size=1724date=2022-03-07T22:49:19
 file,ghost/master/dic13_MenuMinumu.txt8c9992c78dc5c1e8379656ac37157147size=2626date=2022-03-06T18:40:21
