@@ -5,8 +5,9 @@
 ‥	‥\w3
 ！	！\w9\w8
 \![open,browser	\\![open,browser
-ｖ	\_u[0x2764]\w9\w8
+ｖ	\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w8
 。	。\w9\w8
 、	、\w9
 ♪	♪\w9\w8
-?v	？\_u[0x2764]\w9\w5
+?v	？\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w5
+☆	☆\w9\w8
