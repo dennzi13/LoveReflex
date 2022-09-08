@@ -27,7 +27,7 @@ file,ghost/master/dic38_SawariMakana.txt894d5a346194dc9c10de9d49256290edsize=1
 file,ghost/master/dic41_BaseFirio.txtd41d8cd98f00b204e9800998ecf8427esize=0date=2022-04-22T16:51:48
 file,ghost/master/dic51_BaseChinayo.txt1da6718e4b895453d588c9c383e06942size=4810date=2022-09-08T23:26:39
 file,ghost/master/dic53_MenuChinayo.txtd766778c30cf0d260ca965ab5bcd28f3size=4273date=2022-09-08T23:19:28
-file,ghost/master/dic55_TalkChinayo.txt0e70e315e72abe4d393c0afe7734f023size=5577date=2022-09-08T23:19:28
+file,ghost/master/dic55_TalkChinayo.txt3510e579e8e32e5e00ffec9944976894size=5665date=2022-09-09T00:19:08
 file,ghost/master/dic58_SawariChinayo.txt4670ebc67031b1ce5d53b0a103bc6c41size=29137date=2022-09-08T22:15:58
 file,ghost/master/note.txt11441b4455ab07487a9485410672e895size=15849date=2022-09-01T04:09:44
 file,ghost/master/replace.txtf3eb3acffb64c4cfcfee4ba85887ce2asize=288date=2022-09-08T22:32:45
