@@ -40,6 +40,12 @@ WEB”èƒRƒƒ“ƒgFu¶ŠU“Æg‚ğŒê‚éƒ†ƒi‚³‚ñ‚ğ‰½“x‚àƒAƒNƒ‚³‚¹‚Ä‚¨‰Å‚³‚ñéŒ¾‚³‚¹‚½‚
 ”–3xxx”»’è“ü‚è
 ”ƒ†F\![move,-100,0,150,me,left,bottom] ƒÓcƒÓcƒÓcƒÓB
 
+–‚Ä‚·
+\![get,property,‚¤‚²‚«‚Ä‚·‚Æ,currentghost.scope(3).x]
+
+–‚¤‚²‚«‚Ä‚·‚Æ
+\p[5]i‚V‚Q‚Oj‚–\![move,icalcAi‚q‚Oj-300j,0,1000,screen,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]
+
 
 
 
@@ -303,7 +309,7 @@ T160/B110(M)/W60/H98
 T142/B103(H)/W56/H89
 
 
-œƒtƒBƒŠƒIiSBH-XXXj
+œƒtƒBƒŠƒIiSBH-XXXj			3ÎiƒqƒgŠ·Z”N—î‚Í15Î’ö“xj
 T146/
 í‘°:SBH
 
