@@ -4,13 +4,13 @@ file,ghost/master/descript.txtb8f033a4b190499dbb242ccd0e639237size=639date=20
 file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 file,ghost/master/dic01_Base.txtee8c17cd346dd8d0755fa10b8cad87c9size=19480date=2022-09-18T21:40:10
 file,ghost/master/dic02_Event.txtc01366a26a6388f8f76a559f9c08a6fbsize=2468date=2022-08-12T05:40:42
-file,ghost/master/dic03_Menu.txt9801e88904c748a6356eb946b4af5b3fsize=17751date=2022-10-13T03:06:32
+file,ghost/master/dic03_Menu.txtc8ca8c659508b67069891e35a6b46bdcsize=19068date=2022-10-31T19:27:57
 file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-08-14T21:41:33
 file,ghost/master/dic05_Talk.txt35cfafa305c7d346291af3059853e781size=10765date=2022-10-17T18:31:27
 file,ghost/master/dic06_String.txte2af797ee652589fdc7cf69a03de1923size=4311date=2022-09-11T16:36:51
-file,ghost/master/dic07_Achievement.txt02f5a935d73ee85bed6439b950379382size=24402date=2022-09-18T19:18:34
-file,ghost/master/dic08_Sawari.txt38be4a7a68159fb2ebd01ba1ed172879size=42722date=2022-09-11T16:43:11
-file,ghost/master/dic09_Function.txt69016a14f53ee3889b4a2ed269ab44bfsize=32583date=2022-10-17T19:37:27
+file,ghost/master/dic07_Achievement.txtbf7450bdaa8f6c11fb9ddbba675ddae4size=24902date=2022-10-31T19:26:10
+file,ghost/master/dic08_Sawari.txt5265e6b7434d5407265f964a06a6dac1size=49700date=2022-10-31T19:03:55
+file,ghost/master/dic09_Function.txta0d8e717d9b095eb21295078d92f9c39size=32614date=2022-10-31T18:45:20
 file,ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997date=2022-03-06T19:39:59
 file,ghost/master/dic11_BaseMinumu.txt41849e87d22de3bfb229132f5f92a6d6size=1724date=2022-03-07T22:49:19
 file,ghost/master/dic13_MenuMinumu.txt81289716fef7a1a57d637bea3feb45adsize=2638date=2022-09-11T05:29:31
@@ -39,7 +39,7 @@ file,ghost/master/replace_after.txt519477cb99223f4709aed1e4a0da3398size=279da
 file,ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064date=2002-01-31T12:48:00
 file,ghost/master/saori/ssu.dlle0b896432cd010eebf14722ede728d41size=253952date=2020-04-22T10:46:16
 file,ghost/master/satori.dll16752c1548945960595ff1a3deda6d09size=684032date=2020-04-22T10:45:54
-file,ghost/master/satori_conf.txtbfe3c39920edf878c36b7e1915395d07size=6260date=2022-10-13T03:06:32
+file,ghost/master/satori_conf.txt45eb2dbd2783db5509923a2a7fe80d59size=6314date=2022-10-31T18:45:20
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2015-05-13T11:57:02
 file,install.txt6cb80ea5daf9c16bdb9246a63eb1e175size=96date=2021-10-02T21:47:52
 file,readme.txt932c27d1343182706b27d066e9f63e92size=5433date=2022-09-18T21:45:31
