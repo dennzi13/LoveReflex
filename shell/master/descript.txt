@@ -55,6 +55,9 @@ char3.bindgroup104.name,使用済ゴム５,使用済
 char3.bindgroup105.name,使用済ゴム６,使用済
 
 
+char4.bindgroup0.name,バスローブ立ち絵,通常
+char4.bindgroup0.default,1
+char4.bindgroup1.name,バスローブ立ち絵,前開き
 
 char4.bindgroup95.name,断面図,空
 char4.bindgroup96.name,断面図,中出し１
