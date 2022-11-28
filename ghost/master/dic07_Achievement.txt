@@ -246,38 +246,36 @@
 
 
 ＊WEB拍手
-メ：\![quicksession,true]WEB拍手を送信する機能ですφ。任意でコメントを付けて送信することができますφ。
+メ：\_qWEB拍手を送信する機能ですφ。任意でコメントを付けて送信することができますφ。
 コメント内容はバグ報告φ、要望などご自由に入力くださいφ。要望については今後の更新の際に参考にさせていただくかもしれませんφ。
 
 \q[WEB拍手を送信,WEB拍手を送信]
 \q[コメント付きでWEB拍手を送信,コメント付きでWEB拍手を送信]
-\q[戻る,1つつかれ]
+\q[戻る,1つつかれ]\_q
 
 ＊WEB拍手を送信
-メ：\![quicksession,true]\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="",--async=WebClap,--timeout=2]送信しましたφ。
+メ：\_q\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="",--async=WebClap,--timeout=2]送信しましたφ。\_q
 
 \q[戻る,1つつかれ]
 
 ＊コメント付きでWEB拍手を送信
-メ：\![quicksession,true]コメント内容を入力してくださいφ。
+メ：\_qコメント内容を入力してくださいφ。
 ※InputBoxを閉じることで送信を中断することが来ますφ。\_q
 \![open,inputbox,WEB拍手内容]
 
 
 ＊WEB拍手内容を教えてもらった
-メ：\![quicksession,true]（WEB拍手内容）
+メ：\_q（WEB拍手内容）
 
 上記内容を送信しますφ。
 
 \q[送信する,コメ付き拍手送信]
-\q[送信しない,1つつかれ]
+\q[送信しない,1つつかれ]\_q
 
 ＊コメ付き拍手送信
-メ：\![quicksession,true]\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="WEB拍手コメント：「（WEB拍手内容）」",--async=WebClap,--timeout=2]送信しましたφ。
+メ：\_q\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="WEB拍手コメント：「（WEB拍手内容）」",--async=WebClap,--timeout=2]送信しましたφ。
 
-\q[戻る,1つつかれ]
-
-
+\q[戻る,1つつかれ]\_q
 
 
 ＊射精グラフ表示
