@@ -620,6 +620,20 @@ element3,overlay,surface30309.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
+surface0443
+{
+//Base
+element0,overlay,surface30000.png,0,0
+//”û
+element1,overlay,surface30101.png,0,0
+//–Ú
+element2,overlay,surface30205.png,0,0
+//Œû
+element3,overlay,surface30302.png,0,0
+//–j
+element4,overlay,surface30400.png,0,0
+}
+
 surface0460
 {
 //Base
