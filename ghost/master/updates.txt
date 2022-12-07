@@ -3,7 +3,7 @@ file,developer_options.txtc4d4ca3b2b2258c93f70a92a192f32f0size=544date=2021-1
 file,ghost/master/descript.txtb8f033a4b190499dbb242ccd0e639237size=639date=2022-02-27T22:59:51
 file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 file,ghost/master/dic01_Base.txt965fc660dae64174ebea828dd22d4d66size=19506date=2022-12-07T16:28:17
-file,ghost/master/dic02_Event.txtc40411c717a55a2dba4c6302fbc8bc21size=2825date=2022-12-07T17:12:32
+file,ghost/master/dic02_Event.txta3c05f06495815de94acc59e63079b57size=2954date=2022-12-07T19:25:03
 file,ghost/master/dic03_Menu.txta21dee2b7adc5911df853dce2bb0f4absize=19066date=2022-12-01T03:31:45
 file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 file,ghost/master/dic05_Talk.txt35cfafa305c7d346291af3059853e781size=10765date=2022-10-17T18:31:27

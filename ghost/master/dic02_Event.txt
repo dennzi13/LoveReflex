@@ -32,7 +32,14 @@
 
 
 ＊OnUpdateCheckComplete
+＞チェック後更新あり	（Ｒ０）！＝none
+＞チェック後更新なし
+
+＊チェック後更新あり
 ＄新規更新あり＝１
+
+＊チェック後更新なし
+＄新規更新あり＝０
 
 ＊OnUpdateCheckFailure
 ＄新規更新あり＝０
