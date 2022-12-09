@@ -2,7 +2,7 @@ developer_options.txtc4d4ca3b2b2258c93f70a92a192f32f0size=544date=2021-11-29T
 ghost/master/descript.txtb8f033a4b190499dbb242ccd0e639237size=639date=2022-02-27T22:59:51
 ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 ghost/master/dic01_Base.txt965fc660dae64174ebea828dd22d4d66size=19506date=2022-12-07T16:28:17
-ghost/master/dic02_Event.txta3c05f06495815de94acc59e63079b57size=2954date=2022-12-07T19:25:03
+ghost/master/dic02_Event.txte0802593dbfef0120bade825ec236ba1size=2972date=2022-12-09T19:33:13
 ghost/master/dic03_Menu.txta21dee2b7adc5911df853dce2bb0f4absize=19066date=2022-12-01T03:31:45
 ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 ghost/master/dic05_Talk.txt35cfafa305c7d346291af3059853e781size=10765date=2022-10-17T18:31:27
@@ -28,12 +28,12 @@ ghost/master/dic41_BaseFirio.txt83423e56d3fb0a795b5990399ec12f3esize=7256date
 ghost/master/dic43_MenuFirio.txt3c1f648f97ab7fbb96f8c23d2ac761e9size=5441date=2022-11-28T21:25:29
 ghost/master/dic45_TalkFirio.txt0946e4f1f1bfa2900c98be47faced326size=8721date=2022-10-17T19:35:10
 ghost/master/dic47_ExModeFirio.txt4f860d16fe81f440c1ef787381f0b34esize=2760date=2022-11-23T17:34:20
-ghost/master/dic48_SawariFirio.txt00ed7b0a8fa31ae4cb8584f51fc30465size=22728date=2022-12-02T17:30:46
-ghost/master/dic51_BaseChinayo.txtae94720d3b3e8ffb3ce8a768a1eb7793size=8918date=2022-12-07T16:59:09
+ghost/master/dic48_SawariFirio.txt0863f7346559f526413991fab728897dsize=23238date=2022-12-09T20:20:28
+ghost/master/dic51_BaseChinayo.txtfb008d5c3ab149c1469cc003bffc6795size=9046date=2022-12-08T21:41:12
 ghost/master/dic53_MenuChinayo.txtb815d0ba74f325500d3e61dc9589f3bfsize=5426date=2022-11-28T03:25:34
 ghost/master/dic55_TalkChinayo.txt891a17584f8b18fa9639554f2c3db49fsize=6554date=2022-11-28T21:25:29
 ghost/master/dic58_SawariChinayo.txt50eefbff00fc63d00993536752e9982dsize=34510date=2022-12-02T17:53:53
-ghost/master/dic_MiniEvent.txta2c2a711c58cc33b9d72bae0760cb5b1size=5200date=2022-12-07T19:07:40
+ghost/master/dic_MiniEvent.txtd4f76e8b4ad1f69b523ccbea2226b5a1size=7826date=2022-12-09T19:33:13
 ghost/master/note.txt18a63d1a90604f066e8df52afe8c4030size=20206date=2022-12-07T02:23:59
 ghost/master/replace.txt3debd252a6bac385df3d98c3cdbffa51size=359date=2022-12-03T03:32:52
 ghost/master/replace_after.txt519477cb99223f4709aed1e4a0da3398size=279date=2022-12-01T01:13:32
