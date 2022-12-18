@@ -214,6 +214,8 @@ http://nar.jpn.org/unyu/
 ＠char6.popupmenu.type
 0
 
+＠char7.popupmenu.type
+0
 
 ＠getaistate
 （zen2han、（総ゴム射精回数））,（zen2han、（総膣内射精回数））,（zen2han、（総パイズリ射精回数））,（zen2han、（総フェラ射精回数））,（zen2han、（総手コキ射精回数））,（zen2han、（総ふとももコキ射精回数））,（zen2han、（総自慰射精回数））（バイト値,１）ゴム射精,膣内射精,パイズリ射精,フェラ射精,手コキ射精,ふとももコキ射精,自慰射精

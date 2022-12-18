@@ -2,7 +2,6 @@
 ちゃんさん	ちゃん
 くんさん	くん
 …	…\w9
-‥	‥\w3
 ！	！\w9\w8
 \![open,browser	\\![open,browser
 ｖ	\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w8

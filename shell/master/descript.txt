@@ -99,6 +99,22 @@ char6.bindgroup103.name,g—pÏƒSƒ€‚S,g—pÏ
 char6.bindgroup104.name,g—pÏƒSƒ€‚T,g—pÏ
 char6.bindgroup105.name,g—pÏƒSƒ€‚U,g—pÏ
 
+char7.bindgroup95.name,’f–Ê},‹ó
+char7.bindgroup96.name,’f–Ê},’†o‚µ‚P
+char7.bindgroup97.name,’f–Ê},’†o‚µ‚Q
+char7.bindgroup98.name,’f–Ê},’†o‚µ‚R
+
+char7.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
+char7.bindgroup101.name,g—pÏƒSƒ€‚Q,g—pÏ
+char7.bindgroup102.name,g—pÏƒSƒ€‚R,g—pÏ
+char7.bindgroup103.name,g—pÏƒSƒ€‚S,g—pÏ
+char7.bindgroup104.name,g—pÏƒSƒ€‚T,g—pÏ
+char7.bindgroup105.name,g—pÏƒSƒ€‚U,g—pÏ
+
+char7.bindgroup200.name,ƒƒKƒl,ŠÛŠá‹¾
+char7.bindgroup200.default,1
+char7.bindgroup210.name,ƒwƒAƒsƒ“,ƒwƒAƒsƒ“
+char7.bindgroup210.default,1
 
 
 kero.bindgroup10.name,Ë¸ƒQ[ƒW,‚O

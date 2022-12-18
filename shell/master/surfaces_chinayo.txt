@@ -189,6 +189,20 @@ element3,overlay,surface70301.png,0,0
 element4,overlay,surface70400.png,0,0
 }
 
+surface0913
+{
+//Base
+element0,overlay,surface70000.png,0,0
+//”û
+element1,overlay,surface70101.png,0,0
+//–Ú
+element2,overlay,surface70209.png,0,0
+//Œû
+element3,overlay,surface70311.png,0,0
+//–j
+element4,overlay,surface70400.png,0,0
+}
+
 surface0914
 {
 //Base
@@ -1360,7 +1374,7 @@ element5,overlay,surface70408.png,0,0
 
 
 
-surface900-999
+surface.append900-999
 {
 //satolist.palette.offset,142,163
 
