@@ -3,7 +3,7 @@ file,developer_options.txtc4d4ca3b2b2258c93f70a92a192f32f0size=544date=2021-1
 file,ghost/master/descript.txtb8f033a4b190499dbb242ccd0e639237size=639date=2022-02-27T22:59:51
 file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 file,ghost/master/dic01_Base.txta98ddf4f295a927e3a29355b2f5218f6size=21466date=2022-12-30T19:11:09
-file,ghost/master/dic02_Event.txtf35b752bbcd943d73c1b06db30a43b7bsize=2968date=2022-12-30T19:02:20
+file,ghost/master/dic02_Event.txt536ecd980f6ce290b621bf8efe0d7f65size=2964date=2023-01-03T06:05:16
 file,ghost/master/dic03_Menu.txt91adb238fe5034de7ea9c00dd1a88bc8size=18981date=2022-12-30T04:54:39
 file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 file,ghost/master/dic05_Talk.txtf045e0773d269fa497530cd00e40733fsize=11078date=2022-12-23T00:47:57
@@ -15,7 +15,7 @@ file,ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997dat
 file,ghost/master/dic11_BaseMinumu.txt44af837a5630dd8eeffe8236ebd72e0fsize=2912date=2022-12-30T19:11:09
 file,ghost/master/dic13_MenuMinumu.txt1dc78b93d6f8d4d85d923f974405f09asize=4066date=2022-12-23T00:36:51
 file,ghost/master/dic15_TalkMinimu.txt65910f019484f8c99549c1faca34f813size=5149date=2022-10-17T18:31:27
-file,ghost/master/dic18_SawariMinimu.txt1ba7dc786723bf1a92a0b896917b655asize=27042date=2022-12-23T00:34:10
+file,ghost/master/dic18_SawariMinimu.txt97bf4db29c65d44e9ec2d008143f86cdsize=27048date=2023-01-03T05:51:40
 file,ghost/master/dic21_BaseYuna.txt9c98d74aa116d18355fbe31eac8d0bc3size=8285date=2022-12-30T19:11:09
 file,ghost/master/dic23_MenuYuna.txt7f08c110ee540739d6524b7743d1ba97size=5623date=2022-12-23T00:36:51
 file,ghost/master/dic25_TalkYuna.txtd23778b4bad61899f79dcb9a8f88d0casize=7463date=2022-12-16T03:00:15
@@ -24,8 +24,8 @@ file,ghost/master/dic31_BaseMakana.txt7a6726d6fb76200e154335b22a740217size=885
 file,ghost/master/dic33_MenuMakana.txtbaa5749a4230fa55edb4c6a6a92ce39csize=5722date=2022-12-23T00:52:23
 file,ghost/master/dic35_TalkMakana.txt134c95df452b7874bfb6cb81c3b892fbsize=7335date=2022-12-30T04:54:39
 file,ghost/master/dic36_ExSawariMakana.txtab20524c9dbb5db7dea33f934f95724dsize=6280date=2022-12-12T20:36:45
-file,ghost/master/dic38_SawariMakana.txt4d6d3054e8541477ba9266452b69b774size=29124date=2022-12-23T00:34:10
-file,ghost/master/dic39_PrivateMakana.txt9f7efa8a6b44122d79eea115654487c2size=17923date=2022-12-17T03:49:09
+file,ghost/master/dic38_SawariMakana.txt0ef6d63ff54eb0d895f4d92fb63b0b1fsize=29124date=2023-01-03T05:51:40
+file,ghost/master/dic39_PrivateMakana.txt8fc271aaf36094e53093dd76e284aae5size=17929date=2023-01-03T05:51:40
 file,ghost/master/dic41_BaseFirio.txta13c6e69c2ac41f0bf47d7b0647b944asize=9005date=2022-12-30T19:48:58
 file,ghost/master/dic43_MenuFirio.txtbf0e5d1c349b319fa3d94ba23acb8a07size=5405date=2022-12-23T00:47:57
 file,ghost/master/dic45_TalkFirio.txt0946e4f1f1bfa2900c98be47faced326size=8721date=2022-10-17T19:35:10
@@ -34,13 +34,13 @@ file,ghost/master/dic48_SawariFirio.txt5c0d0c0ec467c3d27503d7a033bed77dsize=23
 file,ghost/master/dic51_BaseChinayo.txt2c044c5f371a988960d79fa23539fcafsize=10939date=2022-12-30T19:11:09
 file,ghost/master/dic53_MenuChinayo.txtb2ad0791a662ce40e5b64f12a58d2c56size=5374date=2022-12-30T04:55:23
 file,ghost/master/dic55_TalkChinayo.txt891a17584f8b18fa9639554f2c3db49fsize=6554date=2022-11-28T21:25:29
-file,ghost/master/dic58_SawariChinayo.txt602400db4882c63bdbaea3f3e5c58f8bsize=35625date=2022-12-23T00:35:36
+file,ghost/master/dic58_SawariChinayo.txt26ed4fcb27187c10422c82bae08ea998size=35625date=2023-01-03T20:13:44
 file,ghost/master/dic61_BaseRereni.txt03356d4a2dd3f6d845ad4c50bfbab7d6size=6532date=2022-12-30T19:11:09
 file,ghost/master/dic63_MenuRereni.txt6874205a16f40928433131448123ddcfsize=2410date=2022-12-23T00:35:36
 file,ghost/master/dic65_TalkRereni.txta2c167d54bf226a9e6d136e580d74917size=7664date=2022-12-19T04:37:57
-file,ghost/master/dic68_SawariRereni.txt26479a0e0a528789e4cce69ca3063e46size=23365date=2022-12-30T03:54:08
-file,ghost/master/dic_MiniEvent.txtb9379d535888ec4b9120f19c0012f141size=11129date=2022-12-30T20:06:22
-file,ghost/master/note.txtcd6f0f12501e8994ec2b141100659c98size=21844date=2022-12-30T20:01:11
+file,ghost/master/dic68_SawariRereni.txtbd277b0313ff16e1188f8a9ffc43dc38size=23365date=2023-01-03T05:51:40
+file,ghost/master/dic_MiniEvent.txt2daab2f16791f208c406df490ee48158size=11293date=2023-01-03T06:05:16
+file,ghost/master/note.txt7dfc898aab81312075783b4372f0a670size=22477date=2023-01-01T06:08:43
 file,ghost/master/replace.txt4b8ef021ef26f45fb4fc2301b6663334size=376date=2022-12-16T04:18:28
 file,ghost/master/replace_after.txt4aceefcac0711f72da7eb79fe0ae0816size=269date=2022-12-16T04:18:28
 file,ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064date=2002-01-31T12:48:00
