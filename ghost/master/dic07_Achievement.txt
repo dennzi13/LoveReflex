@@ -22,7 +22,7 @@
 \![*]\q[各種設定,各種設定]
 （when、（起動回数）＞＝３＆＆（時間無限）＝＝０、\![*]\q[無限チートモード開始,無限モード]、 \c[line,1]）
 \![*]\q[WEB拍手,WEB拍手]
-\q[φ☆アンケート実施中(期限:12/31)※リンクを開きます,アンケート実施中]\_q
+\_q
 
 ＊アンケート実施中
 \j[https://docs.google.com/forms/d/e/1FAIpQLSdMC_DR7jEwNWkIAi4zLHO0JLI0QrOwWJmf6QwZ6WFUqbL8Lw/viewform?usp=sf_link]
