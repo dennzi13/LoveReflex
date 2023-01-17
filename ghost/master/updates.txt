@@ -39,7 +39,7 @@ file,ghost/master/dic61_BaseRereni.txt03356d4a2dd3f6d845ad4c50bfbab7d6size=653
 file,ghost/master/dic63_MenuRereni.txt6874205a16f40928433131448123ddcfsize=2410date=2022-12-23T00:35:36
 file,ghost/master/dic65_TalkRereni.txta2c167d54bf226a9e6d136e580d74917size=7664date=2022-12-19T04:37:57
 file,ghost/master/dic68_SawariRereni.txt8c49d1ee04df144e723f9232c318d56fsize=23365date=2023-01-17T19:49:25
-file,ghost/master/dic_MiniEvent.txt8bf9107e1b586f43b9fd35aca8642b01size=11442date=2023-01-17T19:51:54
+file,ghost/master/dic_MiniEvent.txt903f42d603df27f6ef8310fc74f9437fsize=11442date=2023-01-17T21:16:45
 file,ghost/master/note.txt5ae98461ced9823ced9b45d8e8ee1147size=23884date=2023-01-17T04:28:57
 file,ghost/master/replace.txt4b8ef021ef26f45fb4fc2301b6663334size=376date=2022-12-16T04:18:28
 file,ghost/master/replace_after.txt4aceefcac0711f72da7eb79fe0ae0816size=269date=2022-12-16T04:18:28
