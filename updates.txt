@@ -19,7 +19,7 @@ file,ghost/master/dic18_SawariMinimu.txtf5879c453625e9c5ec181ca528390199size=2
 file,ghost/master/dic21_BaseYuna.txtc6901f42ba5724c998ed2a65fa680cd2size=12552date=2023-02-22T19:53:21
 file,ghost/master/dic23_MenuYuna.txt7f08c110ee540739d6524b7743d1ba97size=5623date=2022-12-23T00:36:51
 file,ghost/master/dic25_TalkYuna.txtd23778b4bad61899f79dcb9a8f88d0casize=7463date=2022-12-16T03:00:15
-file,ghost/master/dic28_SawariYuna.txt317d3edb6578fd702737aaf1373c41d6size=43186date=2023-02-22T20:29:24
+file,ghost/master/dic28_SawariYuna.txtbd550ecd8e720ebe834df61890020738size=43216date=2023-02-22T20:30:48
 file,ghost/master/dic31_BaseMakana.txt02ccff2d92bd20d137d8966045bcb39dsize=9368date=2023-02-13T19:32:14
 file,ghost/master/dic33_MenuMakana.txtbaa5749a4230fa55edb4c6a6a92ce39csize=5722date=2022-12-23T00:52:23
 file,ghost/master/dic35_TalkMakana.txtec7f049504538740497339ec2f500289size=7329date=2023-01-17T04:36:52
