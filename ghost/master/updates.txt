@@ -26,7 +26,7 @@ file,ghost/master/dic33_MenuMakana.txtbaa5749a4230fa55edb4c6a6a92ce39csize=572
 file,ghost/master/dic35_TalkMakana.txtec7f049504538740497339ec2f500289size=7329date=2023-01-17T04:36:52
 file,ghost/master/dic36_ExSawariMakana.txtab20524c9dbb5db7dea33f934f95724dsize=6280date=2022-12-12T20:36:45
 file,ghost/master/dic38_SawariMakana.txtfd8a11586c1b35fd01f4f2fd7ca00174size=29221date=2023-02-14T04:05:09
-file,ghost/master/dic39_PrivateMakana.txt67f9d3cae84aafd49e7d7749250c654bsize=24985date=2023-02-23T19:52:46
+file,ghost/master/dic39_PrivateMakana.txt3f57f9b5965ecdd68967289b37658accsize=24981date=2023-02-23T20:10:02
 file,ghost/master/dic41_BaseFirio.txt431294d618aea69b4d39388ac4ac9542size=9481date=2023-02-13T19:31:31
 file,ghost/master/dic43_MenuFirio.txtbf0e5d1c349b319fa3d94ba23acb8a07size=5405date=2022-12-23T00:47:57
 file,ghost/master/dic45_TalkFirio.txte2ddbccb1e1fc9c69f6cc9fec48f5e0esize=9080date=2023-01-17T20:16:55
