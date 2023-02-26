@@ -79,6 +79,10 @@ char5.bindgroup0.name,立ち絵,通常
 char5.bindgroup0.default,1
 char5.bindgroup1.name,立ち絵,たくし上げ
 char5.bindgroup2.name,立ち絵,たくし上げ射精後
+char5.bindgroup3.name,立ち絵,たくし上げ射精
+char5.bindgroup4.name,立ち絵,たくし上げ生チンポ
+char5.bindgroup5.name,立ち絵,たくし上げ生チンポ射精
+char5.bindgroup6.name,立ち絵,たくし上げ生チンポ射精後
 char5.bindgroup100.name,使用済ゴム１,使用済
 char5.bindgroup101.name,使用済ゴム２,使用済
 char5.bindgroup102.name,使用済ゴム３,使用済

@@ -285,7 +285,7 @@ element1,overlay,surface60101.png,0,0
 //ñ⁄
 element2,overlay,surface60201.png,0,0
 //å˚
-element3,overlay,surface60304.png,0,0
+element3,overlay,surface60310.png,0,0
 //ñj
 element4,overlay,surface60401.png,0,0
 }
@@ -927,6 +927,67 @@ element3,overlay,surface60302.png,0,0
 element4,overlay,surface60401.png,0,0
 }
 
+surface0762
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//î˚
+
+element1,overlay,surface60101.png,0,0
+//ñ⁄
+element2,overlay,surface60206.png,0,0
+//å˚
+element3,overlay,surface60308.png,0,0
+//ñj
+element4,overlay,surface60401.png,0,0
+}
+
+
+surface0763
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//î˚
+
+element1,overlay,surface60101.png,0,0
+//ñ⁄
+element2,overlay,surface60206.png,0,0
+//å˚
+element3,overlay,surface60311.png,0,0
+//ñj
+element4,overlay,surface60401.png,0,0
+}
+
+
+surface0764
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//î˚
+
+element1,overlay,surface60101.png,0,0
+//ñ⁄
+element2,overlay,surface60201.png,0,0
+//å˚
+element3,overlay,surface60308.png,0,0
+//ñj
+element4,overlay,surface60401.png,0,0
+}
+
+surface0765
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//î˚
+
+element1,overlay,surface60101.png,0,0
+//ñ⁄
+element2,overlay,surface60201.png,0,0
+//å˚
+element3,overlay,surface60311.png,0,0
+//ñj
+element4,overlay,surface60401.png,0,0
+}
 
 
 surface0800
@@ -1245,7 +1306,7 @@ element1,overlay,surface61101.png,0,0
 //ñ⁄
 element2,overlay,surface61201.png,0,0
 //å˚
-element3,overlay,surface61304.png,0,0
+element3,overlay,surface61310.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
 //òr
@@ -1858,6 +1919,8 @@ element2,overlay,surface61207.png,0,0
 element3,overlay,surface61306.png,0,0
 //ñj
 element4,overlay,surface61400.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0855
@@ -1872,6 +1935,8 @@ element2,overlay,surface61207.png,0,0
 element3,overlay,surface61307.png,0,0
 //ñj
 element4,overlay,surface61400.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 
@@ -1887,6 +1952,8 @@ element2,overlay,surface61207.png,0,0
 element3,overlay,surface61306.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0857
@@ -1901,6 +1968,8 @@ element2,overlay,surface61207.png,0,0
 element3,overlay,surface61307.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0858
@@ -1915,6 +1984,8 @@ element2,overlay,surface61208.png,0,0
 element3,overlay,surface61306.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0859
@@ -1929,6 +2000,8 @@ element2,overlay,surface61208.png,0,0
 element3,overlay,surface61307.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0860
@@ -1943,6 +2016,8 @@ element2,overlay,surface61208.png,0,0
 element3,overlay,surface61300.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 surface0861
@@ -1957,6 +2032,78 @@ element2,overlay,surface61208.png,0,0
 element3,overlay,surface61302.png,0,0
 //ñj
 element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
+}
+
+surface0862
+{
+//Base
+element0,overlay,surface60003.png,0,0
+//î˚
+
+element1,overlay,surface61101.png,0,0
+//ñ⁄
+element2,overlay,surface61206.png,0,0
+//å˚
+element3,overlay,surface61308.png,0,0
+//ñj
+element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
+}
+
+
+surface0863
+{
+//Base
+element0,overlay,surface60003.png,0,0
+//î˚
+
+element1,overlay,surface61101.png,0,0
+//ñ⁄
+element2,overlay,surface61206.png,0,0
+//å˚
+element3,overlay,surface61311.png,0,0
+//ñj
+element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
+}
+
+
+surface0864
+{
+//Base
+element0,overlay,surface60003.png,0,0
+//î˚
+
+element1,overlay,surface61101.png,0,0
+//ñ⁄
+element2,overlay,surface61201.png,0,0
+//å˚
+element3,overlay,surface61308.png,0,0
+//ñj
+element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
+}
+
+surface0865
+{
+//Base
+element0,overlay,surface60003.png,0,0
+//î˚
+
+element1,overlay,surface61101.png,0,0
+//ñ⁄
+element2,overlay,surface61201.png,0,0
+//å˚
+element3,overlay,surface61311.png,0,0
+//ñj
+element4,overlay,surface61401.png,0,0
+//òr
+element5,overlay,surface60008.png,0,0
 }
 
 
@@ -2117,6 +2264,10 @@ element5,overlay,surface60005.png,0,0
 
 surface.append700-799
 {
+//ÉTÅ[ÉtÉFÉXÉTÉCÉYí≤êÆ
+element10,overlay,surface60014.png,0,0
+
+
 //satolist.palette.offset,115,116
 //satolist.palette.expand,0.9
 //óßÇøäG
@@ -2127,7 +2278,6 @@ animation0.collisionex10,éË,polygon,222,401,216,406,212,406,201,430,213,434,209,
 
 animation1.interval,bind
 animation1.pattern0,base,60001,0,0,0
-
 animation1.collisionex12,É`ÉìÉ|,polygon,197,459,207,456,219,451,233,437,239,431,236,424,240,417,249,412,256,405,265,405,271,405,273,421,272,429,266,435,264,445,253,458,235,478,221,486,208,489,200,482,195,476
 animation1.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,507,219,498,218,487,207,489
 animation1.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
@@ -2141,6 +2291,35 @@ animation2.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,
 animation2.collisionex14,ê∏ât,polygon,281,501,277,517,270,531,272,546,280,554,283,559,286,554,293,548,297,534,292,514,287,500
 animation2.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
 animation2.collisionex11,éË,polygon,235,372,226,381,221,400,229,410,249,411,257,404,263,404,265,386,252,374
+
+animation3.interval,bind
+animation3.pattern0,base,60013,0,0,0
+animation3.collisionex12,É`ÉìÉ|,polygon,197,459,207,456,219,451,233,437,239,431,236,424,240,417,249,412,256,405,265,405,271,405,273,421,272,429,266,435,264,445,253,458,235,478,221,486,208,489,200,482,195,476
+animation3.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,507,219,498,218,487,207,489
+animation3.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
+animation3.collisionex11,éË,polygon,235,372,226,381,221,400,229,410,249,411,257,404,263,404,265,386,252,374
+
+animation4.interval,bind
+animation4.pattern0,base,60009,0,0,0
+animation4.collisionex12,É`ÉìÉ|,polygon,197,459,207,456,219,451,233,437,239,431,236,424,240,417,249,412,256,405,265,405,271,405,273,421,272,429,266,435,264,445,253,458,235,478,221,486,208,489,200,482,195,476
+animation4.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,507,219,498,218,487,207,489
+animation4.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
+animation4.collisionex11,éË,polygon,235,372,226,381,221,400,229,410,249,411,257,404,263,404,265,386,252,374
+
+animation5.interval,bind
+animation5.pattern0,base,60010,0,0,0
+animation5.collisionex12,É`ÉìÉ|,polygon,197,459,207,456,219,451,233,437,239,431,236,424,240,417,249,412,256,405,265,405,271,405,273,421,272,429,266,435,264,445,253,458,235,478,221,486,208,489,200,482,195,476
+animation5.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,507,219,498,218,487,207,489
+animation5.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
+animation5.collisionex11,éË,polygon,235,372,226,381,221,400,229,410,249,411,257,404,263,404,265,386,252,374
+
+animation6.interval,bind
+animation6.pattern0,base,60012,0,0,0
+animation6.collisionex12,É`ÉìÉ|,polygon,198,460,214,454,227,452,241,453,264,462,274,463,285,472,291,484,289,499,277,501,266,498,255,490,241,485,228,483,218,483,212,487,203,481,195,473
+animation6.collisionex13,ã ,polygon,184,481,181,495,182,510,192,513,207,513,216,507,219,498,218,487,207,489
+animation6.collisionex10,éË,polygon,190,382,182,392,177,405,186,408,184,416,192,421,212,418,218,410,210,392
+animation6.collisionex11,éË,polygon,235,372,226,381,221,400,229,410,249,411,257,404,263,404,265,386,252,374
+
 
 collisionex1,å˚,polygon,165,186,179,186,183,205,170,209,157,205
 collisionex2,ãπ,polygon,125,269,123,333,136,342,190,342,228,333,226,298,222,263,178,272
@@ -2164,7 +2343,14 @@ animation2.interval,bind
 animation2.pattern0,base,60004,0,0,0
 animation2.pattern0,add,61402,0,0,0
 animation2.collisionex14,ê∏ât,polygon,138,540,136,546,131,556,131,568,143,572,152,565,152,551,144,540
-
+animation3.interval,bind
+animation3.pattern0,base,60015,0,0,0
+animation4.interval,bind
+animation4.pattern0,base,60016,0,0,0
+animation5.interval,bind
+animation5.pattern0,base,60017,0,0,0
+animation6.interval,bind
+animation6.pattern0,base,60018,0,0,0
 
 collisionex1,å˚,polygon,238,194,253,194,255,207,240,215,227,210
 collisionex3,é®,polygon,180,22,170,32,163,69,162,98,172,117,175,102,187,85,205,70,196,45
