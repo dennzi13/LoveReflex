@@ -6,23 +6,44 @@ type,shell
 craftmanw,電磁
 craftmanurl,
 
-sakura.bindgroup10.name,オナホ,精液
+sakura.bindgroup0.name,立ち絵,通常
+sakura.bindgroup0.default,1
+sakura.bindgroup1.name,立ち絵,ボテ腹
+
+
+sakura.bindgroup10.name,手,通常
+sakura.bindgroup10.default,1
+sakura.bindgroup11.name,手,オナホ
+
+sakura.bindgroup50.name,オナホ,精液
 
 sakura.bindgroup95.name,断面図,空
 sakura.bindgroup96.name,断面図,中出し１
 sakura.bindgroup97.name,断面図,中出し２
 sakura.bindgroup98.name,断面図,中出し３
 
-sakura.bindgroup100.name,使用済ゴム１,使用済
-sakura.bindgroup101.name,使用済ゴム２,使用済
-sakura.bindgroup103.name,使用済ゴム３,使用済
-sakura.bindgroup106.name,使用済ゴム４,使用済
-sakura.bindgroup107.name,使用済ゴム５,使用済
-sakura.bindgroup108.name,使用済ゴム６,使用済
 
-sakura.bindgroup102.name,他客使用済ゴム１,使用済
-sakura.bindgroup104.name,他客使用済ゴム２,使用済
-sakura.bindgroup105.name,他客使用済ゴム３,使用済
+
+
+
+sakura.bindgroup100.name,使用済ゴム１,使用済
+sakura.bindgroup104.name,使用済ゴム２,使用済
+sakura.bindgroup107.name,使用済ゴム３,使用済
+sakura.bindgroup110.name,使用済ゴム４,使用済
+sakura.bindgroup112.name,使用済ゴム５,使用済
+sakura.bindgroup114.name,使用済ゴム６,使用済
+
+sakura.bindgroup101.name,使用済ゴム１,使用済ボテ腹
+sakura.bindgroup105.name,使用済ゴム２,使用済ボテ腹
+sakura.bindgroup108.name,使用済ゴム３,使用済ボテ腹
+sakura.bindgroup111.name,使用済ゴム４,使用済ボテ腹
+sakura.bindgroup113.name,使用済ゴム５,使用済ボテ腹
+sakura.bindgroup115.name,使用済ゴム６,使用済ボテ腹
+
+sakura.bindgroup103.name,他客使用済ゴム１,使用済
+sakura.bindgroup106.name,他客使用済ゴム２,使用済
+sakura.bindgroup109.name,他客使用済ゴム３,使用済
+
 
 sakura.bindgroup200.name,メガネ,赤縁メガネ（アンダーリム）
 sakura.bindgroup201.name,メガネ,赤縁メガネ（フルリム）
@@ -42,6 +63,10 @@ char2.bindgroup104.name,使用済ゴム５,使用済
 char2.bindgroup105.name,使用済ゴム６,使用済
 
 
+char3.bindgroup0.name,立ち絵,通常
+char3.bindgroup0.default,1
+char3.bindgroup1.name,立ち絵,ボテ腹
+
 char3.bindgroup95.name,断面図,空
 char3.bindgroup96.name,断面図,中出し１
 char3.bindgroup97.name,断面図,中出し２
@@ -53,6 +78,13 @@ char3.bindgroup102.name,使用済ゴム３,使用済
 char3.bindgroup103.name,使用済ゴム４,使用済
 char3.bindgroup104.name,使用済ゴム５,使用済
 char3.bindgroup105.name,使用済ゴム６,使用済
+
+char3.bindgroup106.name,使用済ゴム１,使用済ボテ腹
+char3.bindgroup107.name,使用済ゴム２,使用済ボテ腹
+char3.bindgroup108.name,使用済ゴム３,使用済ボテ腹
+char3.bindgroup109.name,使用済ゴム４,使用済ボテ腹
+char3.bindgroup110.name,使用済ゴム５,使用済ボテ腹
+char3.bindgroup111.name,使用済ゴム６,使用済ボテ腹
 
 
 char4.bindgroup0.name,バスローブ立ち絵,通常
@@ -119,6 +151,26 @@ char7.bindgroup200.name,メガネ,丸眼鏡
 char7.bindgroup200.default,1
 char7.bindgroup210.name,ヘアピン,ヘアピン
 char7.bindgroup210.default,1
+
+
+
+char8.bindgroup0.name,立ち絵,通常
+char8.bindgroup0.default,1
+char8.bindgroup1.name,立ち絵,胸露出
+
+char8.bindgroup95.name,断面図,空
+char8.bindgroup96.name,断面図,中出し１
+char8.bindgroup97.name,断面図,中出し２
+char8.bindgroup98.name,断面図,中出し３
+
+char8.bindgroup100.name,使用済ゴム１,使用済
+char8.bindgroup101.name,使用済ゴム２,使用済
+char8.bindgroup102.name,使用済ゴム３,使用済
+char8.bindgroup103.name,使用済ゴム４,使用済
+char8.bindgroup104.name,使用済ゴム５,使用済
+char8.bindgroup105.name,使用済ゴム６,使用済
+
+
 
 
 kero.bindgroup10.name,射精ゲージ,０
