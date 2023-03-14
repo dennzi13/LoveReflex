@@ -209,11 +209,11 @@ surface0214
 //Base
 element0,overlay,surface90000.png,0,0
 //”û
-element1,overlay,surface90102.png,0,0
+element1,overlay,surface90104.png,0,0
 //–Ú
 element2,overlay,surface90208.png,0,0
 //Œû
-element3,overlay,surface90306.png,0,0
+element3,overlay,surface90301.png,0,0
 //–j
 element4,overlay,surface90400.png,0,0
 }

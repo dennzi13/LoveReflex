@@ -8,5 +8,5 @@
 。	。\w9\w8
 、	、\w9
 ♪	♪\w9\w8
-?v	？\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w5
+?v	？\f[color,#ff8282]\_u[0x2764]\f[color,default]\w9\w8
 ☆	☆\w9\w8

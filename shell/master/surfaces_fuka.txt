@@ -443,7 +443,48 @@ element3,overlay,surface10302.png,0,0
 element4,overlay,surface10400.png,0,0
 }
 
+surface0032
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10101.png,0,0
+//–Ú
+element2,overlay,surface10201.png,0,0
+//Œû
+element3,overlay,surface10314.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
+surface0033
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10102.png,0,0
+//–Ú
+element2,overlay,surface10202.png,0,0
+//Œû
+element3,overlay,surface10315.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
+
+
+surface0034
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10101.png,0,0
+//–Ú
+element2,overlay,surface10201.png,0,0
+//Œû
+element3,overlay,surface10316.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
 surface0035
 {
@@ -601,8 +642,61 @@ element3,overlay,surface10310.png,0,0
 element4,overlay,surface10400.png,0,0
 }
 
+surface0046
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10102.png,0,0
+//–Ú
+element2,overlay,surface10202.png,0,0
+//Œû
+element3,overlay,surface10307.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
+surface0047
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10100.png,0,0
+//–Ú
+element2,overlay,surface10201.png,0,0
+//Œû
+element3,overlay,surface10314.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
+surface0048
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10102.png,0,0
+//–Ú
+element2,overlay,surface10201.png,0,0
+//Œû
+element3,overlay,surface10314.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
+
+surface0049
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10101.png,0,0
+//–Ú
+element2,overlay,surface10206.png,0,0
+//Œû
+element3,overlay,surface10316.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
 surface0055
 {
@@ -819,6 +913,19 @@ element4,overlay,surface10400.png,0,0
 }
 
 
+surface0089
+{
+//Base
+element0,overlay,surface10000.png,0,0
+//”û
+element1,overlay,surface10101.png,0,0
+//–Ú
+element2,overlay,surface10206.png,0,0
+//Œû
+element3,overlay,surface10308.png,0,0
+//–j
+element4,overlay,surface10400.png,0,0
+}
 
 
 

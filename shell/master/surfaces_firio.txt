@@ -989,6 +989,37 @@ element3,overlay,surface60311.png,0,0
 element4,overlay,surface60401.png,0,0
 }
 
+surface0766
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//”û
+
+element1,overlay,surface60101.png,0,0
+//–Ú
+element2,overlay,surface60202.png,0,0
+//Œû
+element3,overlay,surface60303.png,0,0
+//–j
+element4,overlay,surface60400.png,0,0
+}
+
+
+surface0767
+{
+//Base
+element0,overlay,surface60000.png,0,0
+//”û
+
+element1,overlay,surface60101.png,0,0
+//–Ú
+element2,overlay,surface60202.png,0,0
+//Œû
+element3,overlay,surface60305.png,0,0
+//–j
+element4,overlay,surface60400.png,0,0
+}
+
 
 surface0800
 {

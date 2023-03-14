@@ -759,9 +759,9 @@ element0,overlay,surface50000.png,0,0
 //”û
 element1,overlay,surface50101.png,0,0
 //–Ú
-element2,overlay,surface50205.png,0,0
+element2,overlay,surface50207.png,0,0
 //Œû
-element3,overlay,surface50308.png,0,0
+element3,overlay,surface50312.png,0,0
 //–j
 element4,overlay,surface50401.png,0,0
 }
@@ -773,12 +773,14 @@ element0,overlay,surface50000.png,0,0
 //”û
 element1,overlay,surface50101.png,0,0
 //–Ú
-element2,overlay,surface50205.png,0,0
+element2,overlay,surface50207.png,0,0
 //Œû
-element3,overlay,surface50309.png,0,0
+element3,overlay,surface50303.png,0,0
 //–j
 element4,overlay,surface50401.png,0,0
 }
+
+
 
 surface0656
 {
@@ -1012,9 +1014,9 @@ element0,overlay,surface50000.png,0,0
 //”û
 element1,overlay,surface50101.png,0,0
 //–Ú
-element2,overlay,surface50202.png,0,0
+element2,overlay,surface50201.png,0,0
 //Œû
-element3,overlay,surface50311.png,0,0
+element3,overlay,surface50314.png,0,0
 //–j
 element4,overlay,surface50401.png,0,0
 }
@@ -1037,7 +1039,14 @@ surface0674
 {
 //Base
 element0,overlay,surface50000.png,0,0
-
+//”û
+element1,overlay,surface50101.png,0,0
+//–Ú
+element2,overlay,surface50207.png,0,0
+//Œû
+element3,overlay,surface50314.png,0,0
+//–j
+element4,overlay,surface50401.png,0,0
 }
 
 surface0675
