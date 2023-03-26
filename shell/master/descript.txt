@@ -6,26 +6,67 @@ type,shell
 craftmanw,“d¥
 craftmanurl,
 
+
+//<ƒt[ƒJ> -----------------------------------------
 sakura.bindgroup0.name,—§‚¿ŠG,’Êí
 sakura.bindgroup0.default,1
 sakura.bindgroup1.name,—§‚¿ŠG,ƒ{ƒe• 
-
 
 sakura.bindgroup10.name,è,’Êí
 sakura.bindgroup10.default,1
 sakura.bindgroup11.name,è,ƒIƒiƒz
 
+//ŒÒŠÔ‰ñ‚èi‹RæˆÊ—pj
+sakura.bindgroup20.default,1
+sakura.bindgroup20.name,xxxx,–¢‘}“ü
+sakura.bindgroup21.name,xxxx,‘}“ü’†
+sakura.bindgroup22.name,xxxx,ƒSƒ€‘}“ü’†
+sakura.bindgroup23.name,xxxx,¬–¢‘}“ü
+sakura.bindgroup24.name,xxxx,¬‘}“ü’†
+sakura.bindgroup25.name,xxxx,¬ƒSƒ€‘}“ü’†
+sakura.bindgroup26.name,xxxx,‹–¢‘}“ü
+sakura.bindgroup27.name,xxxx,‹‘}“ü’†
+sakura.bindgroup28.name,xxxx,‹ƒSƒ€‘}“ü’†
+
 sakura.bindgroup50.name,ƒIƒiƒz,¸‰t
 
+//’f–Êi‹RæˆÊ—pj
+sakura.bindgroup60.name,‹Ræ’f–Ê,–¢‘}“ü
+sakura.bindgroup61.name,‹Ræ’f–Ê,‘}“ü’†
+sakura.bindgroup62.name,‹Ræ’f–Ê,ƒSƒ€‘}“ü’†
+sakura.bindgroup63.name,‹Ræ’f–Ê,ƒSƒ€‘}“ü’†Ë¸
+sakura.bindgroup64.name,‹Ræ’f–Ê,¬‘}“ü’†
+sakura.bindgroup65.name,‹Ræ’f–Ê,¬ƒSƒ€‘}“ü’†
+sakura.bindgroup66.name,‹Ræ’f–Ê,¬ƒSƒ€‘}“ü’†Ë¸
+sakura.bindgroup67.name,‹Ræ’f–Ê,‹‘}“ü’†
+sakura.bindgroup68.name,‹Ræ’f–Ê,‹ƒSƒ€‘}“ü’†
+sakura.bindgroup69.name,‹Ræ’f–Ê,‹ƒSƒ€‘}“ü’†Ë¸
+
+
+//’f–Ê¸‰ti‹RæˆÊ—pj
+sakura.bindgroup71.name,‹Ræ’f–Ê¸‰t,’†o‚µ‚P
+sakura.bindgroup72.name,‹Ræ’f–Ê¸‰t,’†o‚µ‚Q
+sakura.bindgroup73.name,‹Ræ’f–Ê¸‰t,’†o‚µ‚R
+sakura.bindgroup74.name,‹Ræ’f–Ê¸‰tË¸,Ë¸
+sakura.bindgroup75.name,‹Ræ’f–Ê¸‰t,‘}’†o‚µ‚P
+sakura.bindgroup76.name,‹Ræ’f–Ê¸‰t,‘}’†o‚µ‚Q
+sakura.bindgroup77.name,‹Ræ’f–Ê¸‰t,‘}’†o‚µ‚R
+sakura.bindgroup78.name,‹Ræ’f–Ê¸‰tË¸,¬Ë¸
+sakura.bindgroup79.name,‹Ræ’f–Ê¸‰t,¬‘}’†o‚µ‚P
+sakura.bindgroup80.name,‹Ræ’f–Ê¸‰t,¬‘}’†o‚µ‚Q
+sakura.bindgroup81.name,‹Ræ’f–Ê¸‰t,¬‘}’†o‚µ‚R
+sakura.bindgroup82.name,‹Ræ’f–Ê¸‰tË¸,‹Ë¸
+sakura.bindgroup83.name,‹Ræ’f–Ê¸‰t,‹‘}’†o‚µ‚P
+sakura.bindgroup84.name,‹Ræ’f–Ê¸‰t,‹‘}’†o‚µ‚Q
+sakura.bindgroup85.name,‹Ræ’f–Ê¸‰t,‹‘}’†o‚µ‚R
+
+//’f–Êi—§‚¿ŠG—pj
 sakura.bindgroup95.name,’f–Ê},‹ó
 sakura.bindgroup96.name,’f–Ê},’†o‚µ‚P
 sakura.bindgroup97.name,’f–Ê},’†o‚µ‚Q
 sakura.bindgroup98.name,’f–Ê},’†o‚µ‚R
 
-
-
-
-
+//g—pÏ‚İƒSƒ€
 sakura.bindgroup100.name,g—pÏƒSƒ€‚P,g—pÏ
 sakura.bindgroup104.name,g—pÏƒSƒ€‚Q,g—pÏ
 sakura.bindgroup107.name,g—pÏƒSƒ€‚R,g—pÏ
@@ -44,11 +85,23 @@ sakura.bindgroup103.name,‘¼‹qg—pÏƒSƒ€‚P,g—pÏ
 sakura.bindgroup106.name,‘¼‹qg—pÏƒSƒ€‚Q,g—pÏ
 sakura.bindgroup109.name,‘¼‹qg—pÏƒSƒ€‚R,g—pÏ
 
+//–¢‘}“ü˜Ioƒ`ƒ“ƒ|i‹RæˆÊ—pj
+sakura.bindgroup120.default,1
+sakura.bindgroup120.name,ƒ`ƒ“ƒ|,’Êí
+sakura.bindgroup121.name,ƒ`ƒ“ƒ|,’ÊíƒSƒ€
+sakura.bindgroup122.name,ƒ`ƒ“ƒ|,’Z¬
+sakura.bindgroup123.name,ƒ`ƒ“ƒ|,’Z¬ƒSƒ€
+sakura.bindgroup124.name,ƒ`ƒ“ƒ|,‹ª
+sakura.bindgroup125.name,ƒ`ƒ“ƒ|,‹ªƒSƒ€
+sakura.bindgroup126.name,ƒ`ƒ“ƒ|,’Êí‚Ó‚É‚á
+sakura.bindgroup127.name,ƒ`ƒ“ƒ|,’Z¬‚Ó‚É‚á
+sakura.bindgroup128.name,ƒ`ƒ“ƒ|,‹ª‚Ó‚É‚á
 
 sakura.bindgroup200.name,ƒƒKƒl,Ô‰ƒƒKƒliƒAƒ“ƒ_[ƒŠƒ€j
 sakura.bindgroup201.name,ƒƒKƒl,Ô‰ƒƒKƒliƒtƒ‹ƒŠƒ€j
 
 
+//<ƒ~ƒjƒ€> -----------------------------------------
 
 char2.bindgroup95.name,’f–Ê},‹ó
 char2.bindgroup96.name,’f–Ê},’†o‚µ‚P
