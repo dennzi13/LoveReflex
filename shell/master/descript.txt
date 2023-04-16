@@ -6,6 +6,55 @@ type,shell
 craftmanw,電磁
 craftmanurl,
 
+//着せ替え共通仕様
+
+//後ろ髪レイヤ層
+//0～9
+
+//体レイヤ層
+//10～39
+//※ボテ腹の場合もここに含む
+//例：衣装、シスター服の場合
+//シスター服
+//シスター服ボテ腹
+//の2着せ替えとする
+//ゴム持ち、ゴムなしはsurface.appendで書き分けする（着せ替えは用意しない
+
+//特殊体位用
+//500,600,700番台
+
+//断面レイヤ層
+//95～99
+//900番台へ移動
+
+//使用済みゴムレイヤ層
+//100～120....
+//1000番台へ移動
+//衣装ごとに管理するのでかなりの数増える
+//sakura.bindgroup101.name,使用済ゴム１,使用済
+//sakura.bindgroup101.name,使用済ゴム１,使用済ボテ腹
+//sakura.bindgroup101.name,使用済ゴム１,（衣装名）使用済
+//など
+
+
+//射精後ゴム持ち層
+//ユーザとフィリオのゴムの2種　ゴム持ちのみ適用
+//2990,2991(
+
+//アクセサリーレイヤ層
+//各種自由　3000以降
+//※フーカの場合ここにオナホコキ用の手レイヤを入れる必要あるかも
+
+//眉
+//animation10001
+//目
+//animation10002
+//口
+//animation10003
+//頬
+//animation10004
+//湯気
+//animation10005
 
 //<フーカ> -----------------------------------------
 sakura.bindgroup0.name,立ち絵,通常
@@ -16,7 +65,10 @@ sakura.bindgroup10.name,手,通常
 sakura.bindgroup10.default,1
 sakura.bindgroup11.name,手,オナホ
 
+sakura.bindgroup50.name,オナホ,精液
+
 //股間回り（騎乗位用）
+//500番台で管理するように
 sakura.bindgroup20.default,1
 sakura.bindgroup20.name,xxxx,未挿入
 sakura.bindgroup21.name,xxxx,挿入中
@@ -28,9 +80,9 @@ sakura.bindgroup26.name,xxxx,巨未挿入
 sakura.bindgroup27.name,xxxx,巨挿入中
 sakura.bindgroup28.name,xxxx,巨ゴム挿入中
 
-sakura.bindgroup50.name,オナホ,精液
 
 //断面（騎乗位用）
+//600番台で管理するように
 sakura.bindgroup60.name,騎乗断面,未挿入
 sakura.bindgroup61.name,騎乗断面,挿入中
 sakura.bindgroup62.name,騎乗断面,ゴム挿入中
@@ -44,6 +96,7 @@ sakura.bindgroup69.name,騎乗断面,巨ゴム挿入中射精
 
 
 //断面精液（騎乗位用）
+//700番台で管理するように
 sakura.bindgroup71.name,騎乗断面精液,中出し１
 sakura.bindgroup72.name,騎乗断面精液,中出し２
 sakura.bindgroup73.name,騎乗断面精液,中出し３
@@ -61,12 +114,14 @@ sakura.bindgroup84.name,騎乗断面精液,巨挿中出し２
 sakura.bindgroup85.name,騎乗断面精液,巨挿中出し３
 
 //断面（立ち絵用）
+//900番台で管理するように
 sakura.bindgroup95.name,断面図,空
 sakura.bindgroup96.name,断面図,中出し１
 sakura.bindgroup97.name,断面図,中出し２
 sakura.bindgroup98.name,断面図,中出し３
 
 //使用済みゴム
+//1000番台で管理するように
 sakura.bindgroup100.name,使用済ゴム１,使用済
 sakura.bindgroup104.name,使用済ゴム２,使用済
 sakura.bindgroup107.name,使用済ゴム３,使用済
@@ -86,6 +141,7 @@ sakura.bindgroup106.name,他客使用済ゴム２,使用済
 sakura.bindgroup109.name,他客使用済ゴム３,使用済
 
 //未挿入露出チンポ（騎乗位用）
+//2000番台で管理するように
 sakura.bindgroup120.default,1
 sakura.bindgroup120.name,チンポ,通常
 sakura.bindgroup121.name,チンポ,通常ゴム
@@ -115,51 +171,114 @@ char2.bindgroup103.name,使用済ゴム４,使用済
 char2.bindgroup104.name,使用済ゴム５,使用済
 char2.bindgroup105.name,使用済ゴム６,使用済
 
+//<ユナ> -----------------------------------------
+//後ろ髪レイヤ層
+char3.bindgroup50.name,後ろ髪,セミロング
+char3.bindgroup50.default,1
 
-char3.bindgroup0.name,立ち絵,通常
-char3.bindgroup0.default,1
-char3.bindgroup1.name,立ち絵,ボテ腹
+//体レイヤ層
+char3.bindgroup100.name,立ち絵,シスター服
+char3.bindgroup100.default,1
+char3.bindgroup101.name,立ち絵,シスター服_ボテ腹
+char3.bindgroup102.name,立ち絵,シスター逆バニー
+char3.bindgroup103.name,立ち絵,シスター逆バニー_ボテ腹
 
-char3.bindgroup95.name,断面図,空
-char3.bindgroup96.name,断面図,中出し１
-char3.bindgroup97.name,断面図,中出し２
-char3.bindgroup98.name,断面図,中出し３
+//断面レイヤ層
+char3.bindgroup905.name,断面図,空
+char3.bindgroup906.name,断面図,中出し１
+char3.bindgroup907.name,断面図,中出し２
+char3.bindgroup908.name,断面図,中出し３
 
-char3.bindgroup100.name,使用済ゴム１,使用済
-char3.bindgroup101.name,使用済ゴム２,使用済
-char3.bindgroup102.name,使用済ゴム３,使用済
-char3.bindgroup103.name,使用済ゴム４,使用済
-char3.bindgroup104.name,使用済ゴム５,使用済
-char3.bindgroup105.name,使用済ゴム６,使用済
+//使用済みゴムレイヤ層
 
-char3.bindgroup106.name,使用済ゴム１,使用済ボテ腹
-char3.bindgroup107.name,使用済ゴム２,使用済ボテ腹
-char3.bindgroup108.name,使用済ゴム３,使用済ボテ腹
-char3.bindgroup109.name,使用済ゴム４,使用済ボテ腹
-char3.bindgroup110.name,使用済ゴム５,使用済ボテ腹
-char3.bindgroup111.name,使用済ゴム６,使用済ボテ腹
+char3.bindgroup1000.name,使用済ゴム１,使用済_シスター服
+char3.bindgroup1001.name,使用済ゴム２,使用済_シスター服
+char3.bindgroup1002.name,使用済ゴム３,使用済_シスター服
+char3.bindgroup1003.name,使用済ゴム４,使用済_シスター服
+char3.bindgroup1004.name,使用済ゴム５,使用済_シスター服
+char3.bindgroup1005.name,使用済ゴム６,使用済_シスター服
+char3.bindgroup1006.name,使用済ゴム１,使用済_シスター服_ボテ腹
+char3.bindgroup1007.name,使用済ゴム２,使用済_シスター服_ボテ腹
+char3.bindgroup1008.name,使用済ゴム３,使用済_シスター服_ボテ腹
+char3.bindgroup1009.name,使用済ゴム４,使用済_シスター服_ボテ腹
+char3.bindgroup1010.name,使用済ゴム５,使用済_シスター服_ボテ腹
+char3.bindgroup1011.name,使用済ゴム６,使用済_シスター服_ボテ腹
+char3.bindgroup1020.name,使用済ゴム１,使用済_シスター逆バニー
+char3.bindgroup1021.name,使用済ゴム２,使用済_シスター逆バニー
+char3.bindgroup1022.name,使用済ゴム３,使用済_シスター逆バニー
+char3.bindgroup1023.name,使用済ゴム４,使用済_シスター逆バニー
+char3.bindgroup1024.name,使用済ゴム５,使用済_シスター逆バニー
+char3.bindgroup1025.name,使用済ゴム６,使用済_シスター逆バニー
+char3.bindgroup1030.name,使用済ゴム１,使用済_シスター逆バニー_ボテ腹
+char3.bindgroup1031.name,使用済ゴム２,使用済_シスター逆バニー_ボテ腹
+char3.bindgroup1032.name,使用済ゴム３,使用済_シスター逆バニー_ボテ腹
+char3.bindgroup1033.name,使用済ゴム４,使用済_シスター逆バニー_ボテ腹
+char3.bindgroup1034.name,使用済ゴム５,使用済_シスター逆バニー_ボテ腹
+char3.bindgroup1035.name,使用済ゴム６,使用済_シスター逆バニー_ボテ腹
 
+//射精後ゴム持ち層
+char3.bindgroup2990.name,射精後ゴム,ユーザ
+char3.bindgroup2990.default,1
+//char3.bindgroup2991.name,射精後ゴム,フィリオ
 
-char4.bindgroup0.name,バスローブ立ち絵,通常
-char4.bindgroup0.default,1
-char4.bindgroup1.name,バスローブ立ち絵,前開き
+//帽子
+char3.bindgroup3020.name,帽子,バニーリボン
 
-char4.bindgroup95.name,断面図,空
-char4.bindgroup96.name,断面図,中出し１
-char4.bindgroup97.name,断面図,中出し２
-char4.bindgroup98.name,断面図,中出し３
+//ニプレス
+char3.bindgroup3030.name,ニプレス,バツニプレス
+char3.bindgroup3031.name,ニプレス,バツニプレス_ボテ腹
 
-char4.bindgroup100.name,使用済ゴム１,使用済
-char4.bindgroup101.name,使用済ゴム２,使用済
-char4.bindgroup102.name,使用済ゴム３,使用済
-char4.bindgroup103.name,使用済ゴム４,使用済
-char4.bindgroup104.name,使用済ゴム５,使用済
-char4.bindgroup105.name,使用済ゴム６,使用済
+//<マカナ> -----------------------------------------
+//後ろ髪レイヤ層
+char4.bindgroup50.name,後ろ髪,束ね
+char4.bindgroup50.default,1
+char4.bindgroup51.name,後ろ髪,セミロング
 
-char4.bindgroup200.name,メガネ,赤縁メガネ
-char4.bindgroup210.name,帽子,キャスケット
+//体レイヤ層
+char4.bindgroup100.name,立ち絵,ニットセーター
+char4.bindgroup100.default,1
+char4.bindgroup101.name,立ち絵,バスローブ
+char4.bindgroup102.name,立ち絵,バスローブはだけ
+char4.bindgroup103.name,立ち絵,バニー
 
+//断面レイヤ層
+char4.bindgroup905.name,断面図,空
+char4.bindgroup906.name,断面図,中出し１
+char4.bindgroup907.name,断面図,中出し２
+char4.bindgroup908.name,断面図,中出し３
 
+//使用済みゴムレイヤ層
+char4.bindgroup1000.name,使用済ゴム１,使用済_ニットセーター
+char4.bindgroup1001.name,使用済ゴム２,使用済_ニットセーター
+char4.bindgroup1002.name,使用済ゴム３,使用済_ニットセーター
+char4.bindgroup1003.name,使用済ゴム４,使用済_ニットセーター
+char4.bindgroup1004.name,使用済ゴム５,使用済_ニットセーター
+char4.bindgroup1005.name,使用済ゴム６,使用済_ニットセーター
+char4.bindgroup1010.name,使用済ゴム１,使用済_バニー
+char4.bindgroup1011.name,使用済ゴム２,使用済_バニー
+char4.bindgroup1012.name,使用済ゴム３,使用済_バニー
+char4.bindgroup1013.name,使用済ゴム４,使用済_バニー
+char4.bindgroup1014.name,使用済ゴム５,使用済_バニー
+char4.bindgroup1015.name,使用済ゴム６,使用済_バニー
+
+//後ろ髪補助層
+char4.bindgroup2980.name,後ろ髪補助,束ね
+char4.bindgroup2980.default,1
+
+//射精後ゴム持ち層
+char4.bindgroup2990.name,射精後ゴム,ユーザ
+char4.bindgroup2990.default,1
+//char4.bindgroup2991.name,射精後ゴム,フィリオ
+
+//メガネ
+char4.bindgroup3000.name,メガネ,赤縁メガネ
+char4.bindgroup3000.default,1
+//帽子
+char4.bindgroup3020.name,帽子,キャスケット帽
+char4.bindgroup3020.default,1
+char4.bindgroup3021.name,帽子,バニーリボン
+
+//<フィリオ> -----------------------------------------
 char5.bindgroup0.name,立ち絵,通常
 char5.bindgroup0.default,1
 char5.bindgroup1.name,立ち絵,たくし上げ
@@ -175,37 +294,92 @@ char5.bindgroup103.name,使用済ゴム４,使用済
 char5.bindgroup104.name,使用済ゴム５,使用済
 char5.bindgroup105.name,使用済ゴム６,使用済
 
+//<チナヨ> -----------------------------------------
+//後ろ髪レイヤ層
+char6.bindgroup50.name,後ろ髪,ツーサイドアップ
+char6.bindgroup50.default,1
+char6.bindgroup51.name,後ろ髪,ロング
 
-char6.bindgroup95.name,断面図,空
-char6.bindgroup96.name,断面図,中出し１
-char6.bindgroup97.name,断面図,中出し２
-char6.bindgroup98.name,断面図,中出し３
+//体レイヤ層
+char6.bindgroup100.name,立ち絵,JK制服
+char6.bindgroup100.default,1
+char6.bindgroup101.name,立ち絵,オフショルニット
 
-char6.bindgroup100.name,使用済ゴム１,使用済
-char6.bindgroup101.name,使用済ゴム２,使用済
-char6.bindgroup102.name,使用済ゴム３,使用済
-char6.bindgroup103.name,使用済ゴム４,使用済
-char6.bindgroup104.name,使用済ゴム５,使用済
-char6.bindgroup105.name,使用済ゴム６,使用済
+//断面レイヤ層
+char6.bindgroup905.name,断面図,空
+char6.bindgroup906.name,断面図,中出し１
+char6.bindgroup907.name,断面図,中出し２
+char6.bindgroup908.name,断面図,中出し３
 
-char7.bindgroup95.name,断面図,空
-char7.bindgroup96.name,断面図,中出し１
-char7.bindgroup97.name,断面図,中出し２
-char7.bindgroup98.name,断面図,中出し３
+//使用済みゴムレイヤ層
+char6.bindgroup1000.name,使用済ゴム１,使用済_JK制服
+char6.bindgroup1001.name,使用済ゴム２,使用済_JK制服
+char6.bindgroup1002.name,使用済ゴム３,使用済_JK制服
+char6.bindgroup1003.name,使用済ゴム４,使用済_JK制服
+char6.bindgroup1004.name,使用済ゴム５,使用済_JK制服
+char6.bindgroup1005.name,使用済ゴム６,使用済_JK制服
+char6.bindgroup1010.name,使用済ゴム１,使用済_オフショルニット
+char6.bindgroup1011.name,使用済ゴム２,使用済_オフショルニット
+char6.bindgroup1012.name,使用済ゴム３,使用済_オフショルニット
+char6.bindgroup1013.name,使用済ゴム４,使用済_オフショルニット
+char6.bindgroup1014.name,使用済ゴム５,使用済_オフショルニット
+char6.bindgroup1015.name,使用済ゴム６,使用済_オフショルニット
 
-char7.bindgroup100.name,使用済ゴム１,使用済
-char7.bindgroup101.name,使用済ゴム２,使用済
-char7.bindgroup102.name,使用済ゴム３,使用済
-char7.bindgroup103.name,使用済ゴム４,使用済
-char7.bindgroup104.name,使用済ゴム５,使用済
-char7.bindgroup105.name,使用済ゴム６,使用済
-
-char7.bindgroup200.name,メガネ,丸眼鏡
-char7.bindgroup200.default,1
-char7.bindgroup210.name,ヘアピン,ヘアピン
-char7.bindgroup210.default,1
+//射精後ゴム持ち層
+char6.bindgroup2990.name,射精後ゴム,ユーザ
+char6.bindgroup2990.default,1
+//char6.bindgroup2991.name,射精後ゴム,フィリオ
 
 
+//<レレニー> -----------------------------------------
+//後ろ髪レイヤ層
+char7.bindgroup50.name,後ろ髪,ロング
+char7.bindgroup50.default,1
+char7.bindgroup51.name,後ろ髪,ツインテール
+
+//体レイヤ層
+char7.bindgroup100.name,立ち絵,私服セーター
+char7.bindgroup100.default,1
+char7.bindgroup101.name,立ち絵,バニー
+
+//断面レイヤ層
+char7.bindgroup905.name,断面図,空
+char7.bindgroup906.name,断面図,中出し１
+char7.bindgroup907.name,断面図,中出し２
+char7.bindgroup908.name,断面図,中出し３
+
+//使用済みゴムレイヤ層
+char7.bindgroup1000.name,使用済ゴム１,使用済_私服セーター
+char7.bindgroup1001.name,使用済ゴム２,使用済_私服セーター
+char7.bindgroup1002.name,使用済ゴム３,使用済_私服セーター
+char7.bindgroup1003.name,使用済ゴム４,使用済_私服セーター
+char7.bindgroup1004.name,使用済ゴム５,使用済_私服セーター
+char7.bindgroup1005.name,使用済ゴム６,使用済_私服セーター
+char7.bindgroup1010.name,使用済ゴム１,使用済_バニー
+char7.bindgroup1011.name,使用済ゴム２,使用済_バニー
+char7.bindgroup1012.name,使用済ゴム３,使用済_バニー
+char7.bindgroup1013.name,使用済ゴム４,使用済_バニー
+char7.bindgroup1014.name,使用済ゴム５,使用済_バニー
+char7.bindgroup1015.name,使用済ゴム６,使用済_バニー
+
+//射精後ゴム持ち層
+char7.bindgroup2990.name,射精後ゴム,ユーザ
+char7.bindgroup2990.default,1
+//char7.bindgroup2991.name,射精後ゴム,フィリオ
+
+//メガネ
+char7.bindgroup3000.name,メガネ,丸眼鏡
+char7.bindgroup3000.default,1
+//ヘアピン
+char7.bindgroup3010.name,ヘアピン,クロスヘアピン
+char7.bindgroup3010.default,1
+char7.bindgroup3011.name,ヘアピン,バニーヘアピン
+//帽子
+char7.bindgroup3020.name,帽子,バニーリボン
+
+
+
+//<ミナコ> -----------------------------------------
 
 char8.bindgroup0.name,立ち絵,通常
 char8.bindgroup0.default,1
