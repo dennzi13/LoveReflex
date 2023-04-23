@@ -16,7 +16,11 @@ surface9999
 //Base
 element0,overlay,surface00099.png,0,0
 }
-
+surface9998
+{
+//Base
+element0,overlay,surface900000.png,0,0
+}
 
 
 

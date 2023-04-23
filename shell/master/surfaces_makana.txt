@@ -121,13 +121,13 @@ surface0607
 {
 //”û
 animation10001.interval,runonce
-animation10001.pattern0,overlay,50101,0,0
+animation10001.pattern0,overlay,50100,0,0
 //–Ú
 animation10002.interval,runonce
 animation10002.pattern0,overlay,50200,0,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,50306,0,0
+animation10003.pattern0,overlay,50313,0,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,50400,0,0

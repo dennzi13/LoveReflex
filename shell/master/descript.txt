@@ -304,6 +304,7 @@ char6.bindgroup51.name,後ろ髪,ロング
 char6.bindgroup100.name,立ち絵,JK制服
 char6.bindgroup100.default,1
 char6.bindgroup101.name,立ち絵,オフショルニット
+char6.bindgroup102.name,立ち絵,バニー
 
 //断面レイヤ層
 char6.bindgroup905.name,断面図,空
@@ -324,11 +325,22 @@ char6.bindgroup1012.name,使用済ゴム３,使用済_オフショルニット
 char6.bindgroup1013.name,使用済ゴム４,使用済_オフショルニット
 char6.bindgroup1014.name,使用済ゴム５,使用済_オフショルニット
 char6.bindgroup1015.name,使用済ゴム６,使用済_オフショルニット
+char6.bindgroup1020.name,使用済ゴム１,使用済_バニー
+char6.bindgroup1021.name,使用済ゴム２,使用済_バニー
+char6.bindgroup1022.name,使用済ゴム３,使用済_バニー
+char6.bindgroup1023.name,使用済ゴム４,使用済_バニー
+char6.bindgroup1024.name,使用済ゴム５,使用済_バニー
+char6.bindgroup1025.name,使用済ゴム６,使用済_バニー
+
 
 //射精後ゴム持ち層
 char6.bindgroup2990.name,射精後ゴム,ユーザ
 char6.bindgroup2990.default,1
 //char6.bindgroup2991.name,射精後ゴム,フィリオ
+
+//帽子
+char6.bindgroup3020.name,帽子,白リボン
+char6.bindgroup3021.name,帽子,バニーリボン
 
 
 //<レレニー> -----------------------------------------

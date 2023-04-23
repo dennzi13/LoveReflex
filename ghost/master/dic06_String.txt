@@ -61,8 +61,11 @@ https://raw.githubusercontent.com/dennzi13/LoveReflex/master/
 ＠dressuprootbutton.visible
 0
 ＃シェル切り替え非表示
-＠shellrootbutton.visible
+＠shellrootbutton.visible	（起動中キャラ）！＝フーカ
 0
+
+＠shellrootbutton.visible	（起動中キャラ）＝＝フーカ＆＆（ボテ腹カウント）＜４
+1
 
 
 ＊コメント

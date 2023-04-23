@@ -477,13 +477,13 @@ surface1129
 {
 //”û
 animation10001.interval,runonce
-animation10001.pattern0,overlay,80102,0,0,0
+animation10001.pattern0,overlay,80101,0,0,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,80204,0,0,0
+animation10002.pattern0,overlay,80203,0,0,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,80304,0,0,0
+animation10003.pattern0,overlay,80303,0,0,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,80401,0,0,0
@@ -1425,7 +1425,7 @@ animation10004.pattern0,overlay,80401,0,0,0
 
 surface.append1100-1199
 {
-//satolist.surface.default,200,0
+//satolist.surface.default,3000,0
 //satolist.palette.offset,147,178
 //satolist.palette.expand,0.8
 //satolist.surface.default,50,0
