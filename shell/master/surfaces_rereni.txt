@@ -1425,7 +1425,7 @@ animation10004.pattern0,overlay,80401,0,0,0
 
 surface.append1100-1199
 {
-//satolist.surface.default,3000,0
+//satolist.surface.default,30000,0
 //satolist.palette.offset,147,178
 //satolist.palette.expand,0.8
 //satolist.surface.default,50,0
@@ -1504,8 +1504,8 @@ animation1015.collisionex105,使用済ゴム,polygon,164,504,174,501,180,513,187,557,
 
 
 //眼鏡
-animation3000.interval,bind+runonce
-animation3000.pattern0,overlay,80409,0,0,0
+animation30000.interval,bind+runonce
+animation30000.pattern0,overlay,80409,0,0,0
 //ヘアピン
 animation3010.interval,bind+runonce
 animation3010.pattern0,overlay,80410,0,0,0

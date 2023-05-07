@@ -233,6 +233,7 @@ char3.bindgroup3031.name,ニプレス,バツニプレス_ボテ腹
 char4.bindgroup50.name,後ろ髪,束ね
 char4.bindgroup50.default,1
 char4.bindgroup51.name,後ろ髪,セミロング
+char4.bindgroup52.name,後ろ髪,ポニーテール
 
 //体レイヤ層
 char4.bindgroup100.name,立ち絵,ニットセーター
@@ -240,6 +241,7 @@ char4.bindgroup100.default,1
 char4.bindgroup101.name,立ち絵,バスローブ
 char4.bindgroup102.name,立ち絵,バスローブはだけ
 char4.bindgroup103.name,立ち絵,バニー
+char4.bindgroup104.name,立ち絵,アメスク
 
 //断面レイヤ層
 char4.bindgroup905.name,断面図,空
@@ -260,6 +262,12 @@ char4.bindgroup1012.name,使用済ゴム３,使用済_バニー
 char4.bindgroup1013.name,使用済ゴム４,使用済_バニー
 char4.bindgroup1014.name,使用済ゴム５,使用済_バニー
 char4.bindgroup1015.name,使用済ゴム６,使用済_バニー
+char4.bindgroup1020.name,使用済ゴム１,使用済_アメスク
+char4.bindgroup1021.name,使用済ゴム２,使用済_アメスク
+char4.bindgroup1022.name,使用済ゴム３,使用済_アメスク
+char4.bindgroup1023.name,使用済ゴム４,使用済_アメスク
+char4.bindgroup1024.name,使用済ゴム５,使用済_アメスク
+char4.bindgroup1025.name,使用済ゴム６,使用済_アメスク
 
 //後ろ髪補助層
 char4.bindgroup2980.name,後ろ髪補助,束ね
@@ -270,13 +278,25 @@ char4.bindgroup2990.name,射精後ゴム,ユーザ
 char4.bindgroup2990.default,1
 //char4.bindgroup2991.name,射精後ゴム,フィリオ
 
-//メガネ
-char4.bindgroup3000.name,メガネ,赤縁メガネ
-char4.bindgroup3000.default,1
+
+//ヘアピン
+char4.bindgroup3010.name,ヘアピン,アメスクヘアピン
 //帽子
 char4.bindgroup3020.name,帽子,キャスケット帽
 char4.bindgroup3020.default,1
 char4.bindgroup3021.name,帽子,バニーリボン
+
+//目
+char4.bindgroup10002.name,目,通常メイク
+char4.bindgroup10002.default,1
+char4.bindgroup10003.name,目,ギャルメイク
+
+//メガネ
+char4.bindgroup30000.name,メガネ,赤縁メガネ
+char4.bindgroup30000.default,1
+char4.bindgroup30001.name,メガネ,スクエア赤縁メガネ
+
+
 
 //<フィリオ> -----------------------------------------
 char5.bindgroup0.name,立ち絵,通常
@@ -379,9 +399,7 @@ char7.bindgroup2990.name,射精後ゴム,ユーザ
 char7.bindgroup2990.default,1
 //char7.bindgroup2991.name,射精後ゴム,フィリオ
 
-//メガネ
-char7.bindgroup3000.name,メガネ,丸眼鏡
-char7.bindgroup3000.default,1
+
 //ヘアピン
 char7.bindgroup3010.name,ヘアピン,クロスヘアピン
 char7.bindgroup3010.default,1
@@ -389,7 +407,9 @@ char7.bindgroup3011.name,ヘアピン,バニーヘアピン
 //帽子
 char7.bindgroup3020.name,帽子,バニーリボン
 
-
+//メガネ
+char7.bindgroup30000.name,メガネ,丸眼鏡
+char7.bindgroup30000.default,1
 
 //<ミナコ> -----------------------------------------
 
