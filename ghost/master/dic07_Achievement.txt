@@ -404,7 +404,7 @@
 ＊OnKeyPress
 ＄行動繰り返しキー	（when、（行動繰り返しキーコンフィグ）＝＝１、（Ｒ０）、（行動繰り返しキー））
 ＞行動繰り返しキーコンフィグ設定完了	（行動繰り返しキーコンフィグ）＝＝１
-＞前回行動繰り返し	（R０）＝＝（行動繰り返しキー）
+＞前回行動繰り返し	（R０）＝＝（行動繰り返しキー）＆＆（行動繰り返し機能フラグ）＝＝１
 
 
 ＊前回行動繰り返し
@@ -580,7 +580,7 @@
 \q[戻る,1つつかれ]\_q
 
 ＊WEB拍手を送信
-メ：\_q\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="",--async=WebClap,--timeout=2]送信しましたφ。\_q
+メ：\_q\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="ラブリフレックスデリバリー拍手（zen2han、（現在時）（現在分）（現在秒））",--async=WebClap,--timeout=2]送信しましたφ。\_q
 
 \q[戻る,1つつかれ]
 
@@ -602,6 +602,8 @@
 メ：\_q\![execute,http-post,http://clap.webclap.com/clap.php?id=dennzi,--param=message_body="WEB拍手コメント：「（WEB拍手内容）」",--async=WebClap,--timeout=2]送信しましたφ。
 
 \q[戻る,1つつかれ]\_q
+
+
 
 
 
