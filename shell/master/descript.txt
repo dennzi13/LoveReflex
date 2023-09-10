@@ -443,7 +443,7 @@ char9.bindgroup51.name,後ろ髪,束ね
 
 
 //体レイヤ層
-char9.bindgroup100.name,立ち絵,通常私服
+char9.bindgroup100.name,立ち絵,私服
 char9.bindgroup100.default,1
 
 //断面レイヤ層
@@ -453,12 +453,12 @@ char9.bindgroup907.name,断面図,中出し２
 char9.bindgroup908.name,断面図,中出し３
 
 //使用済みゴムレイヤ層
-char9.bindgroup1000.name,使用済ゴム１,使用済_シスター服
-char9.bindgroup1001.name,使用済ゴム２,使用済_シスター服
-char9.bindgroup1002.name,使用済ゴム３,使用済_シスター服
-char9.bindgroup1003.name,使用済ゴム４,使用済_シスター服
-char9.bindgroup1004.name,使用済ゴム５,使用済_シスター服
-char9.bindgroup1005.name,使用済ゴム６,使用済_シスター服
+char9.bindgroup1000.name,使用済ゴム１,使用済_私服
+char9.bindgroup1001.name,使用済ゴム２,使用済_私服
+char9.bindgroup1002.name,使用済ゴム３,使用済_私服
+char9.bindgroup1003.name,使用済ゴム４,使用済_私服
+char9.bindgroup1004.name,使用済ゴム５,使用済_私服
+char9.bindgroup1005.name,使用済ゴム６,使用済_私服
 
 
 //射精後ゴム持ち層
