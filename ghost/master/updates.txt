@@ -45,7 +45,7 @@ file,ghost/master/dic73_MenuMinako.txt76a7051c545ea95a4e62c47e51e4e183size=387
 file,ghost/master/dic75_TalkMinako.txtfc922a425c39bb75f6b2e7829e495618size=4087date=2023-04-02T18:56:26
 file,ghost/master/dic78_SawariMinako.txte2f5b93077ad775fc47e957bd9195953size=24917date=2023-08-26T18:40:17
 file,ghost/master/dic81_BaseSuria.txt0daef504e26664a3f666121647508827size=7162date=2023-09-10T20:08:26
-file,ghost/master/dic83_MenuSuria.txt770d75ed3c550f9a56c0179f44f60e70size=3951date=2023-09-10T19:52:32
+file,ghost/master/dic83_MenuSuria.txt7469339cd0e6d93e3bf53bd7b72d3361size=3951date=2023-09-11T20:27:29
 file,ghost/master/dic85_TalkSuria.txt68c0cb1d7cc4fd79502aa0439d8d9adbsize=9722date=2023-09-11T19:06:42
 file,ghost/master/dic88_SawariSuria.txtd13e2c895d1fd811cea2330d5e33174asize=33060date=2023-09-10T19:14:27
 file,ghost/master/dic_MiniEvent.txte029684f387eadc10fccdea35769d334size=51980date=2023-09-10T19:59:36
