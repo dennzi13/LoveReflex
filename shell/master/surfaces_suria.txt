@@ -2389,14 +2389,14 @@ animation51.interval,bind
 animation51.pattern0,base,110003,0,0,0
 
 //ífñ ê}
-animation905.interval,bind+runonce
-animation905.pattern0,overlay,40408,0,8,0
-animation906.interval,bind+runonce
-animation906.pattern0,overlay,40409,0,8,0
-animation907.interval,bind+runonce
-animation907.pattern0,overlay,40410,0,8,0
-animation908.interval,bind+runonce
-animation908.pattern0,overlay,40411,0,8,0
+//animation905.interval,bind+runonce
+//animation905.pattern0,overlay,40408,0,8,0
+//animation906.interval,bind+runonce
+//animation906.pattern0,overlay,40409,0,8,0
+//animation907.interval,bind+runonce
+//animation907.pattern0,overlay,40410,0,8,0
+//animation908.interval,bind+runonce
+//animation908.pattern0,overlay,40411,0,8,0
 
 //égópçœÉSÉÄ
 animation1000.interval,bind+runonce

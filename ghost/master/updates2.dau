@@ -8,9 +8,9 @@ ghost/master/dic03_Menu.txt118f9d068c32acfd8b39c802cd0d4738size=22676date=202
 ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 ghost/master/dic05_Talk.txtf045e0773d269fa497530cd00e40733fsize=11078date=2022-12-23T00:47:57
 ghost/master/dic06_String.txtd5f76f06c39b58b951559cc65002714asize=4324date=2023-09-10T19:35:22
-ghost/master/dic07_Achievement.txte0cf2543cf3705fb4e86e5b066ce4e4bsize=52418date=2023-09-10T19:34:33
+ghost/master/dic07_Achievement.txt8ec8fb3ada868b7f12bf603de8c2f703size=52420date=2023-09-10T21:52:31
 ghost/master/dic08_Sawari.txt1a507fc22da44c3bbc29a9c2f7dcef3csize=74864date=2023-03-26T16:23:35
-ghost/master/dic09_Function.txtb261524d8ed737c9e55aa12abb0a01e9size=61998date=2023-09-10T20:06:06
+ghost/master/dic09_Function.txt6305609cde8bbf9d4b3acd9fb53ef181size=62000date=2023-09-11T19:37:12
 ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997date=2022-03-06T19:39:59
 ghost/master/dic11_BaseMinumu.txt5f7c36bf52832bc80ba54295dd572f8fsize=4513date=2023-03-12T16:35:58
 ghost/master/dic13_MenuMinumu.txtf35db33b5db4ede3b0a410542df07f51size=4125date=2023-04-16T18:01:20
@@ -45,7 +45,7 @@ ghost/master/dic75_TalkMinako.txtfc922a425c39bb75f6b2e7829e495618size=4087dat
 ghost/master/dic78_SawariMinako.txte2f5b93077ad775fc47e957bd9195953size=24917date=2023-08-26T18:40:17
 ghost/master/dic81_BaseSuria.txt0daef504e26664a3f666121647508827size=7162date=2023-09-10T20:08:26
 ghost/master/dic83_MenuSuria.txt770d75ed3c550f9a56c0179f44f60e70size=3951date=2023-09-10T19:52:32
-ghost/master/dic85_TalkSuria.txt9888d7cbf7316b9e24c35887719c3e11size=9722date=2023-09-10T20:14:54
+ghost/master/dic85_TalkSuria.txt68c0cb1d7cc4fd79502aa0439d8d9adbsize=9722date=2023-09-11T19:06:42
 ghost/master/dic88_SawariSuria.txtd13e2c895d1fd811cea2330d5e33174asize=33060date=2023-09-10T19:14:27
 ghost/master/dic_MiniEvent.txte029684f387eadc10fccdea35769d334size=51980date=2023-09-10T19:59:36
 ghost/master/memo.txtf65c91f221440dcfc32747fe02db00d1size=13701date=2023-08-30T19:24:36
@@ -756,5 +756,5 @@ shell/master/surfaces_makana.txt06f59b20e3402461ae810eee68c6381asize=52354dat
 shell/master/surfaces_minako.txt5d22f852cc3a6f804577df4f79427b0asize=27368date=2023-03-12T19:51:07
 shell/master/surfaces_minimu.txt7b287ba867cc4126f52bba9393c8336bsize=16668date=2023-08-26T18:58:26
 shell/master/surfaces_rereni.txt11daa71170cd499401ff485768b37aa5size=37218date=2023-05-07T18:23:18
-shell/master/surfaces_suria.txt72a0cf3904e9ffef9c5c51e537d06e17size=56800date=2023-09-10T20:05:21
+shell/master/surfaces_suria.txt4a6f141ea061c703ced9473748c7ec2dsize=56816date=2023-09-11T19:36:01
 shell/master/surfaces_yuna.txt62e8eeb0fe830147594722ca32d27b0esize=41951date=2023-04-16T01:16:25
