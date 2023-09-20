@@ -9,7 +9,7 @@ file,ghost/master/dic03_Menu.txtdd27242e79b0a8aca8d83f7f0fb1ab4asize=22693dat
 file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 file,ghost/master/dic05_Talk.txt5802a9eec6f15e475d6044862679cd75size=11089date=2023-09-18T20:05:42
 file,ghost/master/dic06_String.txtd5f76f06c39b58b951559cc65002714asize=4324date=2023-09-10T19:35:22
-file,ghost/master/dic07_Achievement.txt8ec8fb3ada868b7f12bf603de8c2f703size=52420date=2023-09-10T21:52:31
+file,ghost/master/dic07_Achievement.txt8c635eb4461c86576d3e4dcac8237c95size=52494date=2023-09-20T02:42:21
 file,ghost/master/dic08_Sawari.txt1a507fc22da44c3bbc29a9c2f7dcef3csize=74864date=2023-03-26T16:23:35
 file,ghost/master/dic09_Function.txt6305609cde8bbf9d4b3acd9fb53ef181size=62000date=2023-09-11T19:37:12
 file,ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997date=2022-03-06T19:39:59
@@ -19,7 +19,7 @@ file,ghost/master/dic15_TalkMinimu.txt2807fed2da924d3832b6ebb385b47239size=565
 file,ghost/master/dic18_SawariMinimu.txt99d05d023db51cd95ca8585c1e7b1c5bsize=32233date=2023-09-06T01:44:26
 file,ghost/master/dic21_BaseYuna.txtfe970f7c304c94e91c1d346cbf0ce56bsize=13245date=2023-03-12T19:30:56
 file,ghost/master/dic23_MenuYuna.txt24aed0c6ccd94918487e010e128dbfbfsize=7955date=2023-09-18T04:22:36
-file,ghost/master/dic25_TalkYuna.txtf65832a43aad4ae8f2e65775108bcf6bsize=7475date=2023-09-18T04:26:15
+file,ghost/master/dic25_TalkYuna.txtd6f2eff92e12a1aae516b8cb6ecd2abesize=9529date=2023-09-20T19:14:39
 file,ghost/master/dic28_SawariYuna.txt63b1fd51b9cb8d80dcb373df0e233b6fsize=44399date=2023-08-26T17:58:15
 file,ghost/master/dic31_BaseMakana.txt57a147425245f654a29250829e86ee66size=9848date=2023-03-26T18:20:57
 file,ghost/master/dic33_MenuMakana.txt747440917271222235d553a8ebf4ef5fsize=12363date=2023-09-18T04:22:36
@@ -29,12 +29,12 @@ file,ghost/master/dic38_SawariMakana.txt7165afa7854b14609d993bb147ed3563size=4
 file,ghost/master/dic39_PrivateMakana.txt33d1938a4b07c6ef1339c4a6a34b0db9size=26194date=2023-04-16T19:03:20
 file,ghost/master/dic41_BaseFirio.txt7841d47ac1b92066b01c41c37a960d04size=10406date=2023-05-23T18:44:32
 file,ghost/master/dic43_MenuFirio.txtabb5b0804086b104ce89b3b8f2fbe531size=6334date=2023-09-18T04:23:25
-file,ghost/master/dic45_TalkFirio.txt4b0110e39a1129c59053b0b4575547dcsize=12845date=2023-09-18T04:26:39
+file,ghost/master/dic45_TalkFirio.txt6223d8cdc2f76b8945f2256facf2f933size=13176date=2023-09-19T03:51:19
 file,ghost/master/dic47_ExModeFirio.txte4579afe821f8c5cf323c9d2c960dec1size=8327date=2023-09-01T03:28:44
 file,ghost/master/dic48_SawariFirio.txtc6ccc22c69a7922b9ce02f25513d1d18size=32741date=2023-08-26T18:51:06
 file,ghost/master/dic51_BaseChinayo.txtd2c119fb087e066c6586ffe154fea298size=13016date=2023-05-23T18:33:36
 file,ghost/master/dic53_MenuChinayo.txt343c6d7f1d322d8f68d7190f842fc24asize=9797date=2023-09-18T04:23:25
-file,ghost/master/dic55_TalkChinayo.txt1675b95bb98c62a66cc75ebf0ab3e0e9size=7333date=2023-09-18T20:05:27
+file,ghost/master/dic55_TalkChinayo.txt4d794b316e8fbe0891e2434af6dd0a91size=7342date=2023-09-20T16:19:37
 file,ghost/master/dic58_SawariChinayo.txt18a08a4b8f13eb2cee5ce64190482617size=37663date=2023-08-30T19:22:58
 file,ghost/master/dic61_BaseRereni.txt2203e1aff623c2b229559e94a6222a2asize=7840date=2023-03-14T20:20:35
 file,ghost/master/dic63_MenuRereni.txt5cd5cf2d677fb239757d8a61f258ad90size=5695date=2023-09-18T04:23:25
@@ -49,8 +49,8 @@ file,ghost/master/dic83_MenuSuria.txt729bc260eb5324852f5ad585af5b8ff4size=3966
 file,ghost/master/dic85_TalkSuria.txt1297e3dcd212fea878b76cce2a3adc1dsize=9735date=2023-09-18T04:27:09
 file,ghost/master/dic88_SawariSuria.txtd13e2c895d1fd811cea2330d5e33174asize=33060date=2023-09-10T19:14:27
 file,ghost/master/dic_MiniEvent.txt54b3390173a05e2f91c4767b2be9b6e4size=54397date=2023-09-18T20:06:25
-file,ghost/master/memo.txt8b36121ecb1a19de5e0601011c83dbc2size=13699date=2023-09-18T20:07:36
-file,ghost/master/note.txt340e20667f24f44c417be4498e4223b5size=34279date=2023-09-18T16:48:08
+file,ghost/master/memo.txtbd079c39f3d92ff306aa05333ca052a5size=13609date=2023-09-20T20:17:39
+file,ghost/master/note.txt7dc355cf12b270edb86245a3dfa49c74size=35283date=2023-09-20T04:12:14
 file,ghost/master/replace.txtd03de3d234f119653e02f6b5caffb7efsize=497date=2023-09-18T04:25:26
 file,ghost/master/replace_after.txt26d2b730c71305e1de1383fc97abeb78size=285date=2023-09-18T04:25:26
 file,ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064date=2002-01-31T12:48:00

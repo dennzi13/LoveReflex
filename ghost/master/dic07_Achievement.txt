@@ -21,12 +21,13 @@
 \![*]\q[ミニイベント回想,ミニイベント回想]\_l[150,@0]\![*]\q[ユーザ設定,ユーザ設定]
 \![*]\q[実績確認,実績確認]\_l[150,@0]\![*]\q[各種設定,各種設定]\n[40]
 （when、（起動回数）＞＝３＆＆（時間無限）＝＝０、\q[無限チートモード開始,無限モード]\n）φ
+\q[φ☆人気投票φ＆アンケート実施中(ページに飛びます）,アンケート実施中]
 \q[WEB拍手,WEB拍手]
 \q[抜いたボタン,抜いたボタン]
 \_q
 
 ＊アンケート実施中
-\j[https://docs.google.com/forms/d/e/1FAIpQLSdMC_DR7jEwNWkIAi4zLHO0JLI0QrOwWJmf6QwZ6WFUqbL8Lw/viewform?usp=sf_link]
+\j[https://docs.google.com/forms/d/e/1FAIpQLSfOfrubf2bJM_J-vPFMDCWTa6T3frE-n0_cIgKIGA6wvpKxXQ/viewform?usp=sf_link]
 
 
 ＠更新表示
