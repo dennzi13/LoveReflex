@@ -4,13 +4,13 @@ file,developer_options.txtc4d4ca3b2b2258c93f70a92a192f32f0size=544date=2021-1
 file,ghost/master/descript.txtb8f033a4b190499dbb242ccd0e639237size=639date=2022-02-27T22:59:51
 file,ghost/master/dic00_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 file,ghost/master/dic01_Base.txt15577dbb694fb3815d95017e22065187size=23600date=2023-04-18T15:48:50
-file,ghost/master/dic02_Event.txt7a4697856a8e22e1f73f7c3673268afasize=2978date=2023-10-08T18:57:15
+file,ghost/master/dic02_Event.txt9d6a68fd0e778ac46595a330083bb846size=3054date=2023-11-14T18:23:44
 file,ghost/master/dic03_Menu.txtdd27242e79b0a8aca8d83f7f0fb1ab4asize=22693date=2023-09-18T04:22:36
 file,ghost/master/dic04_Change.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 file,ghost/master/dic05_Talk.txt012acfc5a077669b23f3e1843559e59esize=13378date=2023-10-08T18:27:09
 file,ghost/master/dic06_String.txtd5f76f06c39b58b951559cc65002714asize=4324date=2023-09-10T19:35:22
-file,ghost/master/dic07_Achievement.txt8f979d6d4be0eb22211a7ca297e197f9size=53906date=2023-10-06T04:09:52
-file,ghost/master/dic08_Sawari.txt1a507fc22da44c3bbc29a9c2f7dcef3csize=74864date=2023-03-26T16:23:35
+file,ghost/master/dic07_Achievement.txt377a6bf859b344e955fd60d970d5914bsize=53908date=2023-11-14T18:22:57
+file,ghost/master/dic08_Sawari.txt1a507fc22da44c3bbc29a9c2f7dcef3csize=74864date=2023-03-26T16:23:36
 file,ghost/master/dic09_Function.txt688c78dbefee41f211f99dc4656a3965size=62527date=2023-10-08T19:56:50
 file,ghost/master/dic10_Live.txt705e8fffae6aa630de8884ede2538fe8size=12997date=2022-03-06T19:39:59
 file,ghost/master/dic11_BaseMinumu.txt5f7c36bf52832bc80ba54295dd572f8fsize=4513date=2023-03-12T16:35:58
@@ -49,7 +49,7 @@ file,ghost/master/dic83_MenuSuria.txt729bc260eb5324852f5ad585af5b8ff4size=3966
 file,ghost/master/dic85_TalkSuria.txt6404c44a5a077fa0c955377e44a9fd11size=10013date=2023-10-08T17:42:43
 file,ghost/master/dic88_SawariSuria.txtd13e2c895d1fd811cea2330d5e33174asize=33060date=2023-09-10T19:14:27
 file,ghost/master/dic_MiniEvent.txt78bdbca72cda8fb1693c995d0eaaae05size=61016date=2023-10-03T04:07:35
-file,ghost/master/memo.txtbd079c39f3d92ff306aa05333ca052a5size=13609date=2023-09-20T20:17:39
+file,ghost/master/memo.txtbd079c39f3d92ff306aa05333ca052a5size=13609date=2023-09-20T20:17:40
 file,ghost/master/note.txtd58ac49f5889389af36734b0ef92e963size=35909date=2023-10-04T19:53:45
 file,ghost/master/replace.txtd03de3d234f119653e02f6b5caffb7efsize=497date=2023-09-18T04:25:26
 file,ghost/master/replace_after.txt26d2b730c71305e1de1383fc97abeb78size=285date=2023-09-18T04:25:26
