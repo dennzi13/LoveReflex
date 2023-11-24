@@ -8,6 +8,15 @@ readme,readme.txt
 sakura.name,ÉtÅ[ÉJ
 sakura.seriko.defaultsurface,0
 kero.seriko.defaultsurface,10
+char100.seriko.defaultsurface,900001
+char101.seriko.defaultsurface,900001
+char102.seriko.defaultsurface,900001
+char103.seriko.defaultsurface,900001
+char104.seriko.defaultsurface,900001
+char105.seriko.defaultsurface,900001
+char106.seriko.defaultsurface,900001
+char107.seriko.defaultsurface,900001
+char108.seriko.defaultsurface,900001
 balloon.defaultsurface,0
 seriko.alignmenttodesktop,bottom
 sakura.seriko.alignmenttodesktop,bottom
@@ -23,7 +32,5 @@ don't need bind,0
 don't need seriko talk,0
 balloon.dontmove,False
 shiori,satori.dll
-
-
 
 
