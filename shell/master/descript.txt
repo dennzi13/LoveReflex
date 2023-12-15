@@ -418,22 +418,48 @@ char7.bindgroup30000.name,メガネ,丸眼鏡
 char7.bindgroup30000.default,1
 
 //<ミナコ> -----------------------------------------
+//後ろ髪レイヤ層
+char8.bindgroup50.name,後ろ髪,二つ結び
+char8.bindgroup50.default,1
+char8.bindgroup51.name,後ろ髪,セミロング
+char8.bindgroup52.name,後ろ髪,ショート
 
-char8.bindgroup0.name,立ち絵,通常
-char8.bindgroup0.default,1
-char8.bindgroup1.name,立ち絵,胸露出
+//体レイヤ層
+char8.bindgroup100.name,立ち絵,ワイシャツ
+char8.bindgroup100.default,1
+char8.bindgroup101.name,立ち絵,ワイシャツ_胸露出
+char8.bindgroup102.name,立ち絵,私服
+char8.bindgroup103.name,立ち絵,私服_ノーブラ
 
-char8.bindgroup95.name,断面図,空
-char8.bindgroup96.name,断面図,中出し１
-char8.bindgroup97.name,断面図,中出し２
-char8.bindgroup98.name,断面図,中出し３
+//断面レイヤ層
+char8.bindgroup905.name,断面図,空
+char8.bindgroup906.name,断面図,中出し１
+char8.bindgroup907.name,断面図,中出し２
+char8.bindgroup908.name,断面図,中出し３
 
-char8.bindgroup100.name,使用済ゴム１,使用済
-char8.bindgroup101.name,使用済ゴム２,使用済
-char8.bindgroup102.name,使用済ゴム３,使用済
-char8.bindgroup103.name,使用済ゴム４,使用済
-char8.bindgroup104.name,使用済ゴム５,使用済
-char8.bindgroup105.name,使用済ゴム６,使用済
+//使用済みゴムレイヤ層
+char8.bindgroup1000.name,使用済ゴム１,使用済_ワイシャツ
+char8.bindgroup1001.name,使用済ゴム２,使用済_ワイシャツ
+char8.bindgroup1002.name,使用済ゴム３,使用済_ワイシャツ
+char8.bindgroup1003.name,使用済ゴム４,使用済_ワイシャツ
+char8.bindgroup1004.name,使用済ゴム５,使用済_ワイシャツ
+char8.bindgroup1005.name,使用済ゴム６,使用済_ワイシャツ
+char8.bindgroup1010.name,使用済ゴム１,使用済_私服
+char8.bindgroup1011.name,使用済ゴム２,使用済_私服
+char8.bindgroup1012.name,使用済ゴム３,使用済_私服
+char8.bindgroup1013.name,使用済ゴム４,使用済_私服
+char8.bindgroup1014.name,使用済ゴム５,使用済_私服
+char8.bindgroup1015.name,使用済ゴム６,使用済_私服
+
+//後ろ髪補助層
+char8.bindgroup2980.name,後ろ髪補助,二つ結び
+char8.bindgroup2980.default,1
+
+//射精後ゴム持ち層
+char8.bindgroup2990.name,射精後ゴム,ユーザ
+char8.bindgroup2990.default,1
+//char8.bindgroup2991.name,射精後ゴム,フィリオ
+
 
 //<スーリア> -----------------------------------------
 //後ろ髪レイヤ層
