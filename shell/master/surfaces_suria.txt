@@ -5,7 +5,7 @@ descript
 version,1
 }
 
-surface1200
+surface1600
 {
 //眉
 animation10001.interval,runonce
@@ -21,7 +21,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1201
+surface1601
 {
 //眉
 animation10001.interval,runonce
@@ -37,7 +37,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1202
+surface1602
 {
 //眉
 animation10001.interval,runonce
@@ -53,7 +53,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1203
+surface1603
 {
 //眉
 animation10001.interval,runonce
@@ -69,7 +69,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1204
+surface1604
 {
 //眉
 animation10001.interval,runonce
@@ -85,7 +85,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1205
+surface1605
 {
 //眉
 animation10001.interval,runonce
@@ -101,7 +101,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1206
+surface1606
 {
 //眉
 animation10001.interval,runonce
@@ -117,7 +117,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1207
+surface1607
 {
 //眉
 animation10001.interval,runonce
@@ -133,7 +133,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1208
+surface1608
 {
 //眉
 animation10001.interval,runonce
@@ -149,7 +149,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1209
+surface1609
 {
 //眉
 animation10001.interval,runonce
@@ -165,7 +165,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1210
+surface1610
 {
 //眉
 animation10001.interval,runonce
@@ -181,7 +181,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1211
+surface1611
 {
 //眉
 animation10001.interval,runonce
@@ -197,7 +197,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1212
+surface1612
 {
 //眉
 animation10001.interval,runonce
@@ -213,7 +213,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1213
+surface1613
 {
 //眉
 animation10001.interval,runonce
@@ -229,7 +229,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1214
+surface1614
 {
 //眉
 animation10001.interval,runonce
@@ -245,7 +245,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1215
+surface1615
 {
 //眉
 animation10001.interval,runonce
@@ -261,7 +261,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1216
+surface1616
 {
 //眉
 animation10001.interval,runonce
@@ -277,7 +277,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1217
+surface1617
 {
 //眉
 animation10001.interval,runonce
@@ -293,7 +293,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1218
+surface1618
 {
 //眉
 animation10001.interval,runonce
@@ -309,7 +309,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1219
+surface1619
 {
 //眉
 animation10001.interval,runonce
@@ -325,7 +325,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1220
+surface1620
 {
 //眉
 animation10001.interval,runonce
@@ -341,7 +341,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110307,0,0,0
 }
 
-surface1221
+surface1621
 {
 //眉
 animation10001.interval,runonce
@@ -357,7 +357,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1222
+surface1622
 {
 //眉
 animation10001.interval,runonce
@@ -373,7 +373,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1223
+surface1623
 {
 //眉
 animation10001.interval,runonce
@@ -389,7 +389,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1224
+surface1624
 {
 //眉
 animation10001.interval,runonce
@@ -405,7 +405,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1225
+surface1625
 {
 //眉
 animation10001.interval,runonce
@@ -421,7 +421,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1226
+surface1626
 {
 //眉
 animation10001.interval,runonce
@@ -437,7 +437,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1227
+surface1627
 {
 //眉
 animation10001.interval,runonce
@@ -453,7 +453,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1228
+surface1628
 {
 //眉
 animation10001.interval,runonce
@@ -469,7 +469,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1229
+surface1629
 {
 //眉
 animation10001.interval,runonce
@@ -488,7 +488,7 @@ animation10003.pattern0,overlay,110309,0,0,0
 
 
 
-surface1230
+surface1630
 {
 //眉
 animation10001.interval,runonce
@@ -504,7 +504,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1231
+surface1631
 {
 //眉
 animation10001.interval,runonce
@@ -520,7 +520,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1232
+surface1632
 {
 //眉
 animation10001.interval,runonce
@@ -536,7 +536,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1233
+surface1633
 {
 //眉
 animation10001.interval,runonce
@@ -552,7 +552,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1234
+surface1634
 {
 //眉
 animation10001.interval,runonce
@@ -568,7 +568,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1235
+surface1635
 {
 //眉
 animation10001.interval,runonce
@@ -584,7 +584,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1236
+surface1636
 {
 //眉
 animation10001.interval,runonce
@@ -600,7 +600,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1237
+surface1637
 {
 //眉
 animation10001.interval,runonce
@@ -616,7 +616,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1238
+surface1638
 {
 //眉
 animation10001.interval,runonce
@@ -632,7 +632,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1239
+surface1639
 {
 //眉
 animation10001.interval,runonce
@@ -648,7 +648,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1240
+surface1640
 {
 //眉
 animation10001.interval,runonce
@@ -664,7 +664,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1241
+surface1641
 {
 //眉
 animation10001.interval,runonce
@@ -680,7 +680,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1242
+surface1642
 {
 //眉
 animation10001.interval,runonce
@@ -696,7 +696,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1243
+surface1643
 {
 //眉
 animation10001.interval,runonce
@@ -712,7 +712,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1244
+surface1644
 {
 //眉
 animation10001.interval,runonce
@@ -728,7 +728,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1245
+surface1645
 {
 //眉
 animation10001.interval,runonce
@@ -744,7 +744,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1246
+surface1646
 {
 //眉
 animation10001.interval,runonce
@@ -760,7 +760,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1247
+surface1647
 {
 //眉
 animation10001.interval,runonce
@@ -776,7 +776,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1248
+surface1648
 {
 //眉
 animation10001.interval,runonce
@@ -792,7 +792,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1249
+surface1649
 {
 //眉
 animation10001.interval,runonce
@@ -808,7 +808,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1250
+surface1650
 {
 //眉
 animation10001.interval,runonce
@@ -827,7 +827,7 @@ animation10005.interval,runonce
 animation10005.pattern0,overlay,110410,0,0,0
 }
 
-surface1251
+surface1651
 {
 //眉
 animation10001.interval,runonce
@@ -846,7 +846,7 @@ animation10005.interval,runonce
 animation10005.pattern0,overlay,110410,0,0,0
 }
 
-surface1252
+surface1652
 {
 //眉
 animation10001.interval,runonce
@@ -862,7 +862,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1253
+surface1653
 {
 //眉
 animation10001.interval,runonce
@@ -878,7 +878,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1254
+surface1654
 {
 //眉
 animation10001.interval,runonce
@@ -894,7 +894,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1255
+surface1655
 {
 //眉
 animation10001.interval,runonce
@@ -910,7 +910,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1256
+surface1656
 {
 //眉
 animation10001.interval,runonce
@@ -926,7 +926,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110312,0,0,0
 }
 
-surface1257
+surface1657
 {
 //眉
 animation10001.interval,runonce
@@ -942,7 +942,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110312,0,0,0
 }
 
-surface1258
+surface1658
 {
 //眉
 animation10001.interval,runonce
@@ -958,7 +958,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1259
+surface1659
 {
 //眉
 animation10001.interval,runonce
@@ -975,7 +975,7 @@ animation10003.pattern0,overlay,110307,0,0,0
 }
 
 
-surface1260
+surface1660
 {
 //眉
 animation10001.interval,runonce
@@ -991,7 +991,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1261
+surface1661
 {
 //眉
 animation10001.interval,runonce
@@ -1007,7 +1007,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1262
+surface1662
 {
 //眉
 animation10001.interval,runonce
@@ -1023,7 +1023,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110311,0,0,0
 }
 
-surface1263
+surface1663
 {
 //眉
 animation10001.interval,runonce
@@ -1039,7 +1039,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1264
+surface1664
 {
 //眉
 animation10001.interval,runonce
@@ -1055,7 +1055,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1265
+surface1665
 {
 //眉
 animation10001.interval,runonce
@@ -1072,7 +1072,7 @@ animation10003.pattern0,overlay,110309,0,0,0
 }
 
 
-surface1266
+surface1666
 {
 //眉
 animation10001.interval,runonce
@@ -1088,7 +1088,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1267
+surface1667
 {
 //眉
 animation10001.interval,runonce
@@ -1104,7 +1104,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1268
+surface1668
 {
 //眉
 animation10001.interval,runonce
@@ -1120,7 +1120,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1269
+surface1669
 {
 //眉
 animation10001.interval,runonce
@@ -1136,7 +1136,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1270
+surface1670
 {
 //眉
 animation10001.interval,runonce
@@ -1152,7 +1152,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1271
+surface1671
 {
 //眉
 animation10001.interval,runonce
@@ -1168,7 +1168,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1272
+surface1672
 {
 //眉
 animation10001.interval,runonce
@@ -1184,7 +1184,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110311,0,0,0
 }
 
-surface1273
+surface1673
 {
 //眉
 animation10001.interval,runonce
@@ -1200,7 +1200,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1274
+surface1674
 {
 //眉
 animation10001.interval,runonce
@@ -1216,7 +1216,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1275
+surface1675
 {
 //眉
 animation10001.interval,runonce
@@ -1232,7 +1232,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1276
+surface1676
 {
 //眉
 animation10001.interval,runonce
@@ -1248,7 +1248,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1277
+surface1677
 {
 //眉
 animation10001.interval,runonce
@@ -1264,7 +1264,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1278
+surface1678
 {
 //眉
 animation10001.interval,runonce
@@ -1280,7 +1280,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1279
+surface1679
 {
 //眉
 animation10001.interval,runonce
@@ -1296,7 +1296,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1280
+surface1680
 {
 //眉
 animation10001.interval,runonce
@@ -1312,7 +1312,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1290
+surface1690
 {
 //眉
 animation10001.interval,runonce
@@ -1328,7 +1328,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1291
+surface1691
 {
 //眉
 animation10001.interval,runonce
@@ -1344,7 +1344,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1292
+surface1692
 {
 //眉
 animation10001.interval,runonce
@@ -1360,7 +1360,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1293
+surface1693
 {
 //眉
 animation10001.interval,runonce
@@ -1376,7 +1376,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1294
+surface1694
 {
 //眉
 animation10001.interval,runonce
@@ -1392,7 +1392,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1295
+surface1695
 {
 //眉
 animation10001.interval,runonce
@@ -1408,7 +1408,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110311,0,0,0
 }
 
-surface1296
+surface1696
 {
 //眉
 animation10001.interval,runonce
@@ -1424,7 +1424,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110302,0,0,0
 }
 
-surface1297
+surface1697
 {
 //眉
 animation10001.interval,runonce
@@ -1440,7 +1440,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1298
+surface1698
 {
 //眉
 animation10001.interval,runonce
@@ -1456,7 +1456,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1299
+surface1699
 {
 //眉
 animation10001.interval,runonce
@@ -1472,7 +1472,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1300
+surface1700
 {
 //眉
 animation10001.interval,runonce
@@ -1488,7 +1488,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110309,0,0,0
 }
 
-surface1301
+surface1701
 {
 //眉
 animation10001.interval,runonce
@@ -1504,7 +1504,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1302
+surface1702
 {
 //眉
 animation10001.interval,runonce
@@ -1520,7 +1520,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1303
+surface1703
 {
 //眉
 animation10001.interval,runonce
@@ -1536,7 +1536,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1304
+surface1704
 {
 //眉
 animation10001.interval,runonce
@@ -1552,7 +1552,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1305
+surface1705
 {
 //眉
 animation10001.interval,runonce
@@ -1568,7 +1568,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1306
+surface1706
 {
 //眉
 animation10001.interval,runonce
@@ -1584,7 +1584,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1307
+surface1707
 {
 //眉
 animation10001.interval,runonce
@@ -1600,7 +1600,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1308
+surface1708
 {
 //眉
 animation10001.interval,runonce
@@ -1616,7 +1616,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110311,0,0,0
 }
 
-surface1309
+surface1709
 {
 //眉
 animation10001.interval,runonce
@@ -1632,7 +1632,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1310
+surface1710
 {
 //眉
 animation10001.interval,runonce
@@ -1649,7 +1649,7 @@ animation10003.pattern0,overlay,110304,0,0,0
 }
 
 
-surface1311
+surface1711
 {
 //眉
 animation10001.interval,runonce
@@ -1665,7 +1665,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1312
+surface1712
 {
 //眉
 animation10001.interval,runonce
@@ -1681,7 +1681,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110312,0,0,0
 }
 
-surface1313
+surface1713
 {
 //眉
 animation10001.interval,runonce
@@ -1697,7 +1697,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1314
+surface1714
 {
 //眉
 animation10001.interval,runonce
@@ -1713,7 +1713,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1315
+surface1715
 {
 //眉
 animation10001.interval,runonce
@@ -1729,7 +1729,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1316
+surface1716
 {
 //眉
 animation10001.interval,runonce
@@ -1745,7 +1745,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1317
+surface1717
 {
 //眉
 animation10001.interval,runonce
@@ -1761,7 +1761,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1318
+surface1718
 {
 //眉
 animation10001.interval,runonce
@@ -1777,7 +1777,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1319
+surface1719
 {
 //眉
 animation10001.interval,runonce
@@ -1793,7 +1793,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1320
+surface1720
 {
 //眉
 animation10001.interval,runonce
@@ -1809,7 +1809,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1321
+surface1721
 {
 //眉
 animation10001.interval,runonce
@@ -1825,7 +1825,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110307,0,0,0
 }
 
-surface1322
+surface1722
 {
 //眉
 animation10001.interval,runonce
@@ -1841,7 +1841,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1323
+surface1723
 {
 //眉
 animation10001.interval,runonce
@@ -1857,7 +1857,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1324
+surface1724
 {
 //眉
 animation10001.interval,runonce
@@ -1874,7 +1874,7 @@ animation10003.pattern0,overlay,110307,0,0,0
 }
 
 
-surface1325
+surface1725
 {
 //眉
 animation10001.interval,runonce
@@ -1890,7 +1890,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110307,0,0,0
 }
 
-surface1326
+surface1726
 {
 //眉
 animation10001.interval,runonce
@@ -1906,7 +1906,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1327
+surface1727
 {
 //眉
 animation10001.interval,runonce
@@ -1922,7 +1922,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110311,0,0,0
 }
 
-surface1328
+surface1728
 {
 //眉
 animation10001.interval,runonce
@@ -1938,7 +1938,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110312,0,0,0
 }
 
-surface1329
+surface1729
 {
 //眉
 animation10001.interval,runonce
@@ -1954,7 +1954,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1330
+surface1730
 {
 //眉
 animation10001.interval,runonce
@@ -1970,7 +1970,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1331
+surface1731
 {
 //眉
 animation10001.interval,runonce
@@ -1986,7 +1986,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110312,0,0,0
 }
 
-surface1332
+surface1732
 {
 //眉
 animation10001.interval,runonce
@@ -2002,7 +2002,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1333
+surface1733
 {
 //眉
 animation10001.interval,runonce
@@ -2018,7 +2018,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110310,0,0,0
 }
 
-surface1334
+surface1734
 {
 //眉
 animation10001.interval,runonce
@@ -2034,7 +2034,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1335
+surface1735
 {
 //眉
 animation10001.interval,runonce
@@ -2050,7 +2050,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1336
+surface1736
 {
 //眉
 animation10001.interval,runonce
@@ -2066,7 +2066,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110300,0,0,0
 }
 
-surface1337
+surface1737
 {
 //眉
 animation10001.interval,runonce
@@ -2082,7 +2082,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1350
+surface1750
 {
 //眉
 animation10001.interval,runonce
@@ -2099,7 +2099,7 @@ animation10003.pattern0,overlay,110301,0,0,0
 }
 
 
-surface1351
+surface1751
 {
 //眉
 animation10001.interval,runonce
@@ -2115,7 +2115,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1352
+surface1752
 {
 //眉
 animation10001.interval,runonce
@@ -2131,7 +2131,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110303,0,0,0
 }
 
-surface1353
+surface1753
 {
 //眉
 animation10001.interval,runonce
@@ -2147,7 +2147,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1354
+surface1754
 {
 //眉
 animation10001.interval,runonce
@@ -2163,7 +2163,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1355
+surface1755
 {
 //眉
 animation10001.interval,runonce
@@ -2181,7 +2181,7 @@ animation10003.pattern0,overlay,110307,0,0,0
 
 
 
-surface1356
+surface1756
 {
 //眉
 animation10001.interval,runonce
@@ -2198,7 +2198,7 @@ animation10003.pattern0,overlay,110304,0,0,0
 }
 
 
-surface1357
+surface1757
 {
 //眉
 animation10001.interval,runonce
@@ -2214,7 +2214,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110308,0,0,0
 }
 
-surface1358
+surface1758
 {
 //眉
 animation10001.interval,runonce
@@ -2230,7 +2230,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110306,0,0,0
 }
 
-surface1359
+surface1759
 {
 //眉
 animation10001.interval,runonce
@@ -2246,7 +2246,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110304,0,0,0
 }
 
-surface1360
+surface1760
 {
 //眉
 animation10001.interval,runonce
@@ -2262,7 +2262,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1361
+surface1761
 {
 //眉
 animation10001.interval,runonce
@@ -2278,7 +2278,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1362
+surface1762
 {
 //眉
 animation10001.interval,runonce
@@ -2294,7 +2294,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110307,0,0,0
 }
 
-surface1363
+surface1763
 {
 //眉
 animation10001.interval,runonce
@@ -2310,7 +2310,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1364
+surface1764
 {
 //眉
 animation10001.interval,runonce
@@ -2326,7 +2326,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110307,0,0,0
 }
 
-surface1365
+surface1765
 {
 //眉
 animation10001.interval,runonce
@@ -2342,7 +2342,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110301,0,0,0
 }
 
-surface1366
+surface1766
 {
 //眉
 animation10001.interval,runonce
@@ -2359,7 +2359,7 @@ animation10003.pattern0,overlay,110304,0,0,0
 }
 
 
-surface1367
+surface1767
 {
 //眉
 animation10001.interval,runonce
@@ -2375,7 +2375,7 @@ animation10003.interval,runonce
 animation10003.pattern0,overlay,110305,0,0,0
 }
 
-surface1368
+surface1768
 {
 //眉
 animation10001.interval,runonce
@@ -2392,8 +2392,9 @@ animation10003.pattern0,overlay,110306,0,0,0
 }
 
 //スーリア共通
-surface.append1200-1399
+surface.append1600-1799
 {
+//satolist.surface.scope,9
 //satolist.palette.offset,127,136
 //satolist.palette.expand,0.8
 //satolist.surface.default,50,0
@@ -2454,7 +2455,7 @@ animation1005.collisionex105,使用済ゴム,polygon,246,264,258,274,264,292,265,302,
 }
 
 //通常サーフェス・立ち絵
-surface.append1200-1349
+surface.append1600-1749
 {
 //立ち絵
 animation100.interval,bind
@@ -2465,7 +2466,7 @@ animation100.collisionex6,お腹,polygon,146,378,128,385,114,427,135,466,207,466,2
 }
 
 //ゴム持ちサーフェス・立ち絵
-surface.append1350-1399
+surface.append1750-1799
 {
 //立ち絵
 animation100.interval,bind

@@ -933,6 +933,11 @@ element4,overlay,surface10400.png,0,0
 //ÉtÅ[ÉJã§í 
 surface.append0-9,11-98
 {
+//satolist.surface.scope,0
+//satolist.palette.offset,110,127
+//satolist.palette.expand,0.9
+
+
 collisionex1,å˚,polygon,159,195,175,195,180,213,165,218,153,211
 collisionex2,ãπ,polygon,126,253,87,264,58,289,47,318,54,343,78,357,99,360,140,352,174,362,204,363,228,345,236,314,232,283,220,263,215,257
 collisionex3,é®,polygon,192,62,216,29,235,5,242,15,245,54,241,99,234,112,221,85,207,65

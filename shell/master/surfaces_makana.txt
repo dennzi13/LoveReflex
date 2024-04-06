@@ -1729,6 +1729,7 @@ animation10104.pattern0,overlay,50401,0,0
 
 surface.append600-699
 {
+//satolist.surface.scope,4
 //satolist.surface.default,30000,0
 //satolist.palette.offset,132,144
 //satolist.palette.expand,0.8

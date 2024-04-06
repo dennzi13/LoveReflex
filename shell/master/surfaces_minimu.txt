@@ -6,7 +6,7 @@ version,1
 }
 
 
-surface0400
+surface0200
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -20,7 +20,7 @@ element3,overlay,surface30300.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0401
+surface0201
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -34,7 +34,7 @@ element3,overlay,surface30301.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0402
+surface0202
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -48,7 +48,7 @@ element3,overlay,surface30306.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0403
+surface0203
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -63,7 +63,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0404
+surface0204
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -78,7 +78,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0405
+surface0205
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -92,7 +92,7 @@ element3,overlay,surface30300.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0406
+surface0206
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -107,7 +107,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0407
+surface0207
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -121,7 +121,7 @@ element3,overlay,surface30302.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0408
+surface0208
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -136,7 +136,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0409
+surface0209
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -150,7 +150,7 @@ element3,overlay,surface30306.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0410
+surface0210
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -164,7 +164,7 @@ element3,overlay,surface30300.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0411
+surface0211
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -178,7 +178,7 @@ element3,overlay,surface30301.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0412
+surface0212
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -192,7 +192,7 @@ element3,overlay,surface30303.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0413
+surface0213
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -206,7 +206,7 @@ element3,overlay,surface30306.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0414
+surface0214
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -220,7 +220,7 @@ element3,overlay,surface30308.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0415
+surface0215
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -234,7 +234,7 @@ element3,overlay,surface30300.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0416
+surface0216
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -248,7 +248,7 @@ element3,overlay,surface30301.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0417
+surface0217
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -262,7 +262,7 @@ element3,overlay,surface30303.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0418
+surface0218
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -276,7 +276,7 @@ element3,overlay,surface30306.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0419
+surface0219
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -290,7 +290,7 @@ element3,overlay,surface30308.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0420
+surface0220
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -304,7 +304,7 @@ element3,overlay,surface30307.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0421
+surface0221
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -318,7 +318,7 @@ element3,overlay,surface30310.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0422
+surface0222
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -333,7 +333,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0423
+surface0223
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -347,7 +347,7 @@ element3,overlay,surface30301.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0424
+surface0224
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -361,7 +361,7 @@ element3,overlay,surface30302.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0425
+surface0225
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -375,7 +375,7 @@ element3,overlay,surface30305.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0426
+surface0226
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -389,7 +389,7 @@ element3,overlay,surface30307.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0427
+surface0227
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -403,7 +403,7 @@ element3,overlay,surface30308.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0428
+surface0228
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -418,7 +418,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0429
+surface0229
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -432,7 +432,7 @@ element3,overlay,surface30301.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0430
+surface0230
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -446,7 +446,7 @@ element3,overlay,surface30302.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0431
+surface0231
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -461,7 +461,7 @@ element4,overlay,surface30400.png,0,0
 }
 
 
-surface0432
+surface0232
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -475,7 +475,7 @@ element3,overlay,surface30300.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0433
+surface0233
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -489,7 +489,7 @@ element3,overlay,surface30308.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0434
+surface0234
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -503,7 +503,7 @@ element3,overlay,surface30311.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0435
+surface0235
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -519,7 +519,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30402.png,0,0
 }
 
-surface0436
+surface0236
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -535,7 +535,7 @@ element4,overlay,surface30401.png,0,0
 
 
 
-surface0437
+surface0237
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -550,7 +550,7 @@ element4,overlay,surface30401.png,0,0
 }
 
 
-surface0438
+surface0238
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -565,7 +565,7 @@ element4,overlay,surface30401.png,0,0
 }
 
 
-surface0439
+surface0239
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -579,7 +579,7 @@ element3,overlay,surface30310.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0440
+surface0240
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -593,7 +593,7 @@ element3,overlay,surface30308.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0441
+surface0241
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -606,7 +606,7 @@ element3,overlay,surface30302.png,0,0
 //–j
 element4,overlay,surface30400.png,0,0
 }
-surface0442
+surface0242
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -620,7 +620,7 @@ element3,overlay,surface30309.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0443
+surface0243
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -634,7 +634,7 @@ element3,overlay,surface30302.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0444
+surface0244
 {
 //Base
 element0,overlay,surface30000.png,0,0
@@ -648,7 +648,7 @@ element3,overlay,surface30302.png,0,0
 element4,overlay,surface30400.png,0,0
 }
 
-surface0460
+surface0260
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -664,7 +664,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0461
+surface0261
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -680,7 +680,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0462
+surface0262
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -696,7 +696,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0463
+surface0263
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -712,7 +712,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0464
+surface0264
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -728,7 +728,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0465
+surface0265
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -744,7 +744,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0466
+surface0266
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -760,7 +760,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0467
+surface0267
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -776,7 +776,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0468
+surface0268
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -792,7 +792,7 @@ element4,overlay,surface30400.png,0,0
 element5,overlay,surface30412.png,0,0
 }
 
-surface0469
+surface0269
 {
 //Base
 element0,overlay,surface30001.png,0,0
@@ -810,8 +810,12 @@ element5,overlay,surface30412.png,0,0
 
 
 
-surface.append400-490
+surface.append200-290
 {
+//satolist.surface.scope,2
+//satolist.palette.offset,115,184
+//satolist.palette.expand,0.9
+
 collisionex1,Œû,polygon,164,245,176,246,176,263,164,264,156,259
 collisionex2,‹¹,polygon,123,315,146,308,173,311,176,312,208,305,223,319,234,330,243,350,240,367,230,378,212,383,180,378,156,382,146,384,132,382,118,374,116,366,113,349,115,334
 //collisionex3,Ž¨,polygon,118,84,132,96,148,117,155,129,131,137,111,160,111,140,113,92

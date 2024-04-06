@@ -7,7 +7,7 @@ version,1
 
 
 
-surface0500
+surface0400
 {
 //”û
 animation10001.interval,runonce
@@ -24,7 +24,7 @@ animation10004.pattern0,overlay,40400,0,8,0
 
 }
 
-surface0501
+surface0401
 {
 //”û
 animation10001.interval,runonce
@@ -40,7 +40,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0502
+surface0402
 {
 //”û
 animation10001.interval,runonce
@@ -57,7 +57,7 @@ animation10004.pattern0,overlay,40400,0,8,0
 }
 
 
-surface0503
+surface0403
 {
 //”û
 animation10001.interval,runonce
@@ -73,7 +73,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0504
+surface0404
 {
 //”û
 animation10001.interval,runonce
@@ -89,7 +89,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0505
+surface0405
 {
 //”û
 animation10001.interval,runonce
@@ -105,7 +105,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0506
+surface0406
 {
 //”û
 animation10001.interval,runonce
@@ -121,7 +121,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0507
+surface0407
 {
 //”û
 animation10001.interval,runonce
@@ -137,7 +137,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0508
+surface0408
 {
 //”û
 animation10001.interval,runonce
@@ -153,7 +153,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0509
+surface0409
 {
 //”û
 animation10001.interval,runonce
@@ -169,7 +169,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0510
+surface0410
 {
 //”û
 animation10001.interval,runonce
@@ -185,7 +185,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0511
+surface0411
 {
 //”û
 animation10001.interval,runonce
@@ -201,7 +201,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0512
+surface0412
 {
 //”û
 animation10001.interval,runonce
@@ -217,7 +217,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0513
+surface0413
 {
 //”û
 animation10001.interval,runonce
@@ -233,7 +233,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0514
+surface0414
 {
 //”û
 animation10001.interval,runonce
@@ -249,7 +249,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0515
+surface0415
 {
 //”û
 animation10001.interval,runonce
@@ -265,7 +265,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0516
+surface0416
 {
 //”û
 animation10001.interval,runonce
@@ -281,7 +281,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0517
+surface0417
 {
 //”û
 animation10001.interval,runonce
@@ -297,7 +297,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0518
+surface0418
 {
 //”û
 animation10001.interval,runonce
@@ -313,7 +313,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0519
+surface0419
 {
 //”û
 animation10001.interval,runonce
@@ -329,7 +329,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0520
+surface0420
 {
 //”û
 animation10001.interval,runonce
@@ -345,7 +345,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0521
+surface0421
 {
 //”û
 animation10001.interval,runonce
@@ -361,7 +361,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0522
+surface0422
 {
 //”û
 animation10001.interval,runonce
@@ -377,7 +377,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0523
+surface0423
 {
 //”û
 animation10001.interval,runonce
@@ -393,7 +393,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0524
+surface0424
 {
 //”û
 animation10001.interval,runonce
@@ -409,7 +409,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0525
+surface0425
 {
 //”û
 animation10001.interval,runonce
@@ -425,7 +425,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0526
+surface0426
 {
 //”û
 animation10001.interval,runonce
@@ -441,7 +441,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0527
+surface0427
 {
 //”û
 animation10001.interval,runonce
@@ -457,7 +457,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40400,0,8,0
 }
 
-surface0528
+surface0428
 {
 //”û
 animation10001.interval,runonce
@@ -473,7 +473,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0529
+surface0429
 {
 //”û
 animation10001.interval,runonce
@@ -490,7 +490,7 @@ animation10004.pattern0,overlay,40401,0,8,0
 }
 
 
-surface0530
+surface0430
 {
 //”û
 animation10001.interval,runonce
@@ -506,7 +506,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0531
+surface0431
 {
 //”û
 animation10001.interval,runonce
@@ -522,7 +522,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0532
+surface0432
 {
 //”û
 animation10001.interval,runonce
@@ -538,7 +538,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0533
+surface0433
 {
 //”û
 animation10001.interval,runonce
@@ -554,7 +554,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0534
+surface0434
 {
 //”û
 animation10001.interval,runonce
@@ -570,7 +570,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0535
+surface0435
 {
 //”û
 animation10001.interval,runonce
@@ -586,7 +586,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0536
+surface0436
 {
 //”û
 animation10001.interval,runonce
@@ -602,7 +602,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0537
+surface0437
 {
 //”û
 animation10001.interval,runonce
@@ -618,7 +618,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0538
+surface0438
 {
 //”û
 animation10001.interval,runonce
@@ -634,7 +634,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0539
+surface0439
 {
 //”û
 animation10001.interval,runonce
@@ -650,7 +650,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0540
+surface0440
 {
 //”û
 animation10001.interval,runonce
@@ -666,7 +666,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0541
+surface0441
 {
 //”û
 animation10001.interval,runonce
@@ -682,7 +682,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0542
+surface0442
 {
 //”û
 animation10001.interval,runonce
@@ -699,7 +699,7 @@ animation10004.pattern0,overlay,40401,0,8,0
 }
 
 
-surface0543
+surface0443
 {
 //”û
 animation10001.interval,runonce
@@ -715,7 +715,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0544
+surface0444
 {
 //”û
 animation10001.interval,runonce
@@ -731,7 +731,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0545
+surface0445
 {
 //”û
 animation10001.interval,runonce
@@ -747,7 +747,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0546
+surface0446
 {
 //”û
 animation10001.interval,runonce
@@ -763,7 +763,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0547
+surface0447
 {
 //”û
 animation10001.interval,runonce
@@ -779,7 +779,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0548
+surface0448
 {
 //”û
 animation10001.interval,runonce
@@ -795,7 +795,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0549
+surface0449
 {
 //”û
 animation10001.interval,runonce
@@ -811,7 +811,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0550
+surface0450
 {
 //”û
 animation10001.interval,runonce
@@ -827,7 +827,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0551
+surface0451
 {
 //”û
 animation10001.interval,runonce
@@ -843,7 +843,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0552
+surface0452
 {
 //”û
 animation10001.interval,runonce
@@ -859,7 +859,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0553
+surface0453
 {
 //”û
 animation10001.interval,runonce
@@ -875,7 +875,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0554
+surface0454
 {
 //”û
 animation10001.interval,runonce
@@ -891,7 +891,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0555
+surface0455
 {
 //”û
 animation10001.interval,runonce
@@ -907,7 +907,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0556
+surface0456
 {
 //”û
 animation10001.interval,runonce
@@ -923,7 +923,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0557
+surface0457
 {
 //”û
 animation10001.interval,runonce
@@ -939,7 +939,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
 
-surface0558
+surface0458
 {
 //”û
 animation10001.interval,runonce
@@ -956,7 +956,7 @@ animation10004.pattern0,overlay,40401,0,8,0
 }
 
 
-surface0559
+surface0459
 {
 //”û
 animation10001.interval,runonce
@@ -967,6 +967,233 @@ animation10002.pattern0,overlay,40202,0,8,0
 //Œû
 animation10003.interval,runonce
 animation10003.pattern0,overlay,40300,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0460
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40202,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40300,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0461
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40300,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0462
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40303,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0463
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40205,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40306,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0464
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40205,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40305,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0465
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40202,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40305,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0466
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40305,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0467
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40205,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40302,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0468
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40209,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40303,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+
+surface0469
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40100,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40308,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0470
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40308,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0471
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40203,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40309,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+
+surface0472
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40201,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40309,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+
+surface0473
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40202,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40309,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -979,7 +1206,7 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40202,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
 animation10003.pattern0,overlay,40300,0,8,0
@@ -995,10 +1222,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40203,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40300,0,8,0
+animation10003.pattern0,overlay,40301,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1011,10 +1238,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40203,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40303,0,8,0
+animation10003.pattern0,overlay,40302,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1027,10 +1254,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40205,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40306,0,8,0
+animation10003.pattern0,overlay,40304,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1043,10 +1270,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40205,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40305,0,8,0
+animation10003.pattern0,overlay,40306,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1059,10 +1286,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40202,0,8,0
+animation10002.pattern0,overlay,40204,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40305,0,8,0
+animation10003.pattern0,overlay,40308,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1075,10 +1302,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40203,0,8,0
+animation10002.pattern0,overlay,40201,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40305,0,8,0
+animation10003.pattern0,overlay,40300,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1091,10 +1318,42 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40205,0,8,0
+animation10002.pattern0,overlay,40201,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40301,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0568
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40201,0,8,0
 //Œû
 animation10003.interval,runonce
 animation10003.pattern0,overlay,40302,0,8,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,40401,0,8,0
+}
+
+surface0569
+{
+//”û
+animation10001.interval,runonce
+animation10001.pattern0,overlay,40101,0,8,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,40201,0,8,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,40304,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1107,10 +1366,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40201,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40300,0,8,0
+animation10003.pattern0,overlay,40306,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1123,14 +1382,15 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40201,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40301,0,8,0
+animation10003.pattern0,overlay,40308,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
+
 
 surface0572
 {
@@ -1139,10 +1399,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40302,0,8,0
+animation10003.pattern0,overlay,40300,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1155,10 +1415,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40304,0,8,0
+animation10003.pattern0,overlay,40301,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1171,10 +1431,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40306,0,8,0
+animation10003.pattern0,overlay,40302,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1187,10 +1447,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40204,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40308,0,8,0
+animation10003.pattern0,overlay,40304,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1203,10 +1463,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40300,0,8,0
+animation10003.pattern0,overlay,40306,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1219,10 +1479,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40207,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40301,0,8,0
+animation10003.pattern0,overlay,40308,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1235,10 +1495,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40302,0,8,0
+animation10003.pattern0,overlay,40300,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1251,10 +1511,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40304,0,8,0
+animation10003.pattern0,overlay,40301,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1267,10 +1527,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40306,0,8,0
+animation10003.pattern0,overlay,40302,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1283,15 +1543,14 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40201,0,8,0
+animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40308,0,8,0
+animation10003.pattern0,overlay,40304,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
-
 
 surface0582
 {
@@ -1300,10 +1559,10 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
+animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
-animation10003.pattern0,overlay,40300,0,8,0
+animation10003.pattern0,overlay,40306,0,8,0
 //–j
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
@@ -1316,166 +1575,6 @@ animation10001.interval,runonce
 animation10001.pattern0,overlay,40101,0,8,0
 //–Ú
 animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40301,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0584
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40302,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0585
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40304,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0586
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40306,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0587
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40207,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40308,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0588
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40206,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40300,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0589
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40206,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40301,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0590
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40206,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40302,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0591
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40206,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40304,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0592
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
-animation10002.pattern0,overlay,40206,0,8,0
-//Œû
-animation10003.interval,runonce
-animation10003.pattern0,overlay,40306,0,8,0
-//–j
-animation10004.interval,runonce
-animation10004.pattern0,overlay,40401,0,8,0
-}
-
-surface0593
-{
-//”û
-animation10001.interval,runonce
-animation10001.pattern0,overlay,40101,0,8,0
-//–Ú
-animation10002.interval,runonce
 animation10002.pattern0,overlay,40206,0,8,0
 //Œû
 animation10003.interval,runonce
@@ -1484,7 +1583,6 @@ animation10003.pattern0,overlay,40308,0,8,0
 animation10004.interval,runonce
 animation10004.pattern0,overlay,40401,0,8,0
 }
-
 
 
 
@@ -1492,8 +1590,9 @@ animation10004.pattern0,overlay,40401,0,8,0
 
 
 //ƒ†ƒi‹¤’Ê
-surface.append500-599
+surface.append400-599
 {
+//satolist.surface.scope,3
 //satolist.palette.offset,132,144
 //satolist.palette.expand,0.8
 //satolist.surface.default,50,0
@@ -1621,7 +1720,7 @@ animation3031.pattern0,overlay,40417,0,0,0
 }
 
 //’ÊíƒT[ƒtƒFƒXE—§‚¿ŠG
-surface.append500-569
+surface.append400-500
 {
 //—§‚¿ŠG
 animation100.interval,bind
@@ -1644,7 +1743,7 @@ animation103.collisionex6,‚¨• ,polygon,132,414,105,436,85,459,71,489,68,522,75,5
 }
 
 //ƒSƒ€‚¿ƒT[ƒtƒFƒXE—§‚¿ŠG
-surface.append570-599
+surface.append560-599
 {
 //—§‚¿ŠG
 animation100.interval,bind
