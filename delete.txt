@@ -48,3 +48,4 @@ ghost\master\dic81_BaseSuria.txt
 ghost\master\dic83_MenuSuria.txt
 ghost\master\dic85_TalkSuria.txt
 ghost\master\dic88_SawariSuria.txt
+ghost\master\memo.txt
