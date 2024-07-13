@@ -45,6 +45,8 @@ craftmanurl,
 //各種自由　3000以降
 //※フーカの場合ここにオナホコキ用の手レイヤを入れる必要あるかも
 
+//頬紅ベース
+//animation10000
 //眉
 //animation10001
 //目
@@ -494,7 +496,36 @@ char9.bindgroup2990.default,1
 
 
 
+//<セラフィーヌ> -----------------------------------------
+//後ろ髪レイヤ層
+char10.bindgroup50.name,後ろ髪,ウェーブロング
+char10.bindgroup50.default,1
+char10.bindgroup51.name,後ろ髪,ショート
 
+
+//体レイヤ層
+char10.bindgroup100.name,立ち絵,シースルードレス
+char10.bindgroup100.default,1
+
+//断面レイヤ層
+char10.bindgroup905.name,断面図,空
+char10.bindgroup906.name,断面図,中出し１
+char10.bindgroup907.name,断面図,中出し２
+char10.bindgroup908.name,断面図,中出し３
+
+//使用済みゴムレイヤ層
+char10.bindgroup1000.name,使用済ゴム１,使用済_,シースルードレス
+char10.bindgroup1001.name,使用済ゴム２,使用済_,シースルードレス
+char10.bindgroup1002.name,使用済ゴム３,使用済_,シースルードレス
+char10.bindgroup1003.name,使用済ゴム４,使用済_,シースルードレス
+char10.bindgroup1004.name,使用済ゴム５,使用済_,シースルードレス
+char10.bindgroup1005.name,使用済ゴム６,使用済_,シースルードレス
+
+
+//射精後ゴム持ち層
+char10.bindgroup2990.name,射精後ゴム,ユーザ
+char10.bindgroup2990.default,1
+//char10.bindgroup2991.name,射精後ゴム,フィリオ
 
 
 
