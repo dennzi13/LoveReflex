@@ -45,7 +45,7 @@ ghost/master/07_Rereni/dic_TalkRereni.txt3f8bd1d0677731fd3bdd122834609719size=
 ghost/master/08_Minako/dic_BaseMinako.txtdefaa5c5323cafa354dc6dd35a4a23b3size=9178date=2024-07-13T16:42:02
 ghost/master/08_Minako/dic_FunctionMinako.txtc55a964bc0190e6640d4c1917a1efc96size=5270date=2024-07-13T03:15:57
 ghost/master/08_Minako/dic_MenuMinako.txt1020f859cb128077e791a2f22c780aaesize=10488date=2024-07-13T17:30:45
-ghost/master/08_Minako/dic_SawariMinako.txt763a00b760b20334b2d63ae9bfa680ccsize=34710date=2024-07-13T18:03:48
+ghost/master/08_Minako/dic_SawariMinako.txt63a23682ba2d35dd7bde0d2c77d9785csize=34623date=2024-07-15T21:28:36
 ghost/master/08_Minako/dic_TalkMinako.txt4fb26e600a6ce0415576303eaf33ee98size=5515date=2024-07-12T17:54:21
 ghost/master/09_Suria/dic_BaseSuria.txtd1598f84ab2e9bc4e0cfffb544ecb10asize=7176date=2024-07-11T16:33:42
 ghost/master/09_Suria/dic_FunctionSuria.txt8c1b9378323928b8dfa441498f0c74a7size=4015date=2024-04-02T16:13:20
@@ -54,7 +54,7 @@ ghost/master/09_Suria/dic_SawariSuria.txte2e1937c579cc072b2223fc0dd59bc39size=
 ghost/master/09_Suria/dic_TalkSuria.txt8047bab75180fcd294f8d572bf8c1d2dsize=10264date=2024-04-02T23:25:30
 ghost/master/10_Seraphine/dic_BaseSeraphine.txtc4a0c0fb1a493254e8cb49d9f663337dsize=5195date=2024-07-13T03:24:38
 ghost/master/10_Seraphine/dic_MenuSeraphine.txt393caeeb219c8c01c7ff4bb8031d4455size=2399date=2024-07-13T03:30:47
-ghost/master/10_Seraphine/dic_SawariSeraphine.txt603c46bbce40624da2925fa6f25b4863size=9189date=2024-07-13T03:28:10
+ghost/master/10_Seraphine/dic_SawariSeraphine.txt134a65adc2c429f99f9b78f39f2d39c0size=11169date=2024-07-15T02:57:40
 ghost/master/_Common/dic_Achievement.txt852206adfc5aaf65322ea6c3d756a54csize=30203date=2024-07-13T17:29:59
 ghost/master/_Common/dic_Boot.txtaa4455809a3d525bc4e174dc952360f3size=1376date=2024-04-02T19:59:17
 ghost/master/_Common/dic_CommonTalk.txta4ecdd4d1df3e6887702eaf49038ee7dsize=1024date=2024-04-02T20:05:49
@@ -63,11 +63,11 @@ ghost/master/_Common/dic_Function.txtb1a8930b1a671ee24b626a52691312fcsize=1976
 ghost/master/_Common/dic_MiniEvent.txt58aa58abb14a57a098129c067ba423f7size=81348date=2024-07-13T18:13:23
 ghost/master/_Common/dic_OptionMenu.txt660b931c9892103a04453b879cb90b1fsize=20491date=2024-04-03T18:13:12
 ghost/master/_Common/dic_OptionSetting.txte61fcbac530ea63dbff093882c1ad2c5size=13698date=2024-04-02T14:49:27
-ghost/master/_Common/dic_SawariCommon.txt41a87e619977a8beda3ff0cedae65fc2size=9385date=2024-07-13T15:56:17
+ghost/master/_Common/dic_SawariCommon.txt172e7f4daf26e115b09476f02d5d07e0size=9501date=2024-07-15T21:28:36
 ghost/master/_Common/dic_String.txtd5f76f06c39b58b951559cc65002714asize=4324date=2023-09-10T19:35:22
 ghost/master/_Common/dic_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
 ghost/master/descript.txta8eed0c1c266460697208530dd6e355csize=977date=2023-11-18T19:20:33
-ghost/master/note.txtc5dcba48ce474370789e82d27a8f02besize=45692date=2024-07-11T19:54:28
+ghost/master/note.txt58f5acc2f48c535abcd71345b21865ffsize=47792date=2024-07-15T21:31:22
 ghost/master/replace.txt1e5b75f686eba6285a16fa9f48f0ab2asize=515date=2024-07-11T04:14:21
 ghost/master/replace_after.txt26d2b730c71305e1de1383fc97abeb78size=285date=2024-07-11T04:14:21
 ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064date=2002-01-31T12:48:00
