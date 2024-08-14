@@ -301,20 +301,38 @@ char4.bindgroup30001.name,メガネ,スクエア赤縁メガネ
 
 
 //<フィリオ> -----------------------------------------
-char5.bindgroup0.name,立ち絵,通常
-char5.bindgroup0.default,1
-char5.bindgroup1.name,立ち絵,たくし上げ
-char5.bindgroup2.name,立ち絵,たくし上げ射精後
-char5.bindgroup3.name,立ち絵,たくし上げ射精
-char5.bindgroup4.name,立ち絵,たくし上げ生チンポ
-char5.bindgroup5.name,立ち絵,たくし上げ生チンポ射精
-char5.bindgroup6.name,立ち絵,たくし上げ生チンポ射精後
-char5.bindgroup100.name,使用済ゴム１,使用済
-char5.bindgroup101.name,使用済ゴム２,使用済
-char5.bindgroup102.name,使用済ゴム３,使用済
-char5.bindgroup103.name,使用済ゴム４,使用済
-char5.bindgroup104.name,使用済ゴム５,使用済
-char5.bindgroup105.name,使用済ゴム６,使用済
+//後ろ髪レイヤ層
+char5.bindgroup50.name,後ろ髪,ショート
+char5.bindgroup50.default,1
+char5.bindgroup51.name,後ろ髪,ロング
+
+//体レイヤ層
+char5.bindgroup100.name,立ち絵,私服ワンピース
+char5.bindgroup100.default,1
+char5.bindgroup101.name,立ち絵,私服ワンピース_勃起
+char5.bindgroup102.name,立ち絵,私服ワンピース_たくし上げ
+
+//チンポレイヤ層　※フィリオ専用、断面レイヤ層の番号を利用
+char5.bindgroup905.name,チンポ,ゴム_勃起
+char5.bindgroup906.name,チンポ,ゴム_射精
+char5.bindgroup907.name,チンポ,ゴム_射精後
+char5.bindgroup908.name,チンポ,生_勃起
+char5.bindgroup909.name,チンポ,生_射精
+char5.bindgroup910.name,チンポ,生_射精後
+
+//使用済みゴムレイヤ層
+char5.bindgroup1000.name,使用済ゴム１,使用済_通常私服
+char5.bindgroup1001.name,使用済ゴム２,使用済_通常私服
+char5.bindgroup1002.name,使用済ゴム３,使用済_通常私服
+char5.bindgroup1003.name,使用済ゴム４,使用済_通常私服
+char5.bindgroup1004.name,使用済ゴム５,使用済_通常私服
+char5.bindgroup1005.name,使用済ゴム６,使用済_通常私服
+
+//射精後ゴム持ち層　※一旦利用しない
+
+//後ろ髪補助層
+char5.bindgroup2980.name,後ろ髪補助,ロング
+
 
 //<チナヨ> -----------------------------------------
 //後ろ髪レイヤ層
@@ -523,9 +541,10 @@ char10.bindgroup1005.name,使用済ゴム６,使用済_,シースルードレス
 
 
 //射精後ゴム持ち層
-char10.bindgroup2990.name,射精後ゴム,ユーザ
+char10.bindgroup2990.name,射精後ゴム,ユーザ少
 char10.bindgroup2990.default,1
-//char10.bindgroup2991.name,射精後ゴム,フィリオ
+char10.bindgroup2991.name,射精後ゴム,ユーザ多
+//char10.bindgroup2992.name,射精後ゴム,フィリオ
 
 
 
