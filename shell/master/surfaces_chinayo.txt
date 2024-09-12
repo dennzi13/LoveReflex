@@ -1514,7 +1514,24 @@ animation10004.pattern0,overlay,70400,0,0,0
 }
 
 
-surface.append1000-1099
+surface1100
+{
+//眉
+animation10001.interval,runonce
+animation10001.pattern0,overlay,70101,0,0,0
+//目
+animation10002.interval,runonce
+animation10002.pattern0,overlay,70214,0,0,0
+//口
+animation10003.interval,runonce
+animation10003.pattern0,overlay,70314,0,0,0
+//頬
+animation10004.interval,runonce
+animation10004.pattern0,overlay,70400,0,0,0
+}
+
+
+surface.append1000-1199
 {
 //satolist.surface.scope,6
 //satolist.palette.offset,142,163
@@ -1642,7 +1659,7 @@ animation3021.pattern0,overlay,70420,0,0,0
 
 
 //通常サーフェス・立ち絵
-surface.append1000-1069
+surface.append1000-1069,1100-1199
 {
 //立ち絵
 animation100.interval,bind

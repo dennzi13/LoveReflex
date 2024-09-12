@@ -486,11 +486,13 @@ char8.bindgroup2990.default,1
 char9.bindgroup50.name,後ろ髪,ウェーブセミロング
 char9.bindgroup50.default,1
 char9.bindgroup51.name,後ろ髪,束ね
+char9.bindgroup52.name,後ろ髪,ウェーブロング
 
 
 //体レイヤ層
 char9.bindgroup100.name,立ち絵,私服
 char9.bindgroup100.default,1
+char9.bindgroup101.name,立ち絵,バニー
 
 //断面レイヤ層
 char9.bindgroup905.name,断面図,空
@@ -505,6 +507,13 @@ char9.bindgroup1002.name,使用済ゴム３,使用済_私服
 char9.bindgroup1003.name,使用済ゴム４,使用済_私服
 char9.bindgroup1004.name,使用済ゴム５,使用済_私服
 char9.bindgroup1005.name,使用済ゴム６,使用済_私服
+char9.bindgroup1010.name,使用済ゴム１,使用済_バニー
+char9.bindgroup1011.name,使用済ゴム２,使用済_バニー
+char9.bindgroup1012.name,使用済ゴム３,使用済_バニー
+char9.bindgroup1013.name,使用済ゴム４,使用済_バニー
+char9.bindgroup1014.name,使用済ゴム５,使用済_バニー
+char9.bindgroup1015.name,使用済ゴム６,使用済_バニー
+
 
 
 //射精後ゴム持ち層
@@ -512,7 +521,8 @@ char9.bindgroup2990.name,射精後ゴム,ユーザ
 char9.bindgroup2990.default,1
 //char9.bindgroup2991.name,射精後ゴム,フィリオ
 
-
+//帽子
+char9.bindgroup3020.name,帽子,バニーリボン
 
 //<セラフィーヌ> -----------------------------------------
 //後ろ髪レイヤ層
@@ -524,6 +534,7 @@ char10.bindgroup51.name,後ろ髪,ショート
 //体レイヤ層
 char10.bindgroup100.name,立ち絵,シースルードレス
 char10.bindgroup100.default,1
+char10.bindgroup101.name,立ち絵,改造バニー
 
 //断面レイヤ層
 char10.bindgroup905.name,断面図,空
@@ -545,6 +556,14 @@ char10.bindgroup2990.name,射精後ゴム,ユーザ少
 char10.bindgroup2990.default,1
 char10.bindgroup2991.name,射精後ゴム,ユーザ多
 //char10.bindgroup2992.name,射精後ゴム,フィリオ
+
+//帽子
+char10.bindgroup3020.name,帽子,バニーリボン黒
+char10.bindgroup3021.name,帽子,バニーリボン青
+
+//ニプレス
+char10.bindgroup3030.name,ニプレス,星ニプレス
+
 
 
 
