@@ -1,7 +1,7 @@
 charset,Shift_JIS
 file,delete.txtad1de68af7c592b73646214b7303f39fsize=1796date=2024-04-14T18:58:38
 file,developer_options.txtc8d2a1e9d3e1dc8cbf0429a2cb6d992csize=622date=2024-04-14T18:58:41
-file,ghost/master/00_Fuka/dic_BaseFuka.txtf6267e10c8185f332a2eca9638c5bd1esize=29753date=2024-09-29T19:52:49
+file,ghost/master/00_Fuka/dic_BaseFuka.txt4ea23f47f6089c381f2d278762980e29size=29752date=2024-10-14T17:34:18
 file,ghost/master/00_Fuka/dic_ChangeFuka.txt33cbcb1aa8f6c3bfd2eb2c3fdc9abd3asize=2887date=2022-11-28T20:06:44
 file,ghost/master/00_Fuka/dic_FunctionFuka.txt600d4844a7806fda485c74eb9b2eee77size=9402date=2024-04-06T16:53:48
 file,ghost/master/00_Fuka/dic_LiveFuka.txtabc5c061f8cd584a60267ced65b1bee4size=13202date=2024-04-02T18:07:21
@@ -29,9 +29,9 @@ file,ghost/master/04_Makana/dic_TalkMakana.txt8e14055ffcc5d60c7e61e88d9b0bba0b
 file,ghost/master/05_Firio/dic_BaseFirio.txtbf23553c52d1570ff30a42635c30c672size=15330date=2024-09-29T20:01:23
 file,ghost/master/05_Firio/dic_ExModeFirio.txt392fe7b81f2bf0f7ddf45b5c97ea3e85size=13116date=2024-09-19T03:15:49
 file,ghost/master/05_Firio/dic_ExTalkFirio.txt8132e018e06ab36beeb42513bc1a7881size=423date=2024-06-06T04:25:39
-file,ghost/master/05_Firio/dic_FunctionFirio.txte89c958a9d8b876877a86aecca85eec5size=8433date=2024-09-19T01:25:10
+file,ghost/master/05_Firio/dic_FunctionFirio.txt27b88ff61210a3268114f708f60b4cc6size=8695date=2024-10-14T19:26:47
 file,ghost/master/05_Firio/dic_MenuFirio.txt1b9c9651d7fbd7e8b9a263deb5d522eesize=14215date=2024-09-18T02:55:36
-file,ghost/master/05_Firio/dic_SawariFirio.txte155df669feba83e56176bcdb8cb397asize=39938date=2024-08-18T16:42:20
+file,ghost/master/05_Firio/dic_SawariFirio.txt641da8021727a45c36a33430c5fae13fsize=45066date=2024-10-14T19:04:15
 file,ghost/master/05_Firio/dic_TalkFirio.txt2a1fb873ece4552117f5867a1428a7bcsize=19592date=2024-10-03T19:30:50
 file,ghost/master/06_Chinayo/dic_BaseChinayo.txte5f998b500bd3d6842d2dd5735b9241fsize=16273date=2024-09-29T19:24:42
 file,ghost/master/06_Chinayo/dic_ExSawariChinayo.txt6fc622137be15c6f06fbdfffc51c46d7size=9628date=2024-08-26T04:35:30
@@ -56,7 +56,7 @@ file,ghost/master/09_Suria/dic_MenuSuria.txtfd4ab6da0c8e0109b27a9abec18959b4si
 file,ghost/master/09_Suria/dic_SawariSuria.txte2e1937c579cc072b2223fc0dd59bc39size=35133date=2024-07-13T03:28:10
 file,ghost/master/09_Suria/dic_TalkSuria.txt8047bab75180fcd294f8d572bf8c1d2dsize=10264date=2024-04-02T23:25:30
 file,ghost/master/10_Seraphine/dic_BaseSeraphine.txt0d3bb13cae34b9114a7869997c7ed65bsize=11976date=2024-10-04T19:54:27
-file,ghost/master/10_Seraphine/dic_FunctionSeraphine.txt68a5d42dc54a2da24b41aba0856697f5size=5259date=2024-09-12T16:18:07
+file,ghost/master/10_Seraphine/dic_FunctionSeraphine.txt8a2e07da6528ddaf272e7ca678c2cdfdsize=5296date=2024-10-14T17:34:18
 file,ghost/master/10_Seraphine/dic_MenuSeraphine.txt2dca8726f0586cf0a3634b62cb5116dbsize=5478date=2024-09-12T16:22:54
 file,ghost/master/10_Seraphine/dic_SawariSeraphine.txtb1814e072f2233a736ff3d0711702f70size=26855date=2024-09-30T02:34:27
 file,ghost/master/10_Seraphine/dic_TalkSeraphine.txt104dfa70629f496aa42e3e9254474692size=4155date=2024-08-14T19:57:30
@@ -69,7 +69,7 @@ file,ghost/master/_Common/dic_Event.txt8b2fdee3784ec09f7f61b6f2d55a9788size=30
 file,ghost/master/_Common/dic_Function.txt92afcd9ab7dfa3fb7e39249d05f434d2size=19789date=2024-08-14T18:40:52
 file,ghost/master/_Common/dic_MiniEvent.txte1d9197e56e575072512b846c27000f9size=91346date=2024-08-18T19:28:17
 file,ghost/master/_Common/dic_OptionMenu.txtb81848efdc7c0fc3c64de0761b8fe791size=21144date=2024-09-29T04:48:31
-file,ghost/master/_Common/dic_OptionSetting.txte890c3ec7f65a2baa9bec54d767119basize=14132date=2024-08-18T17:36:04
+file,ghost/master/_Common/dic_OptionSetting.txt5b0cb658b75f8d5ce59d37ed20cd0e83size=14536date=2024-10-14T19:26:47
 file,ghost/master/_Common/dic_SawariCommon.txta32c76418462e6991fe2830a72ff9ba5size=10834date=2024-08-14T16:14:46
 file,ghost/master/_Common/dic_String.txt44aa4979d9c6935719d7d9da62db1bc0size=4354date=2024-08-14T20:07:00
 file,ghost/master/_Common/dic_system.txt593267006991c15eade60e4701a6d6a7size=1393date=2015-03-28T17:31:49
@@ -80,7 +80,7 @@ file,ghost/master/replace_after.txt26d2b730c71305e1de1383fc97abeb78size=285da
 file,ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064date=2002-01-31T12:48:00
 file,ghost/master/saori/ssu.dlle0b896432cd010eebf14722ede728d41size=253952date=2020-04-22T10:46:16
 file,ghost/master/satori.dll16752c1548945960595ff1a3deda6d09size=684032date=2020-04-22T10:45:54
-file,ghost/master/satori_conf.txtd9da2f60cde5cdb1d89870300b1029d3size=11864date=2024-09-23T15:57:05
+file,ghost/master/satori_conf.txt18ae57005db5963f47dc3639d7aa997esize=11928date=2024-10-14T19:26:47
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2015-05-13T11:57:02
 file,install.txt7706dcadff20683df80137d3a6d77f14size=98date=2022-12-17T04:18:49
 file,readme.txt4af110de532cd5bc952d5e4d3e52e7fbsize=1041date=2024-09-29T04:51:16
@@ -626,6 +626,7 @@ file,shell/master/surface60310.png35bccf1ef1650d8b3c1d04231905edd0size=1263da
 file,shell/master/surface60311.pngb460bfae5abf92d156955fdf9f42c4c3size=2531date=2023-02-26T05:03:50
 file,shell/master/surface60312.pngeb2f89e94a63053ae594f34fae1ac662size=931date=2024-09-19T01:50:48
 file,shell/master/surface60313.png090c2974546980319e92a6ef1d3deed8size=1305date=2024-09-19T01:50:44
+file,shell/master/surface60314.png4e6071aac6c6a730e0d048e1422710c8size=1691date=2024-10-14T18:08:20
 file,shell/master/surface60400.png8048588edeb5c6b4bc9359d0d38c594asize=5034date=2022-04-21T02:34:06
 file,shell/master/surface60401.png639031522f4c31fb5da00cd087e1ba79size=5122date=2022-04-21T02:34:10
 file,shell/master/surface60402.png43e3f14ee900c637d82a1d3843307651size=9549date=2022-04-21T02:32:36
@@ -653,6 +654,7 @@ file,shell/master/surface61310.pngc2a7d4c260f4b15d46094c1e95fc3b62size=1315da
 file,shell/master/surface61311.png124117064534743c2ceb084c82ba6a32size=2477date=2023-02-26T05:26:42
 file,shell/master/surface61312.png7f4dbdf5d6412f9d79dfa1847da7e7ecsize=1057date=2024-09-19T01:49:50
 file,shell/master/surface61313.png91ff572fb342842f989b01bbc4ed2c8bsize=1441date=2024-09-19T01:49:46
+file,shell/master/surface61314.pngab242d6f23fbfe182b305c51b755556asize=1656date=2024-10-14T18:07:51
 file,shell/master/surface61400.png11a756e9b2dc00372a342d03720f3899size=4338date=2022-04-22T03:11:14
 file,shell/master/surface61401.pngbe7cdbf249c9f2d194d728d5782a3f51size=4273date=2022-04-22T03:11:10
 file,shell/master/surface61402.png04466859ef86b106b11ae59eeb678b76size=6306date=2022-04-22T03:05:40
@@ -856,8 +858,8 @@ file,shell/master/surface90414.png6361d59e655607ca3e276fdd6ce17479size=7225da
 file,shell/master/surface90415.png89fd7d2d72c4bd42cbb75a4bf7d92939size=1168date=2024-07-12T03:22:12
 file,shell/master/surfaces.txt348574fa13b261c3ae58de28e0965856size=6100date=2023-04-20T04:13:42
 file,shell/master/surfaces_chinayo.txt77e81534a716cdc82baad9d61a1d2ffasize=43473date=2024-08-26T01:11:01
-file,shell/master/surfaces_firio.txt84fc1e0522a216514b9c52422f278628size=31654date=2024-09-19T01:54:48
-file,shell/master/surfaces_firioBack.txtfc65a343a679efdfb1d9a8d3c83c81d8size=32202date=2024-08-06T15:58:10
+file,shell/master/surfaces_firio.txta3f4b34a5b4399c5d8d7b939db4c8e1bsize=32011date=2024-10-14T18:11:01
+file,shell/master/surfaces_firioBack.txtfff80ee878368566dd32c083228ebf4fsize=35116date=2024-10-14T18:58:39
 file,shell/master/surfaces_fuka.txt05601450d2aafc4bef2031f2df99bbd8size=22039date=2024-04-21T17:26:46
 file,shell/master/surfaces_fukaK.txt2e455afdd03f21de426b11039e38c5bcsize=24404date=2024-04-21T17:34:25
 file,shell/master/surfaces_makana.txtf32233d220af8fdc1ca80a42f2f074edsize=52524date=2024-04-02T04:47:26

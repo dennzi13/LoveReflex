@@ -16,11 +16,24 @@
 
 
 
+
+スレのバグ修正する
+
+
 チナヨ質問　孫いるかどうか
 
 
 
 
+
+\p[5]（７２０）ｖ
+
+
+\![move,30,0,1000,screen,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]\![move,-30,0,400,me,left,bottom]\![move,30,0,200,me,left,bottom]
+
+
+＠身震い
+\p[5]\![move,-30,0,400,me,left,bottom]\![move,55,0,400,me,left,bottom]\![move,-45,0,400,me,left,bottom]\![move,40,0,400,me,left,bottom]\![move,-20,0,400,me,left,bottom]
 
 
 
