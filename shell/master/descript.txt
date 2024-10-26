@@ -57,6 +57,13 @@ craftmanurl,
 //animation10004
 //湯気
 //animation10005
+//目用ハート通常（驚き目用、それ以外は空
+//animation10010
+//目用ハート
+//animation10011
+
+//吐息
+//animation999999
 
 //<フーカ> -----------------------------------------
 sakura.bindgroup0.name,立ち絵,通常
@@ -271,6 +278,16 @@ char4.bindgroup1023.name,使用済ゴム４,使用済_アメスク
 char4.bindgroup1024.name,使用済ゴム５,使用済_アメスク
 char4.bindgroup1025.name,使用済ゴム６,使用済_アメスク
 
+//使用済みゴムレイヤ層_フィリオ
+char4.bindgroup1100.name,フィリオ使用済ゴム１,使用済_ニットセーター
+char4.bindgroup1101.name,フィリオ使用済ゴム２,使用済_ニットセーター
+char4.bindgroup1102.name,フィリオ使用済ゴム３,使用済_ニットセーター
+char4.bindgroup1103.name,フィリオ使用済ゴム４,使用済_ニットセーター
+char4.bindgroup1104.name,フィリオ使用済ゴム５,使用済_ニットセーター
+char4.bindgroup1105.name,フィリオ使用済ゴム６,使用済_ニットセーター
+
+
+
 //後ろ髪補助層
 char4.bindgroup2980.name,後ろ髪補助,束ね
 char4.bindgroup2980.default,1
@@ -278,7 +295,7 @@ char4.bindgroup2980.default,1
 //射精後ゴム持ち層
 char4.bindgroup2990.name,射精後ゴム,ユーザ
 char4.bindgroup2990.default,1
-//char4.bindgroup2991.name,射精後ゴム,フィリオ
+char4.bindgroup2991.name,射精後ゴム,フィリオ
 
 
 //ヘアピン
@@ -287,11 +304,29 @@ char4.bindgroup3010.name,ヘアピン,アメスクヘアピン
 char4.bindgroup3020.name,帽子,キャスケット帽
 char4.bindgroup3020.default,1
 char4.bindgroup3021.name,帽子,バニーリボン
+animation
+
+//赤面
+char4.bindgroup10000.name,赤面,赤面
 
 //目
 char4.bindgroup10002.name,目,通常メイク
 char4.bindgroup10002.default,1
 char4.bindgroup10003.name,目,ギャルメイク
+
+//目オプション
+char4.bindgroup10010.name,目オプション,通常目
+char4.bindgroup10010.default,1
+char4.bindgroup10011.name,目オプション,ハート目
+
+//汗
+char4.bindgroup999900.name,汗,汗_ニットセーター
+char4.bindgroup999901.name,汗,汗_バスローブ
+char4.bindgroup999902.name,汗,汗_バニー
+char4.bindgroup999903.name,汗,汗_アメスク
+
+//吐息
+char4.bindgroup999999.name,吐息,吐息
 
 //メガネ
 char4.bindgroup30000.name,メガネ,赤縁メガネ
@@ -332,6 +367,16 @@ char5.bindgroup1005.name,使用済ゴム６,使用済_通常私服
 
 //後ろ髪補助層
 char5.bindgroup2980.name,後ろ髪補助,ロング
+
+//赤面
+char5.bindgroup10000.name,赤面,赤面
+//汗
+char5.bindgroup999900.name,汗,汗_私服ワンピース
+
+
+//吐息
+char5.bindgroup999999.name,吐息,吐息
+
 
 
 //<チナヨ> -----------------------------------------
@@ -567,6 +612,10 @@ char10.bindgroup3030.name,ニプレス,星ニプレス
 
 
 
+kero.bindgroup1.name,UI,ユーザ
+kero.bindgroup1.default,1
+kero.bindgroup2.name,UI,フィリオ
+
 kero.bindgroup10.name,射精ゲージ,０
 kero.bindgroup11.name,射精ゲージ,１
 kero.bindgroup12.name,射精ゲージ,２
@@ -619,6 +668,14 @@ kero.bindgroup435.name,ゴム３,使用済
 kero.bindgroup430.default,1
 kero.bindgroup432.default,1
 kero.bindgroup434.default,1
+kero.bindgroup436.name,フィリオゴム１,未使用
+kero.bindgroup437.name,フィリオゴム１,使用済
+kero.bindgroup438.name,フィリオゴム２,未使用
+kero.bindgroup439.name,フィリオゴム２,使用済
+kero.bindgroup440.name,フィリオゴム３,未使用
+kero.bindgroup441.name,フィリオゴム３,使用済
+
+
 
 kero.bindgroup540.name,ストック,０
 kero.bindgroup541.name,ストック,１

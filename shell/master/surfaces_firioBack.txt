@@ -1188,7 +1188,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface0100270
+surface1000270
 {
 //”û
 animation10001.interval,runonce
@@ -1205,7 +1205,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface0100271
+surface1000271
 {
 //”û
 
@@ -1223,7 +1223,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface0100272
+surface1000272
 {
 //”û
 
@@ -1240,7 +1240,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface0100273
+surface1000273
 {
 //”û
 
@@ -1257,7 +1257,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface0100274
+surface1000274
 {
 //”û
 
@@ -1275,7 +1275,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface0100275
+surface1000275
 {
 //”û
 
@@ -1292,7 +1292,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface0100276
+surface1000276
 {
 //”û
 
@@ -1311,12 +1311,95 @@ animation10004.pattern0,overlay,61401,0,0,0
 
 
 
+surface1000277
+{
+//”û
 
+animation10001.interval,runonce
+animation10001.pattern0,overlay,61101,0,0,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,61201,0,0,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,61314,0,0,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,61401,0,0,0
+}
 
+surface1000278
+{
+//”û
 
+animation10001.interval,runonce
+animation10001.pattern0,overlay,61101,0,0,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,61203,0,0,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,61314,0,0,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,61401,0,0,0
+}
 
+surface1000279
+{
+//”û
+
+animation10001.interval,runonce
+animation10001.pattern0,overlay,61101,0,0,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,61205,0,0,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,61314,0,0,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,61401,0,0,0
+}
 
 surface1000280
+{
+//”û
+
+animation10001.interval,runonce
+animation10001.pattern0,overlay,61101,0,0,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,61206,0,0,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,61314,0,0,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,61401,0,0,0
+}
+
+surface1000281
+{
+//”û
+
+animation10001.interval,runonce
+animation10001.pattern0,overlay,61101,0,0,0
+//–Ú
+animation10002.interval,runonce
+animation10002.pattern0,overlay,61208,0,0,0
+//Œû
+animation10003.interval,runonce
+animation10003.pattern0,overlay,61314,0,0,0
+//–j
+animation10004.interval,runonce
+animation10004.pattern0,overlay,61401,0,0,0
+}
+
+
+
+
+surface1000380
 {
 //”û
 
@@ -1333,7 +1416,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface1000281
+surface1000381
 {
 //”û
 
@@ -1351,7 +1434,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface1000282
+surface1000382
 {
 //”û
 
@@ -1368,7 +1451,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface1000283
+surface1000383
 {
 //”û
 
@@ -1386,7 +1469,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface1000284
+surface1000384
 {
 //”û
 
@@ -1404,7 +1487,7 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface1000285
+surface1000385
 {
 //”û
 
@@ -1421,7 +1504,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface1000286
+surface1000386
 {
 //”û
 animation10001.interval,runonce
@@ -1437,7 +1520,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface1000287
+surface1000387
 {
 //”û
 animation10001.interval,runonce
@@ -1453,7 +1536,7 @@ animation10004.interval,runonce
 animation10004.pattern0,overlay,61401,0,0,0
 }
 
-surface1000288
+surface1000388
 {
 //”û
 animation10001.interval,runonce
@@ -1470,7 +1553,15 @@ animation10004.pattern0,overlay,61401,0,0,0
 }
 
 
-surface.append1000200-1000299
+surface.append1000200-1000399
+{
+//Ô–Ê
+animation10000.interval,bind
+animation10000.pattern0,base,61409,0,0,0
+}
+
+
+surface.append1000200-1000399
 {
 //satolist.palette.offset,193,125
 //satolist.palette.expand,0.9
@@ -1537,12 +1628,29 @@ animation1005.collisionex105,g—pÏƒSƒ€,polygon,187,514,187,527,182,542,182,557,
 //Œã‚ë”¯•â•‘w
 animation2980.interval,bind
 animation2980.pattern0,base,60015,0,0,0
+
+//Š¾
+animation999900.interval,bind+runonce
+animation999900.pattern0,overlay,61410,0,0,0
+
+//“f‘§
+animation999999.interval,bind+always
+animation999999.option,shared-index
+animation999999.pattern0,overlay,61411,0,0,0
+animation999999.pattern1,overlay,61412,300,0,0
+animation999999.pattern2,overlay,61413,300,0,0
+animation999999.pattern3,overlay,61414,300,0,0
+animation999999.pattern4,overlay,61415,300,0,0
+animation999999.pattern5,overlay,61414,300,0,0
+animation999999.pattern6,overlay,61413,300,0,0
+animation999999.pattern7,overlay,61412,300,0,0
+
 }
 
 
 
 //’Êí
-surface.append1000200-1000279
+surface.append1000200-1000379
 {
 //—§‚¿ŠG
 animation100.interval,bind
@@ -1554,7 +1662,7 @@ animation102.pattern0,base,60011,0,0,0
 }
 
 //ƒSƒ€‚¿
-surface.append1000280-1000299
+surface.append1000380-1000399
 {
 //—§‚¿ŠG
 animation100.interval,bind

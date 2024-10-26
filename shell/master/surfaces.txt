@@ -26,6 +26,12 @@ element0,overlay,surface900000.png,0,0
 
 surface0010
 {
+//UI
+animation1.interval,bind+runonce
+animation1.pattern0,overlay,20000,0,0,0
+animation2.interval,bind+runonce
+animation2.pattern0,overlay,20001,0,0,0
+
 //射精ゲージ
 animation10.interval,bind+runonce
 animation10.pattern0,overlay,20100,0,0,0
@@ -121,6 +127,21 @@ animation434.interval,bind+runonce
 animation434.pattern0,overlay,20014,0,0,6
 animation435.interval,bind+runonce
 animation435.pattern0,overlay,20015,0,0,6
+
+animation436.interval,bind+runonce
+animation436.pattern0,overlay,20016,0,0,6
+animation437.interval,bind+runonce
+animation437.pattern0,overlay,20017,0,0,6
+animation438.interval,bind+runonce
+animation438.pattern0,overlay,20018,0,0,6
+animation439.interval,bind+runonce
+animation439.pattern0,overlay,20019,0,0,6
+animation440.interval,bind+runonce
+animation440.pattern0,overlay,20020,0,0,6
+animation441.interval,bind+runonce
+animation441.pattern0,overlay,20021,0,0,6
+
+
 
 //ストック
 animation540.interval,bind+runonce
