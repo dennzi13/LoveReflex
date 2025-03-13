@@ -391,6 +391,8 @@ char6.bindgroup100.default,1
 char6.bindgroup101.name,立ち絵,オフショルニット
 char6.bindgroup102.name,立ち絵,バニー
 char6.bindgroup103.name,立ち絵,スクール水着
+char6.bindgroup104.name,立ち絵,レレニーコス
+char6.bindgroup105.name,立ち絵,レレニーコス_上着無し
 
 //断面レイヤ層
 char6.bindgroup905.name,断面図,空
@@ -433,6 +435,9 @@ char6.bindgroup2990.default,1
 char6.bindgroup3020.name,帽子,白リボン
 char6.bindgroup3021.name,帽子,バニーリボン
 
+//メガネ
+char6.bindgroup30000.name,メガネ,丸眼鏡
+
 
 //<レレニー> -----------------------------------------
 //後ろ髪レイヤ層
@@ -444,6 +449,8 @@ char7.bindgroup51.name,後ろ髪,ツインテール
 char7.bindgroup100.name,立ち絵,私服セーター
 char7.bindgroup100.default,1
 char7.bindgroup101.name,立ち絵,バニー
+char7.bindgroup102.name,立ち絵,芋ジャージ
+char7.bindgroup103.name,立ち絵,芋ジャージ_前開け
 
 //断面レイヤ層
 char7.bindgroup905.name,断面図,空

@@ -1526,6 +1526,10 @@ animation100.interval,bind
 animation100.pattern0,base,80000,0,0,0
 animation101.interval,bind
 animation101.pattern0,base,80002,0,0,0
+animation102.interval,bind
+animation102.pattern0,base,80006,0,0,0
+animation103.interval,bind
+animation103.pattern0,base,80008,0,0,0
 }
 
 //ゴム持ちサーフェス・立ち絵
