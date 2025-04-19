@@ -725,7 +725,7 @@ kero.bindgroup202.default,1
 
 kero.bindgroup301.name,ŠÔ‚RƒPƒ^,‚P
 kero.bindgroup301.default,1
-
+kero.bindgroup302.name,ŠÔ‚RƒPƒ^,‚Q
 
 
 seriko.use_self_alpha,1

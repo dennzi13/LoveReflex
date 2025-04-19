@@ -208,7 +208,8 @@ animation209.pattern0,overlay,22900,0,20,0
 //ŠÔ‚RƒPƒ^
 animation301.interval,bind+runonce
 animation301.pattern0,overlay,23100,0,20,0
-
+animation302.interval,bind+runonce
+animation302.pattern0,overlay,23101,0,20,0
 
 //Base
 element0,overlay,surface20000.png,0,0
